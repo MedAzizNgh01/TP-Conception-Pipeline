@@ -1,0 +1,5267 @@
+ID_produit,Nom_produit,Quantite_vendue,Prix_unitaire,Date_vente
+1,Chemise,10.0,25.0,2022-01-05
+2,Pantalon,8.0,35.0,2022-01-06
+3,Chaussures,,50.0,2022-01-07
+4,Cravate,12.0,15.0,2022-01-08
+5,Robe,15.0,45.0,2022-01-09
+6,Pull,20.0,,2022-01-10
+7,Pantalon,8.0,35.0,2022-01-06
+8,,20.0,30.0,2022-01-11
+9,Lunettes de soleil,10.0,40.0,2022-01-12
+10,,18.0,20.0,2022-01-13
+11,Chaussures,0.0,60.0,2022-01-14
+12,Montre,25.0,55.0,2022-01-15
+13,Chemise,10.0,25.0,2022-01-05
+14,Pantalon,8.0,35.0,2022-01-06
+15,Chaussures,20.0,50.0,2022-01-07
+16,Cravate,12.0,15.0,2022-01-08
+17,Robe,15.0,45.0,2022-01-09
+18,Pull,20.0,,2022-01-10
+19,Pantalon,8.0,35.0,2022-01-06
+20,,20.0,30.0,2022-01-11
+21,Lunettes de soleil,10.0,40.0,2022-01-12
+22,,18.0,20.0,2022-01-13
+23,Chaussures,0.0,60.0,2022-01-14
+24,Montre,25.0,55.0,2022-01-15
+25,Chemise,10.0,25.0,2022-01-05
+26,Pantalon,8.0,35.0,2022-01-06
+27,Chaussures,20.0,50.0,2022-01-07
+28,Cravate,12.0,15.0,2022-01-08
+29,Robe,15.0,45.0,2022-01-09
+30,Pull,20.0,,2022-01-10
+31,Pantalon,8.0,35.0,2022-01-06
+32,,20.0,30.0,2022-01-11
+33,Lunettes de soleil,10.0,40.0,2022-01-12
+34,,18.0,20.0,2022-01-13
+35,Chaussures,0.0,60.0,2022-01-14
+36,Montre,25.0,55.0,2022-01-15
+37,Chemise,10.0,25.0,2022-01-05
+38,Pantalon,8.0,35.0,2022-01-06
+39,Chaussures,20.0,50.0,2022-01-07
+40,Cravate,12.0,15.0,2022-01-08
+41,Robe,15.0,45.0,2022-01-09
+42,Pull,20.0,,2022-01-10
+43,Pantalon,8.0,35.0,2022-01-06
+44,,20.0,30.0,2022-01-11
+45,Lunettes de soleil,10.0,40.0,2022-01-12
+46,,18.0,20.0,2022-01-13
+47,Chaussures,0.0,60.0,2022-01-14
+48,Montre,25.0,55.0,2022-01-15
+49,Chemise,10.0,25.0,2022-01-05
+50,Pantalon,8.0,35.0,2022-01-06
+51,Chaussures,20.0,50.0,2022-01-07
+52,Cravate,12.0,15.0,2022-01-08
+53,Robe,15.0,45.0,2022-01-09
+54,Pull,20.0,,2022-01-10
+55,Pantalon,8.0,35.0,2022-01-06
+56,,20.0,30.0,2022-01-11
+57,Lunettes de soleil,10.0,40.0,2022-01-12
+58,,18.0,20.0,2022-01-13
+59,Chaussures,0.0,60.0,2022-01-14
+60,Montre,25.0,55.0,2022-01-15
+61,Chemise,10.0,25.0,2022-01-05
+62,Pantalon,8.0,35.0,2022-01-06
+63,Chaussures,20.0,50.0,2022-01-07
+64,Cravate,12.0,15.0,2022-01-08
+65,Robe,15.0,45.0,2022-01-09
+66,Pull,20.0,,2022-
+82,Pantalon,,32.04,invalid_date
+14,Pantalon,12.2,12.68,2023-06-10
+65,Chemise,,,2023-12-21
+98,Chaussures,,35.01,07/09/2023
+14,Pantalon,,,2024-12-14
+94,Montre,,,invalid_date
+80,Pull,12.0,14.12,18/07/2024
+11,Cravate,,,2023-07-28
+48,Pull,,73.16,invalid_date
+82,Chaussures,11.1,,02/08/2023
+82,Cravate,14.0,30.61,18/11/2023
+52,Robe,,,31/08/2024
+83,Montre,3.7,,invalid_date
+75,Lunettes de soleil,,42.58,invalid_date
+64,Pantalon,15.4,23.76,invalid_date
+55,Pantalon,,57.62,invalid_date
+93,Pantalon,,,2023-11-09
+38,Lunettes de soleil,4.0,,invalid_date
+98,Chaussures,10.6,,invalid_date
+65,Cravate,3.9,58.54,invalid_date
+42,Montre,,,2025-02-05
+8,Cravate,17.7,,2024-11-14
+98,Chaussures,,95.22,23/12/2023
+68,Lunettes de soleil,19.3,,invalid_date
+84,Pull,,20.89,2025-01-04
+44,Chemise,12.2,62.96,2023-08-09
+91,Chemise,5.3,87.37,invalid_date
+31,Robe,13.7,,2024-02-24
+61,Lunettes de soleil,4.6,,01/09/2024
+53,Montre,17.4,70.6,2023-12-13
+52,Pull,16.2,32.38,invalid_date
+58,Chaussures,,51.64,11/07/2024
+71,Pantalon,2.0,97.21,2023-08-26
+53,Montre,,91.22,22/07/2023
+1,Lunettes de soleil,,,2024-07-23
+25,Robe,5.1,62.13,invalid_date
+41,Chemise,,55.26,2024-09-13
+66,Pantalon,17.2,63.55,26/02/2024
+16,Cravate,12.0,,invalid_date
+75,Pull,18.8,,2024-11-19
+34,Lunettes de soleil,,51.15,2023-06-26
+59,Pantalon,2.4,55.53,11/01/2025
+9,Cravate,8.0,,invalid_date
+84,Chemise,,93.86,2025-03-16
+34,Pantalon,17.9,34.51,invalid_date
+44,Cravate,,,2024-03-12
+12,Lunettes de soleil,16.8,10.32,invalid_date
+34,Chaussures,,60.48,2025-02-27
+89,Chaussures,,62.43,04/03/2024
+17,Chemise,6.9,90.9,invalid_date
+32,Pantalon,,97.65,2024-10-23
+21,Chaussures,17.7,,18/05/2025
+86,Cravate,6.1,44.43,06/10/2024
+29,Cravate,,41.47,2023-07-16
+4,Cravate,,,01/10/2023
+83,Lunettes de soleil,,94.53,08/12/2024
+23,Robe,,,25/09/2023
+78,Pantalon,8.3,,2024-05-15
+67,Cravate,7.9,,invalid_date
+41,Pantalon,,,06/11/2024
+52,Robe,11.5,,invalid_date
+96,Chaussures,,46.55,28/01/2024
+37,Cravate,,,invalid_date
+28,Montre,16.1,,invalid_date
+85,Pull,2.8,70.55,2023-11-15
+19,Chemise,,65.01,05/02/2025
+54,Cravate,,54.49,2024-01-22
+84,Chemise,18.0,80.06,2023-12-15
+90,Montre,2.0,92.57,30/04/2025
+18,Montre,,,invalid_date
+93,Lunettes de soleil,,,21/01/2024
+34,Cravate,,,invalid_date
+31,Robe,,,24/03/2024
+70,Pantalon,3.6,44.47,invalid_date
+28,Pantalon,,,2024-10-02
+27,Lunettes de soleil,8.4,,13/12/2023
+1,Pull,,,invalid_date
+96,Cravate,,49.23,31/07/2024
+44,Lunettes de soleil,,92.76,12/12/2023
+76,Chemise,,,2024-12-22
+7,Robe,8.2,,18/04/2025
+36,Lunettes de soleil,5.8,52.33,27/03/2024
+29,Pantalon,15.8,77.88,2024-02-27
+3,Chaussures,,70.25,20/06/2024
+90,Robe,15.6,64.53,2024-06-08
+40,Pantalon,,,27/06/2023
+92,Cravate,2.4,,invalid_date
+77,Pantalon,16.1,,invalid_date
+48,Pantalon,,,26/01/2025
+14,Lunettes de soleil,,,2024-10-31
+94,Robe,,,10/07/2023
+32,Pantalon,,,invalid_date
+79,Lunettes de soleil,,86.59,19/05/2024
+28,Pull,,,invalid_date
+2,Cravate,,53.97,invalid_date
+61,Montre,9.5,18.37,31/10/2024
+89,Cravate,,,18/08/2023
+96,Pull,,,2024-11-01
+16,Cravate,7.0,,25/12/2024
+93,Robe,19.6,,2023-12-15
+39,Chemise,14.5,34.69,invalid_date
+38,Chaussures,,19.23,invalid_date
+37,Montre,,26.59,21/09/2023
+62,Pantalon,,54.26,2024-05-08
+20,Robe,2.6,,invalid_date
+77,Cravate,,,12/12/2023
+76,Lunettes de soleil,6.8,64.87,2024-06-13
+81,Cravate,6.0,24.14,invalid_date
+10,Chaussures,,,12/08/2023
+5,Cravate,,,2025-03-28
+88,Cravate,18.6,48.26,invalid_date
+20,Robe,16.7,,invalid_date
+96,Robe,,,23/10/2023
+65,Montre,9.3,,invalid_date
+33,Chemise,2.7,,invalid_date
+6,Chaussures,,92.45,invalid_date
+56,Montre,,,06/07/2024
+86,Pantalon,,,22/05/2023
+85,Lunettes de soleil,16.5,,28/01/2024
+42,Pantalon,,87.84,invalid_date
+70,Montre,8.9,,invalid_date
+57,Chemise,4.9,,invalid_date
+63,Pantalon,1.5,,invalid_date
+2,Lunettes de soleil,2.8,51.53,invalid_date
+20,Montre,,,25/11/2023
+62,Montre,5.6,44.52,2025-04-02
+36,Lunettes de soleil,,,invalid_date
+39,Montre,,,02/06/2024
+71,Lunettes de soleil,,88.26,invalid_date
+50,Cravate,,,invalid_date
+49,Lunettes de soleil,19.8,54.58,2025-01-05
+65,Pull,,,2023-08-29
+93,Chaussures,8.8,,22/07/2024
+80,Lunettes de soleil,,,13/12/2023
+81,Montre,17.6,65.57,invalid_date
+88,Robe,20.0,49.06,invalid_date
+91,Pantalon,,91.31,12/05/2025
+8,Robe,,,invalid_date
+88,Chaussures,4.2,,invalid_date
+88,Cravate,10.5,,25/11/2024
+33,Chemise,,91.11,2024-01-19
+57,Pull,,,invalid_date
+33,Montre,17.1,,2024-03-07
+31,Lunettes de soleil,,,2025-04-19
+85,Lunettes de soleil,6.2,,23/08/2023
+100,Cravate,,29.71,invalid_date
+33,Chaussures,12.9,,2023-07-10
+75,Pull,14.9,,invalid_date
+54,Chaussures,,,2024-07-25
+33,Montre,,,2024-08-21
+60,Pantalon,3.7,,invalid_date
+47,Pantalon,16.0,33.8,23/09/2024
+48,Robe,,19.75,15/11/2023
+4,Pull,18.4,,invalid_date
+39,Lunettes de soleil,3.2,,19/03/2025
+15,Pantalon,5.5,,invalid_date
+96,Lunettes de soleil,12.2,89.69,22/11/2023
+79,Lunettes de soleil,,,2023-12-24
+57,Montre,,,invalid_date
+83,Pull,,27.08,01/09/2023
+12,Cravate,13.2,,2024-12-03
+17,Cravate,2.3,62.77,07/08/2024
+100,Chaussures,16.0,34.95,2024-08-11
+70,Robe,16.2,69.5,2023-11-26
+2,Pull,16.0,63.0,2024-05-23
+34,Chemise,,57.35,16/10/2023
+58,Pull,10.8,50.68,invalid_date
+6,Robe,9.7,,20/04/2024
+55,Pantalon,,16.61,15/04/2024
+78,Chaussures,,,18/05/2024
+77,Robe,,18.93,invalid_date
+84,Cravate,9.2,,26/10/2024
+54,Pantalon,,,2024-10-10
+88,Montre,2.3,18.39,invalid_date
+95,Pull,16.4,,invalid_date
+16,Lunettes de soleil,,88.13,01/02/2025
+77,Robe,7.7,,2025-03-21
+14,Pull,,,invalid_date
+29,Lunettes de soleil,17.1,,2023-10-16
+24,Robe,,,2024-05-04
+24,Chaussures,,16.26,2024-04-13
+96,Cravate,,,15/05/2024
+93,Pull,15.8,89.5,2023-12-02
+97,Chemise,,,19/07/2023
+78,Montre,8.9,77.94,07/02/2025
+56,Pantalon,,,2025-03-21
+29,Lunettes de soleil,19.7,,2024-07-22
+99,Chaussures,,39.53,09/10/2024
+96,Lunettes de soleil,,57.93,invalid_date
+72,Pull,2.4,,2023-06-02
+41,Lunettes de soleil,,,2025-05-10
+42,Chaussures,,,2025-03-11
+56,Pantalon,,,01/04/2024
+96,Pull,5.2,16.87,invalid_date
+66,Cravate,,41.6,2023-11-04
+14,Chaussures,5.9,64.22,2024-03-28
+99,Montre,,,invalid_date
+41,Chaussures,,,23/05/2023
+76,Chemise,7.7,,2024-03-20
+8,Pull,16.8,68.02,invalid_date
+77,Lunettes de soleil,9.8,50.48,09/05/2024
+78,Montre,10.5,,invalid_date
+11,Chaussures,,99.19,09/12/2024
+48,Robe,,71.1,invalid_date
+83,Pull,2.3,,30/11/2024
+33,Chaussures,7.3,,invalid_date
+90,Lunettes de soleil,3.5,,invalid_date
+43,Chaussures,13.7,,invalid_date
+47,Chemise,7.9,,13/12/2024
+25,Cravate,20.0,16.94,invalid_date
+99,Chemise,13.6,63.75,2024-12-22
+24,Chaussures,14.7,46.98,29/06/2023
+79,Robe,,31.06,26/05/2024
+61,Cravate,,,05/05/2025
+65,Lunettes de soleil,19.4,82.11,07/07/2024
+7,Montre,17.6,74.03,05/07/2023
+11,Chaussures,6.2,84.79,2024-06-19
+58,Pull,,,2025-03-13
+50,Pantalon,8.1,38.68,invalid_date
+84,Pull,16.0,,invalid_date
+18,Montre,9.5,91.53,20/11/2023
+28,Chaussures,,,2024-03-30
+39,Pantalon,,,2025-04-12
+15,Montre,12.3,66.88,invalid_date
+19,Robe,,,2024-08-25
+86,Pantalon,,16.09,24/07/2023
+61,Chemise,,32.83,13/10/2024
+9,Pull,5.6,,2024-08-17
+6,Pull,11.4,,invalid_date
+62,Chaussures,16.4,,2025-05-17
+38,Cravate,1.8,,23/10/2024
+66,Lunettes de soleil,,32.8,21/01/2024
+46,Chemise,,,14/12/2023
+52,Montre,,40.51,31/08/2023
+89,Montre,,,2024-10-24
+56,Chaussures,,,invalid_date
+38,Robe,,,12/05/2025
+58,Chemise,,,17/05/2025
+82,Chemise,,42.7,2023-07-17
+19,Montre,1.7,,15/09/2024
+50,Chemise,,,07/08/2023
+98,Pantalon,,,2023-07-17
+15,Chemise,,56.6,17/06/2024
+100,Robe,14.4,,invalid_date
+63,Cravate,3.3,,2025-05-15
+88,Pull,13.7,,14/07/2023
+21,Chaussures,16.1,20.92,2025-04-03
+31,Montre,,52.07,invalid_date
+12,Pantalon,,,invalid_date
+10,Chaussures,19.5,,2025-02-27
+100,Chaussures,15.6,48.94,2024-11-18
+67,Chaussures,6.8,39.04,06/02/2025
+67,Robe,,,2024-10-10
+81,Robe,12.7,55.23,invalid_date
+75,Chaussures,,85.83,2025-02-14
+11,Chemise,,,invalid_date
+82,Chemise,,,10/08/2023
+32,Lunettes de soleil,6.7,71.98,03/04/2025
+54,Montre,,,invalid_date
+41,Pull,19.5,78.46,12/04/2025
+31,Montre,,32.31,2023-08-13
+38,Lunettes de soleil,,32.34,19/09/2023
+74,Pull,4.6,,26/12/2023
+40,Montre,,55.49,2024-09-02
+75,Pull,,,12/02/2024
+69,Chemise,,,invalid_date
+47,Lunettes de soleil,,14.6,14/03/2025
+71,Robe,,,invalid_date
+88,Pantalon,3.4,,invalid_date
+47,Chaussures,,55.01,2025-04-24
+18,Pull,,23.4,30/06/2023
+79,Pull,,,invalid_date
+73,Robe,10.0,43.15,24/02/2025
+75,Robe,16.1,,invalid_date
+100,Cravate,,,2023-05-24
+88,Cravate,1.6,,31/08/2023
+54,Chaussures,8.8,,invalid_date
+94,Chemise,14.4,,invalid_date
+49,Pull,,,invalid_date
+46,Robe,12.6,,invalid_date
+39,Cravate,,79.41,invalid_date
+91,Montre,,,19/07/2023
+16,Lunettes de soleil,,83.65,08/11/2024
+6,Robe,19.2,,invalid_date
+33,Montre,,,2024-07-18
+14,Cravate,5.6,67.42,2025-02-28
+53,Pull,14.6,71.31,2024-08-16
+71,Chaussures,,52.97,19/04/2024
+42,Robe,13.3,68.71,invalid_date
+95,Chemise,18.4,47.61,2024-01-16
+51,Montre,,88.91,15/05/2025
+73,Pantalon,,,2025-01-29
+65,Montre,6.2,,invalid_date
+33,Chaussures,,81.17,2024-02-23
+79,Lunettes de soleil,,17.81,2024-11-01
+18,Montre,7.1,,2024-10-21
+58,Robe,,62.42,16/01/2025
+84,Pull,14.2,,07/04/2025
+21,Lunettes de soleil,,,01/04/2024
+79,Cravate,5.2,,invalid_date
+78,Pull,,78.16,2023-09-19
+88,Pantalon,,17.03,2025-05-13
+71,Cravate,11.9,,2025-03-23
+88,Cravate,,,2025-02-01
+59,Chaussures,,,invalid_date
+40,Chemise,8.5,77.12,2024-04-06
+55,Pull,14.3,94.11,14/12/2024
+5,Robe,8.8,,04/02/2024
+49,Montre,,43.81,invalid_date
+45,Pantalon,,57.6,2024-04-05
+97,Chemise,,,invalid_date
+49,Cravate,,23.96,invalid_date
+98,Pantalon,,65.34,2023-11-30
+27,Pantalon,2.9,50.18,2023-09-22
+95,Chemise,8.6,58.58,2024-11-16
+65,Robe,,,2024-03-14
+39,Chaussures,19.7,,2023-06-21
+72,Chaussures,,60.03,10/11/2023
+83,Lunettes de soleil,,,2023-10-24
+39,Lunettes de soleil,,31.69,13/05/2024
+91,Chaussures,16.3,,invalid_date
+68,Chaussures,,28.3,28/01/2025
+48,Pantalon,11.2,,invalid_date
+78,Chemise,17.6,82.42,09/06/2023
+27,Pull,6.8,29.06,invalid_date
+16,Montre,18.4,45.7,invalid_date
+42,Robe,,,invalid_date
+64,Montre,,,2023-07-14
+48,Pull,8.9,76.71,18/02/2024
+71,Lunettes de soleil,6.6,,invalid_date
+32,Montre,,,invalid_date
+83,Montre,,,2025-03-07
+70,Chemise,11.0,95.07,2024-02-03
+53,Chaussures,17.0,16.12,2023-06-12
+28,Montre,,69.34,2025-04-02
+69,Lunettes de soleil,,,2023-10-07
+65,Lunettes de soleil,16.3,19.63,invalid_date
+20,Cravate,,,27/08/2024
+11,Pull,,60.85,14/02/2024
+88,Pantalon,13.4,,21/01/2025
+71,Montre,2.1,73.26,24/04/2024
+56,Pull,11.8,90.53,2024-09-03
+28,Montre,6.2,,invalid_date
+73,Chemise,,11.41,invalid_date
+19,Lunettes de soleil,,24.62,invalid_date
+50,Pull,8.3,81.14,invalid_date
+96,Pull,,30.89,23/05/2023
+78,Lunettes de soleil,,,09/05/2025
+63,Cravate,,,2025-02-06
+99,Robe,16.2,17.38,30/11/2024
+92,Chaussures,,42.46,2025-05-21
+40,Montre,,19.2,2024-12-14
+56,Montre,,19.3,28/02/2024
+71,Pantalon,,87.73,15/07/2023
+53,Lunettes de soleil,15.8,61.48,invalid_date
+49,Chaussures,,34.16,2024-02-02
+22,Lunettes de soleil,,53.58,18/10/2024
+33,Cravate,,63.44,26/08/2023
+14,Chaussures,,,20/04/2025
+57,Pull,9.2,37.04,18/06/2024
+41,Chaussures,,,invalid_date
+32,Pull,,42.85,invalid_date
+70,Chaussures,14.0,,invalid_date
+27,Montre,16.2,,invalid_date
+64,Chaussures,13.0,32.74,invalid_date
+55,Lunettes de soleil,,,invalid_date
+5,Pull,14.3,19.84,invalid_date
+86,Pull,4.2,,23/12/2024
+56,Pantalon,,29.98,04/10/2023
+48,Lunettes de soleil,9.8,41.05,06/08/2024
+14,Robe,8.9,20.45,01/04/2024
+40,Pull,9.7,,27/02/2025
+13,Montre,,,2023-05-22
+91,Pantalon,,68.32,invalid_date
+32,Chaussures,,,2024-04-19
+52,Chaussures,,45.6,04/09/2024
+76,Lunettes de soleil,8.4,28.52,invalid_date
+14,Chaussures,8.0,,invalid_date
+63,Pull,,,27/10/2024
+59,Chaussures,,92.68,invalid_date
+18,Pull,,,invalid_date
+19,Lunettes de soleil,8.9,,2025-04-20
+63,Chaussures,,36.0,30/09/2023
+58,Chemise,17.4,53.61,26/07/2023
+72,Montre,,,25/06/2024
+22,Pantalon,11.7,,2024-10-18
+69,Robe,,,invalid_date
+66,Pantalon,,,invalid_date
+97,Chemise,,,2024-12-25
+95,Cravate,6.7,,2024-10-25
+57,Pantalon,15.7,,invalid_date
+79,Lunettes de soleil,4.2,80.64,2023-10-23
+73,Pull,11.1,,26/06/2023
+74,Robe,19.1,,2023-11-28
+36,Chaussures,14.3,,2024-09-07
+98,Lunettes de soleil,,,17/07/2023
+10,Pantalon,,,07/04/2024
+63,Pull,12.1,,invalid_date
+86,Pull,,,2024-08-11
+64,Robe,,40.4,invalid_date
+63,Pull,18.0,,2024-03-15
+16,Chaussures,9.4,,2024-03-27
+89,Chaussures,,,2023-09-13
+84,Pull,,69.81,2024-11-06
+51,Robe,14.8,48.63,invalid_date
+13,Chemise,5.1,21.94,invalid_date
+88,Montre,,,invalid_date
+17,Montre,,18.04,2025-01-15
+41,Pull,17.7,44.44,invalid_date
+87,Chaussures,2.3,64.93,12/11/2024
+45,Cravate,12.9,,2024-06-27
+12,Pantalon,3.7,,27/07/2024
+55,Pull,16.0,34.93,2023-12-01
+71,Robe,15.8,,2025-03-10
+67,Cravate,,68.16,02/09/2023
+50,Pantalon,5.6,57.55,16/05/2024
+41,Chaussures,,42.89,07/07/2024
+99,Pantalon,1.3,11.24,2024-07-29
+8,Lunettes de soleil,,,2024-01-23
+82,Chaussures,,17.11,2025-04-13
+69,Pull,8.4,,invalid_date
+31,Chemise,,20.44,13/04/2025
+86,Chaussures,3.3,73.13,17/04/2024
+45,Robe,4.2,,invalid_date
+16,Chemise,,34.48,02/05/2024
+92,Pantalon,,14.99,22/09/2023
+21,Robe,15.7,30.56,2024-12-19
+2,Cravate,,44.47,2024-05-24
+5,Lunettes de soleil,5.3,,25/12/2024
+10,Pull,3.3,26.14,04/03/2025
+9,Montre,,,2024-09-28
+48,Cravate,,76.56,15/01/2025
+48,Montre,20.0,75.92,2024-06-29
+1,Lunettes de soleil,,67.23,23/11/2023
+1,Lunettes de soleil,,19.36,27/04/2024
+63,Chemise,19.5,74.05,2023-07-21
+30,Lunettes de soleil,,51.26,invalid_date
+13,Chaussures,,16.73,06/02/2024
+85,Chaussures,,,invalid_date
+95,Pull,,31.03,2024-07-14
+100,Pantalon,4.0,,16/09/2023
+16,Pull,19.3,,14/03/2024
+16,Pantalon,,84.37,2024-11-11
+42,Chaussures,2.7,,invalid_date
+7,Robe,5.9,,08/04/2024
+72,Cravate,2.8,82.35,2024-04-02
+2,Chemise,16.8,,17/05/2024
+88,Pantalon,,92.57,2024-04-08
+9,Cravate,,82.84,26/02/2025
+16,Chemise,18.9,,invalid_date
+51,Montre,,25.55,2025-04-23
+36,Robe,9.5,13.12,invalid_date
+38,Montre,,,17/03/2025
+18,Lunettes de soleil,4.8,66.77,05/01/2025
+92,Pull,,,12/03/2024
+35,Chaussures,1.5,,2024-05-26
+61,Pull,15.6,97.66,2024-02-19
+85,Cravate,6.1,78.76,invalid_date
+50,Pull,18.8,,invalid_date
+90,Pull,18.4,,invalid_date
+73,Chaussures,11.7,,invalid_date
+40,Chaussures,10.3,15.06,2024-12-12
+68,Montre,1.0,,invalid_date
+23,Pull,2.1,62.79,2025-04-18
+68,Pull,,,invalid_date
+13,Pull,6.7,,invalid_date
+63,Pull,,30.09,13/06/2023
+40,Robe,3.4,,invalid_date
+5,Chaussures,12.4,67.57,30/10/2024
+19,Pull,15.2,,2025-01-30
+82,Pantalon,,,2024-12-04
+32,Pantalon,7.7,74.84,19/05/2024
+57,Lunettes de soleil,,,29/08/2023
+70,Lunettes de soleil,,80.99,2024-09-16
+58,Pantalon,16.2,,25/04/2025
+14,Pantalon,,24.48,invalid_date
+12,Pull,,,invalid_date
+22,Lunettes de soleil,4.0,39.8,26/07/2023
+90,Robe,,31.38,18/04/2024
+74,Montre,,10.34,25/03/2025
+85,Montre,4.8,,2024-05-14
+61,Pantalon,,,2023-06-30
+83,Lunettes de soleil,,,2024-03-11
+34,Montre,9.8,85.34,2023-11-02
+97,Pantalon,,,invalid_date
+30,Chemise,,,invalid_date
+31,Montre,,91.25,invalid_date
+74,Chaussures,,25.56,2024-12-26
+25,Chaussures,1.8,,2024-04-13
+81,Chaussures,,38.78,2025-02-28
+50,Lunettes de soleil,,56.77,invalid_date
+80,Lunettes de soleil,3.1,23.34,2024-12-23
+73,Pantalon,,,17/02/2024
+84,Montre,,,07/10/2024
+19,Lunettes de soleil,,72.15,invalid_date
+61,Robe,18.0,,22/06/2023
+36,Montre,17.3,97.52,2024-12-27
+39,Montre,,,invalid_date
+83,Pantalon,4.6,,invalid_date
+63,Pull,16.6,,2024-09-15
+100,Chemise,4.3,85.33,2023-11-23
+59,Chemise,18.4,,invalid_date
+51,Pantalon,13.9,,2023-08-18
+61,Pull,,77.41,17/05/2024
+4,Lunettes de soleil,1.9,87.14,invalid_date
+27,Robe,13.4,87.82,03/03/2024
+17,Chaussures,12.4,,invalid_date
+91,Robe,,,22/12/2024
+28,Montre,,62.6,invalid_date
+85,Pull,,36.86,16/02/2025
+9,Pull,,,invalid_date
+92,Robe,4.6,,invalid_date
+41,Chaussures,,,12/05/2025
+52,Lunettes de soleil,15.0,40.89,invalid_date
+69,Montre,,55.66,invalid_date
+72,Chaussures,,,invalid_date
+72,Chaussures,,68.9,23/10/2023
+29,Robe,,,23/08/2024
+16,Montre,2.0,52.5,invalid_date
+16,Lunettes de soleil,,14.87,2024-09-20
+26,Pull,,22.89,2023-08-09
+63,Pull,13.0,38.21,2025-01-11
+58,Robe,5.0,61.87,03/11/2024
+98,Pantalon,,,05/02/2025
+62,Lunettes de soleil,1.1,75.76,29/01/2025
+97,Cravate,1.3,66.4,2024-08-03
+89,Pull,6.9,,2023-06-22
+9,Chemise,,,18/04/2024
+88,Chaussures,,42.33,2024-10-16
+52,Chemise,5.3,29.01,invalid_date
+65,Chaussures,3.3,,invalid_date
+80,Chemise,12.3,69.58,2023-05-31
+89,Pantalon,,,18/02/2025
+90,Chaussures,4.9,37.1,invalid_date
+67,Robe,12.8,47.69,invalid_date
+93,Pantalon,6.4,54.8,13/04/2025
+67,Cravate,,36.58,invalid_date
+64,Cravate,,39.75,2024-11-21
+86,Pantalon,,23.42,invalid_date
+10,Pantalon,18.2,,30/06/2024
+60,Chemise,2.9,,17/12/2023
+87,Pull,9.1,18.55,2024-09-11
+18,Chaussures,,,invalid_date
+12,Pull,16.5,,31/05/2024
+35,Lunettes de soleil,,81.99,2024-05-17
+17,Chemise,19.6,,invalid_date
+87,Montre,,80.12,invalid_date
+94,Chaussures,,,13/03/2025
+6,Pantalon,,11.11,invalid_date
+44,Pantalon,9.2,,2025-05-16
+72,Chemise,1.2,,05/04/2025
+22,Pantalon,,,2024-05-06
+65,Cravate,,46.29,2024-12-24
+59,Montre,,,07/09/2024
+41,Pantalon,19.6,,2024-10-21
+72,Chemise,,90.11,invalid_date
+86,Montre,,84.28,12/03/2025
+43,Montre,,74.43,2024-01-29
+98,Cravate,,,invalid_date
+67,Pull,14.3,,2024-02-21
+92,Lunettes de soleil,3.0,,2023-12-08
+59,Cravate,14.6,78.14,invalid_date
+87,Pantalon,,51.16,16/11/2024
+1,Chemise,,,invalid_date
+100,Chaussures,14.1,75.74,2024-07-26
+50,Pull,,47.68,17/10/2023
+51,Pull,,82.43,25/11/2023
+78,Robe,,74.07,2024-12-01
+27,Robe,14.0,98.32,invalid_date
+70,Pull,,,invalid_date
+96,Robe,,82.75,2024-11-08
+49,Chaussures,2.0,27.99,24/11/2024
+88,Robe,3.8,,2024-06-06
+97,Chemise,,19.22,invalid_date
+83,Lunettes de soleil,,72.36,05/01/2024
+50,Lunettes de soleil,,96.92,2023-11-10
+96,Robe,,,invalid_date
+70,Cravate,15.7,36.48,invalid_date
+10,Chaussures,19.3,,03/03/2024
+72,Robe,,,invalid_date
+20,Chemise,,,13/02/2024
+74,Pull,,57.29,invalid_date
+9,Chaussures,,18.28,2024-07-22
+85,Pull,,,invalid_date
+97,Chemise,,50.11,2024-05-08
+88,Pull,8.2,,2024-01-15
+67,Pull,,,invalid_date
+25,Pull,10.8,25.07,invalid_date
+9,Cravate,13.7,,2024-01-22
+27,Lunettes de soleil,13.3,77.22,2024-12-19
+59,Pull,1.7,,invalid_date
+10,Cravate,,,17/10/2023
+41,Chemise,8.4,58.14,invalid_date
+75,Chemise,14.3,42.19,22/12/2023
+88,Robe,,,21/08/2024
+51,Chemise,10.0,,invalid_date
+38,Chaussures,,96.17,invalid_date
+72,Chaussures,3.3,,invalid_date
+71,Pantalon,,29.06,2023-10-19
+24,Cravate,,27.49,invalid_date
+73,Chemise,,68.02,11/01/2024
+86,Pantalon,5.8,,21/11/2024
+46,Chaussures,13.8,19.0,2024-07-09
+41,Montre,,72.41,invalid_date
+73,Pull,,,2023-07-03
+29,Lunettes de soleil,,,13/11/2024
+60,Montre,,53.83,2023-08-28
+83,Pantalon,17.0,90.22,26/12/2024
+94,Pantalon,14.8,86.46,invalid_date
+75,Lunettes de soleil,15.6,,invalid_date
+70,Montre,13.4,42.92,invalid_date
+94,Robe,3.5,45.71,invalid_date
+31,Chaussures,15.4,50.16,invalid_date
+73,Chaussures,,94.53,2023-10-12
+98,Montre,,43.25,invalid_date
+27,Pull,,89.34,invalid_date
+42,Pantalon,,,invalid_date
+70,Chaussures,,42.88,invalid_date
+33,Lunettes de soleil,19.5,,18/07/2023
+63,Montre,17.9,55.17,21/09/2024
+22,Cravate,,29.04,2024-11-05
+47,Pantalon,,83.01,14/09/2023
+87,Montre,10.1,,2025-02-10
+32,Chemise,3.4,22.13,invalid_date
+19,Chemise,4.2,,invalid_date
+73,Chemise,,95.25,04/01/2025
+78,Montre,17.5,,invalid_date
+19,Chaussures,,,25/01/2025
+77,Pantalon,,21.9,2024-09-13
+67,Lunettes de soleil,16.7,25.97,invalid_date
+65,Pantalon,2.8,91.18,invalid_date
+84,Lunettes de soleil,,,2025-04-26
+62,Lunettes de soleil,7.7,,20/03/2025
+99,Cravate,18.3,,19/04/2024
+25,Chemise,14.5,62.02,invalid_date
+1,Lunettes de soleil,,46.8,2024-09-15
+55,Robe,,,invalid_date
+51,Cravate,,,03/01/2025
+40,Pull,,76.22,invalid_date
+30,Montre,15.9,,13/12/2023
+71,Chemise,4.1,82.39,24/07/2023
+77,Lunettes de soleil,,29.96,invalid_date
+5,Lunettes de soleil,,,invalid_date
+77,Chemise,19.0,,2023-07-19
+26,Robe,4.7,65.37,03/04/2024
+31,Chemise,19.5,,07/11/2024
+86,Lunettes de soleil,8.7,56.6,2024-08-25
+71,Robe,,,2024-01-03
+78,Cravate,,,2023-11-17
+53,Pantalon,,40.6,invalid_date
+33,Robe,,60.69,19/03/2025
+100,Montre,14.0,,2024-05-08
+49,Cravate,13.9,,19/11/2023
+67,Chemise,,32.34,13/12/2023
+87,Pull,2.4,,2025-01-22
+74,Robe,4.5,54.91,2024-09-18
+95,Cravate,17.6,30.63,invalid_date
+46,Chaussures,15.8,,invalid_date
+1,Chemise,,,invalid_date
+36,Montre,,45.81,2024-07-17
+68,Lunettes de soleil,10.1,,invalid_date
+100,Chaussures,9.7,,14/12/2023
+89,Chemise,1.2,44.15,09/09/2023
+47,Robe,,,invalid_date
+44,Pull,,,26/01/2025
+52,Robe,9.6,98.13,2024-01-15
+93,Robe,,87.07,2024-12-23
+95,Chaussures,10.0,,2024-08-06
+81,Pull,,32.59,27/04/2024
+13,Chaussures,,52.89,20/05/2024
+96,Pull,,,13/01/2024
+3,Lunettes de soleil,3.3,61.92,29/03/2024
+46,Pull,,,2023-12-19
+49,Robe,9.8,,08/06/2024
+81,Lunettes de soleil,17.1,,2024-04-26
+41,Pull,,,21/06/2023
+57,Pull,,47.26,2025-04-11
+17,Cravate,13.6,,2024-12-12
+13,Pantalon,,59.36,02/12/2023
+68,Pantalon,3.0,,31/07/2023
+30,Cravate,,66.38,invalid_date
+22,Chemise,,,20/03/2025
+60,Robe,11.4,97.26,invalid_date
+77,Montre,,,05/01/2025
+62,Cravate,,,18/02/2025
+20,Robe,1.2,,invalid_date
+2,Montre,,,03/01/2025
+77,Cravate,,,05/10/2023
+32,Chaussures,,84.56,28/06/2024
+11,Lunettes de soleil,,,29/04/2024
+25,Pantalon,,,invalid_date
+58,Robe,,26.9,2023-10-09
+7,Chemise,4.5,35.39,invalid_date
+57,Chemise,5.4,11.33,06/06/2024
+54,Robe,,,invalid_date
+5,Pull,2.5,,2024-02-16
+70,Montre,,83.55,2024-02-04
+99,Cravate,,32.24,2024-10-23
+59,Pantalon,10.9,,23/09/2023
+21,Chemise,15.1,,2024-02-02
+47,Chemise,17.4,97.59,invalid_date
+56,Pull,,,2023-12-31
+2,Chemise,,71.96,11/02/2025
+99,Pantalon,,,invalid_date
+8,Chemise,7.8,73.12,2023-06-19
+63,Cravate,,,invalid_date
+25,Chemise,,,2023-12-04
+63,Montre,,27.08,invalid_date
+45,Pull,,88.09,2024-03-30
+68,Chaussures,,,2024-06-24
+100,Lunettes de soleil,14.9,,invalid_date
+31,Pull,,,invalid_date
+20,Robe,,19.94,2024-05-14
+17,Chaussures,17.6,19.63,2023-07-03
+5,Lunettes de soleil,,14.42,invalid_date
+92,Pantalon,1.2,69.02,29/12/2024
+82,Chemise,,83.98,invalid_date
+35,Chemise,,17.01,invalid_date
+13,Pantalon,,27.05,invalid_date
+81,Chaussures,,,invalid_date
+59,Lunettes de soleil,17.8,,invalid_date
+44,Chaussures,,,invalid_date
+42,Pull,,,invalid_date
+31,Cravate,,,24/08/2023
+51,Chemise,,63.62,22/09/2024
+1,Robe,19.7,87.01,invalid_date
+36,Chaussures,,42.01,23/11/2024
+47,Cravate,,,invalid_date
+28,Pantalon,,25.56,invalid_date
+83,Robe,,17.06,02/04/2024
+45,Lunettes de soleil,8.9,88.28,invalid_date
+84,Chemise,,14.87,30/04/2025
+70,Chaussures,7.2,,14/05/2024
+97,Pantalon,,80.77,2023-08-21
+44,Pantalon,10.0,,2025-02-26
+52,Lunettes de soleil,15.7,,invalid_date
+26,Montre,8.5,60.51,2024-11-28
+10,Robe,,71.63,2024-06-20
+86,Lunettes de soleil,,,invalid_date
+84,Chemise,15.6,,invalid_date
+19,Montre,1.9,,2024-05-22
+97,Pantalon,3.1,31.87,23/07/2024
+2,Pull,14.2,,2023-09-11
+43,Cravate,15.1,,invalid_date
+62,Chaussures,14.2,43.89,19/06/2024
+22,Chemise,,14.78,2024-12-21
+50,Robe,,87.79,23/03/2025
+84,Lunettes de soleil,,55.77,22/12/2023
+63,Pantalon,,60.46,2025-01-11
+32,Robe,,77.0,08/04/2024
+88,Pull,,,2024-02-09
+81,Robe,17.7,,2025-01-22
+20,Pull,18.0,,invalid_date
+87,Cravate,8.9,,invalid_date
+43,Montre,11.3,68.72,2024-12-05
+40,Chaussures,9.2,69.06,19/08/2024
+9,Pantalon,4.5,,15/10/2024
+53,Robe,,23.68,2024-06-05
+17,Chaussures,,64.5,invalid_date
+30,Cravate,,,2024-07-13
+65,Montre,,,04/02/2024
+61,Chaussures,4.1,12.9,03/01/2025
+53,Cravate,15.1,78.2,2024-07-17
+57,Montre,,,15/05/2025
+100,Chemise,,,invalid_date
+96,Chemise,,51.12,2023-10-15
+67,Lunettes de soleil,19.7,60.19,2023-11-23
+38,Montre,,,19/11/2023
+22,Lunettes de soleil,6.6,72.1,13/01/2025
+83,Montre,2.7,26.18,24/06/2023
+53,Pull,9.6,50.83,20/12/2024
+12,Robe,7.2,74.65,2024-05-23
+15,Montre,13.0,,invalid_date
+66,Chaussures,,13.95,16/03/2024
+73,Chaussures,4.1,26.1,26/01/2025
+40,Robe,,35.99,2025-02-17
+17,Cravate,,,09/06/2024
+70,Chemise,,,28/08/2023
+53,Montre,2.5,,invalid_date
+81,Cravate,1.9,,2024-02-03
+19,Chemise,,39.8,2023-08-07
+14,Lunettes de soleil,19.9,70.49,27/04/2024
+96,Pull,18.7,,03/07/2024
+49,Pantalon,15.4,36.35,2025-04-28
+89,Robe,,57.22,invalid_date
+8,Pantalon,11.9,,04/04/2024
+78,Pull,,,invalid_date
+94,Montre,10.4,89.53,invalid_date
+38,Cravate,1.0,51.84,invalid_date
+27,Lunettes de soleil,,41.47,2023-12-13
+82,Cravate,,,10/11/2024
+65,Pull,15.6,,07/10/2024
+93,Chemise,16.8,,invalid_date
+62,Montre,16.1,,invalid_date
+43,Montre,,93.5,invalid_date
+39,Pull,11.5,,12/03/2024
+9,Chaussures,6.3,,invalid_date
+69,Chaussures,,26.86,10/04/2025
+91,Pull,,,2024-12-31
+48,Montre,,,2025-03-29
+15,Pull,15.9,,invalid_date
+4,Montre,18.2,,invalid_date
+68,Robe,15.7,79.25,invalid_date
+87,Chaussures,4.9,51.34,2025-05-06
+40,Chemise,14.1,40.0,2023-11-14
+67,Robe,,67.5,23/04/2024
+26,Cravate,,79.55,01/01/2025
+20,Chaussures,6.2,96.25,2024-09-25
+70,Pull,,,invalid_date
+32,Chaussures,,58.65,2024-04-30
+4,Montre,18.2,19.53,2024-11-11
+55,Lunettes de soleil,,,13/06/2023
+26,Pantalon,,61.1,invalid_date
+60,Pantalon,,52.35,2025-01-29
+79,Robe,,,24/02/2024
+59,Montre,,,20/04/2024
+22,Robe,15.6,,invalid_date
+14,Pull,11.6,,06/04/2024
+76,Lunettes de soleil,5.5,,01/11/2024
+9,Pull,,,invalid_date
+44,Cravate,4.3,,2023-10-01
+76,Montre,7.2,83.98,06/09/2024
+52,Pantalon,,39.47,2025-03-28
+28,Chaussures,17.9,78.14,02/11/2024
+69,Robe,,,11/06/2024
+73,Robe,,,2025-04-30
+75,Chemise,,,2023-09-10
+48,Chemise,,,2024-05-14
+31,Lunettes de soleil,,,12/05/2024
+49,Lunettes de soleil,11.4,52.74,invalid_date
+50,Pull,17.0,35.96,2023-05-29
+2,Pantalon,13.3,,invalid_date
+56,Chaussures,,,invalid_date
+24,Montre,,44.62,2024-10-29
+55,Chemise,12.0,,18/07/2023
+70,Pull,1.6,,2024-04-29
+75,Montre,19.3,,09/01/2024
+67,Pantalon,10.9,32.07,invalid_date
+82,Robe,,58.15,02/12/2023
+59,Montre,,,08/03/2025
+22,Chemise,,,2024-01-11
+81,Montre,12.0,,invalid_date
+80,Chemise,6.4,21.41,12/08/2023
+33,Chaussures,,87.21,invalid_date
+15,Chaussures,18.3,,2024-08-08
+34,Cravate,10.2,40.86,2024-08-10
+77,Chaussures,,79.33,invalid_date
+57,Chaussures,,,2023-06-08
+7,Chaussures,,37.12,24/03/2024
+88,Lunettes de soleil,10.0,,2023-12-21
+37,Montre,,96.56,2024-08-03
+69,Pull,,,15/01/2025
+35,Robe,,,29/06/2023
+99,Cravate,15.0,56.8,04/09/2024
+71,Chemise,13.8,11.08,invalid_date
+14,Montre,,32.67,2025-02-26
+80,Pantalon,2.1,95.54,invalid_date
+16,Pantalon,17.3,43.84,2025-01-13
+90,Chaussures,,69.44,invalid_date
+59,Robe,,33.16,19/02/2024
+100,Chemise,,,27/09/2024
+23,Montre,2.3,64.93,invalid_date
+63,Pantalon,,29.65,29/10/2024
+92,Robe,3.0,,01/12/2024
+3,Montre,3.8,,15/10/2024
+20,Pull,18.2,,03/03/2025
+56,Lunettes de soleil,17.0,58.61,20/09/2024
+89,Montre,,,22/04/2025
+8,Pantalon,,,05/10/2024
+83,Cravate,4.4,97.08,16/01/2024
+90,Lunettes de soleil,,,invalid_date
+25,Chaussures,1.7,74.78,14/08/2024
+50,Pantalon,,,2024-02-29
+5,Pull,2.1,46.5,invalid_date
+86,Montre,18.9,76.69,2025-04-27
+5,Chaussures,10.3,52.41,2024-01-30
+90,Chaussures,1.3,91.42,05/10/2023
+79,Chaussures,16.9,83.6,2023-10-24
+64,Cravate,2.2,,13/07/2024
+16,Chaussures,7.1,78.78,01/03/2024
+9,Pantalon,,,invalid_date
+22,Montre,5.6,,2025-04-30
+3,Montre,2.5,26.15,invalid_date
+84,Robe,,72.31,2023-12-07
+82,Robe,,31.53,invalid_date
+89,Chemise,,65.08,invalid_date
+39,Pull,9.0,27.27,invalid_date
+47,Cravate,9.8,34.88,2024-02-09
+20,Montre,10.5,70.31,2023-08-19
+83,Pull,,,2023-07-19
+14,Chemise,18.6,24.22,13/11/2023
+66,Pantalon,2.3,,28/10/2024
+26,Pull,5.4,39.35,2024-12-04
+95,Lunettes de soleil,,90.22,08/03/2025
+75,Montre,,,2025-02-04
+50,Pull,3.6,,2024-03-01
+43,Chaussures,1.6,35.25,23/03/2024
+59,Lunettes de soleil,,,invalid_date
+21,Chaussures,12.0,,2024-07-11
+76,Montre,,,invalid_date
+32,Cravate,7.2,90.26,invalid_date
+1,Lunettes de soleil,19.6,99.21,11/12/2023
+68,Lunettes de soleil,10.1,50.72,2024-08-18
+72,Chemise,,95.49,28/09/2024
+38,Cravate,13.3,,2025-05-21
+91,Montre,17.3,,2023-08-14
+91,Lunettes de soleil,,66.41,invalid_date
+10,Lunettes de soleil,,,14/09/2024
+97,Robe,14.3,80.89,invalid_date
+43,Chemise,,89.92,01/05/2025
+47,Montre,,42.98,invalid_date
+91,Cravate,,31.48,invalid_date
+62,Cravate,15.3,,invalid_date
+88,Lunettes de soleil,6.3,,27/04/2025
+65,Pantalon,,,invalid_date
+89,Pantalon,,,2024-10-07
+37,Pantalon,,20.08,07/09/2023
+20,Cravate,10.9,36.39,19/06/2023
+45,Lunettes de soleil,9.4,36.24,2024-01-13
+30,Pull,,,05/08/2023
+76,Montre,9.7,,2023-11-20
+34,Cravate,,79.28,2024-07-12
+46,Robe,9.7,65.68,invalid_date
+69,Robe,4.5,85.54,2024-03-05
+31,Pantalon,,,12/11/2024
+48,Chaussures,4.9,,2024-07-14
+48,Montre,11.3,58.03,2024-08-20
+52,Montre,,93.5,2024-12-06
+95,Pull,,,invalid_date
+86,Chaussures,,40.48,invalid_date
+62,Chemise,3.6,,invalid_date
+29,Montre,,14.95,invalid_date
+68,Cravate,,27.61,invalid_date
+58,Pantalon,,,invalid_date
+78,Chemise,,,06/11/2023
+50,Pull,,,invalid_date
+12,Cravate,,,16/03/2025
+37,Chaussures,,,2024-02-27
+76,Pantalon,,,2024-11-04
+76,Lunettes de soleil,,,21/04/2025
+23,Montre,14.5,,24/02/2024
+71,Montre,,,26/03/2024
+72,Montre,5.3,,invalid_date
+82,Montre,,,invalid_date
+83,Cravate,,54.37,invalid_date
+96,Pull,,,invalid_date
+16,Pull,10.7,86.08,invalid_date
+8,Chaussures,7.1,42.16,27/08/2024
+47,Lunettes de soleil,,,invalid_date
+82,Pantalon,10.8,78.82,invalid_date
+42,Pull,,,2023-11-27
+69,Pull,16.6,,02/08/2024
+100,Montre,8.8,19.22,invalid_date
+29,Cravate,16.1,47.56,2025-02-24
+17,Chemise,,72.19,29/10/2023
+77,Pull,,12.59,2024-08-19
+17,Chaussures,,21.28,2025-02-11
+55,Pantalon,,78.16,2023-11-18
+14,Chemise,16.1,,2025-01-12
+9,Robe,13.7,80.41,invalid_date
+26,Chaussures,13.7,,invalid_date
+45,Pull,4.1,55.44,2023-12-23
+75,Chemise,11.0,96.78,invalid_date
+1,Pantalon,,42.98,02/12/2023
+87,Pantalon,,,2025-01-31
+66,Cravate,,21.13,invalid_date
+18,Montre,,60.14,2025-03-24
+42,Montre,,,invalid_date
+57,Cravate,,,2024-02-24
+9,Montre,,,invalid_date
+14,Lunettes de soleil,9.3,,28/01/2024
+89,Pantalon,15.1,15.82,04/10/2023
+26,Lunettes de soleil,,,invalid_date
+99,Robe,,,18/12/2024
+66,Robe,,,03/07/2024
+64,Cravate,12.9,12.68,2023-08-18
+64,Chemise,,,2023-07-10
+39,Pantalon,,81.35,15/01/2025
+85,Montre,,58.82,2024-02-27
+56,Pantalon,,,14/08/2023
+5,Chemise,,89.62,16/06/2024
+56,Chaussures,,53.87,invalid_date
+87,Montre,,52.83,invalid_date
+8,Lunettes de soleil,,,26/04/2025
+42,Chemise,1.5,,14/10/2024
+95,Chemise,,,11/01/2024
+46,Lunettes de soleil,7.7,,invalid_date
+11,Pantalon,17.5,40.38,invalid_date
+42,Chemise,,,10/03/2025
+3,Montre,,,17/04/2024
+74,Pantalon,16.4,72.18,13/08/2023
+64,Pull,,,2024-06-05
+64,Pantalon,17.0,35.86,30/04/2024
+74,Lunettes de soleil,16.3,74.59,invalid_date
+44,Robe,,,2023-07-23
+84,Robe,,,2024-09-05
+54,Lunettes de soleil,,70.44,2023-07-12
+81,Chaussures,12.0,,17/09/2024
+82,Lunettes de soleil,18.8,,18/08/2024
+19,Cravate,,,25/11/2024
+9,Cravate,,84.13,12/03/2024
+88,Cravate,8.7,23.5,2024-08-28
+40,Montre,,47.98,2024-01-06
+21,Robe,,,invalid_date
+71,Chaussures,13.2,,2024-04-20
+8,Pantalon,,,17/11/2024
+86,Pantalon,8.5,31.24,invalid_date
+86,Robe,10.4,31.43,08/10/2024
+43,Lunettes de soleil,16.3,94.2,2025-04-02
+14,Chaussures,,,invalid_date
+8,Montre,11.1,,05/11/2023
+88,Cravate,19.3,,06/05/2024
+3,Chemise,17.0,72.16,15/11/2023
+71,Lunettes de soleil,,91.28,invalid_date
+31,Montre,,,08/05/2024
+12,Cravate,6.7,,invalid_date
+53,Chemise,6.2,,03/08/2023
+95,Lunettes de soleil,,74.56,2024-01-19
+90,Robe,,,19/10/2024
+89,Chemise,15.5,66.71,2023-12-05
+52,Cravate,,61.82,2023-09-17
+32,Chaussures,,,24/05/2024
+62,Chaussures,,81.96,2023-07-13
+54,Pull,,95.03,2025-02-26
+3,Cravate,,27.84,2023-08-02
+52,Lunettes de soleil,12.4,,2023-08-05
+73,Pantalon,,,invalid_date
+64,Pantalon,5.3,,31/08/2023
+96,Montre,,87.07,07/07/2023
+94,Cravate,,81.32,31/07/2024
+34,Cravate,12.7,,2024-07-31
+2,Montre,,,invalid_date
+28,Lunettes de soleil,,16.58,2024-04-05
+43,Cravate,,99.71,2025-03-30
+33,Lunettes de soleil,,70.41,invalid_date
+6,Chaussures,,,2024-04-14
+12,Pull,,22.76,02/12/2024
+6,Chaussures,,,31/12/2023
+34,Robe,,,invalid_date
+63,Chaussures,,14.79,2024-02-19
+30,Chaussures,,,19/06/2024
+15,Montre,,,19/09/2023
+64,Pantalon,17.1,21.13,2024-10-13
+37,Chaussures,,60.69,invalid_date
+1,Chaussures,8.9,,invalid_date
+13,Pull,1.5,45.48,27/07/2024
+20,Chemise,,,invalid_date
+85,Chemise,7.3,,24/12/2023
+94,Chaussures,5.0,,13/11/2023
+8,Pantalon,,,2025-02-06
+31,Lunettes de soleil,2.7,,30/07/2024
+83,Chaussures,,,invalid_date
+78,Chaussures,7.8,84.88,09/09/2024
+58,Lunettes de soleil,,,02/10/2024
+79,Chaussures,,,11/06/2023
+87,Cravate,13.3,93.76,12/05/2025
+60,Lunettes de soleil,,37.04,invalid_date
+39,Cravate,,61.17,2024-11-10
+66,Pantalon,,,09/10/2023
+33,Pantalon,15.6,,2023-12-20
+24,Lunettes de soleil,,,16/01/2024
+76,Montre,,,09/02/2024
+24,Cravate,,88.45,26/05/2023
+69,Chemise,1.1,,27/03/2025
+89,Lunettes de soleil,,,invalid_date
+87,Lunettes de soleil,16.3,21.26,2024-10-13
+15,Chemise,14.2,87.31,09/09/2023
+84,Chaussures,,85.79,2024-12-17
+39,Montre,,11.96,2023-06-14
+95,Montre,,,invalid_date
+32,Cravate,,14.58,2023-11-05
+81,Lunettes de soleil,,,2024-04-12
+63,Lunettes de soleil,,30.87,invalid_date
+3,Lunettes de soleil,12.0,,19/01/2024
+15,Montre,,,2024-12-02
+21,Robe,,40.95,invalid_date
+29,Pull,,,invalid_date
+92,Lunettes de soleil,,81.64,invalid_date
+27,Robe,14.1,70.04,2023-09-19
+26,Chaussures,12.5,,12/09/2024
+31,Cravate,11.6,,26/10/2024
+87,Chaussures,4.3,,19/12/2023
+15,Cravate,3.3,,17/10/2024
+99,Chemise,,90.67,invalid_date
+7,Montre,16.2,97.72,invalid_date
+6,Pantalon,4.2,,2024-04-07
+94,Robe,,75.93,2023-11-05
+83,Pull,7.4,21.07,18/08/2023
+54,Chemise,,40.72,2024-02-14
+35,Pull,,42.46,2023-08-16
+97,Lunettes de soleil,16.0,,29/10/2024
+59,Pull,,23.1,invalid_date
+67,Pantalon,,46.15,21/10/2024
+8,Lunettes de soleil,15.4,91.23,invalid_date
+92,Robe,,,24/03/2024
+2,Robe,18.1,,invalid_date
+27,Montre,,,2023-05-27
+5,Pull,8.4,,2024-01-11
+12,Robe,10.9,,2025-01-07
+100,Robe,14.8,,06/12/2023
+81,Pull,3.4,50.39,31/01/2024
+44,Cravate,16.3,,invalid_date
+92,Chaussures,14.6,19.47,22/12/2024
+59,Pantalon,,84.56,2024-04-20
+8,Lunettes de soleil,,29.33,12/03/2024
+87,Lunettes de soleil,,,invalid_date
+55,Montre,,,2023-11-16
+19,Chaussures,,21.64,invalid_date
+28,Montre,10.0,,2024-10-21
+78,Lunettes de soleil,,61.46,invalid_date
+20,Pantalon,,,2024-03-25
+19,Chaussures,,,23/06/2023
+28,Chaussures,,,2024-04-24
+6,Lunettes de soleil,,,06/05/2025
+61,Chaussures,,,2023-07-21
+94,Pull,,,11/08/2024
+70,Chemise,,76.23,2024-04-19
+91,Chemise,,60.49,invalid_date
+72,Pantalon,4.7,96.16,10/04/2024
+65,Chemise,3.3,,2024-01-01
+32,Montre,,46.16,07/06/2023
+3,Pull,,,02/10/2023
+33,Pantalon,3.2,,2025-02-02
+24,Robe,15.6,,invalid_date
+22,Chemise,,26.33,05/05/2025
+50,Pantalon,,,29/07/2023
+16,Chemise,4.8,,2024-04-25
+35,Chemise,,15.89,26/11/2023
+82,Cravate,18.4,34.22,2024-04-24
+98,Chaussures,,50.14,2024-03-28
+48,Chaussures,,,2023-07-22
+1,Montre,,68.78,2025-03-28
+8,Montre,,,09/02/2024
+81,Cravate,,14.09,04/02/2024
+12,Lunettes de soleil,14.3,,29/09/2023
+27,Pull,,,21/06/2024
+32,Pull,,,2024-09-24
+89,Chaussures,13.3,64.79,2024-07-07
+87,Chaussures,,78.62,invalid_date
+84,Pantalon,,,17/02/2024
+77,Pull,8.3,,2024-02-18
+57,Chemise,5.2,,2025-02-16
+12,Robe,16.4,,13/09/2023
+5,Robe,10.4,,2023-11-21
+36,Montre,4.2,69.39,2023-09-12
+76,Chaussures,15.2,33.37,invalid_date
+94,Robe,4.6,,invalid_date
+72,Montre,,67.69,31/12/2024
+56,Lunettes de soleil,,54.6,invalid_date
+29,Chemise,,,2023-10-06
+51,Cravate,7.4,99.12,invalid_date
+55,Pantalon,18.4,,2024-05-16
+81,Pantalon,,,01/01/2025
+32,Pantalon,,,invalid_date
+31,Pantalon,,,invalid_date
+16,Pantalon,19.5,43.97,2025-04-06
+8,Montre,,15.92,invalid_date
+7,Robe,,,2024-09-18
+77,Chemise,,81.56,20/09/2024
+84,Chemise,,62.9,2024-01-22
+2,Pantalon,12.3,91.39,invalid_date
+66,Robe,,,2024-05-20
+32,Chaussures,16.1,,invalid_date
+84,Pull,6.9,,invalid_date
+44,Robe,8.0,56.59,2024-08-23
+31,Chemise,9.0,97.89,2024-02-19
+44,Cravate,,,invalid_date
+73,Pull,,39.58,07/05/2024
+6,Montre,5.2,67.49,05/07/2023
+80,Cravate,,,2024-03-03
+52,Chaussures,16.7,42.65,20/07/2023
+4,Pantalon,,,2024-10-03
+4,Cravate,4.8,,invalid_date
+23,Pull,17.1,26.07,2024-09-10
+34,Pantalon,1.4,44.1,15/03/2024
+27,Robe,,82.85,invalid_date
+80,Lunettes de soleil,17.7,20.66,2024-07-25
+25,Lunettes de soleil,,63.96,2024-12-15
+98,Cravate,,,2023-06-22
+7,Robe,,28.83,09/02/2025
+85,Pantalon,,,09/10/2024
+67,Montre,,,invalid_date
+64,Montre,,67.43,2024-09-02
+29,Cravate,9.6,,16/09/2023
+49,Chaussures,,32.91,2023-07-09
+97,Pantalon,,30.72,09/02/2025
+66,Pull,,,02/03/2025
+41,Robe,8.3,,invalid_date
+10,Pull,,85.83,16/06/2024
+30,Pantalon,,13.45,03/10/2023
+26,Pull,,27.16,invalid_date
+95,Robe,,,26/04/2024
+52,Chemise,10.0,87.89,2024-04-27
+93,Cravate,,,06/09/2024
+11,Pull,,,2023-09-22
+57,Montre,17.2,43.72,03/05/2025
+95,Chemise,,,17/03/2024
+88,Lunettes de soleil,,39.35,invalid_date
+5,Chaussures,,,30/10/2024
+27,Lunettes de soleil,,26.95,01/07/2023
+73,Montre,,18.39,invalid_date
+71,Chaussures,,12.42,2024-10-05
+50,Robe,,69.36,02/02/2024
+8,Pull,10.9,,28/07/2024
+21,Pantalon,,53.04,17/03/2024
+27,Chaussures,,,2023-12-28
+78,Robe,,34.79,2024-12-04
+58,Pantalon,16.7,,24/04/2025
+60,Chemise,,,30/03/2025
+90,Robe,8.4,47.35,invalid_date
+94,Lunettes de soleil,9.7,72.87,16/08/2024
+90,Chemise,5.6,,invalid_date
+9,Cravate,,99.32,17/02/2024
+10,Pantalon,,46.91,12/10/2024
+27,Chemise,9.8,,17/10/2024
+44,Lunettes de soleil,,,2024-03-21
+91,Chaussures,,53.63,2024-08-26
+71,Cravate,,,2025-05-19
+22,Chemise,12.5,,2024-01-17
+10,Chemise,13.9,49.66,2024-03-09
+92,Chemise,18.0,49.79,invalid_date
+67,Pantalon,,49.96,2025-02-11
+99,Lunettes de soleil,15.6,43.72,2024-10-23
+12,Chemise,9.0,40.34,invalid_date
+86,Pantalon,5.2,81.72,invalid_date
+22,Chemise,8.9,,invalid_date
+81,Cravate,,94.5,2024-10-04
+28,Pantalon,7.8,,2024-04-14
+50,Cravate,9.7,,invalid_date
+80,Pull,1.8,,2024-02-27
+92,Chaussures,5.8,,invalid_date
+99,Chaussures,,,2024-02-11
+43,Chemise,,44.41,invalid_date
+76,Chemise,5.4,,2023-11-13
+80,Pantalon,,54.89,2023-09-19
+49,Cravate,13.2,,invalid_date
+43,Chaussures,6.3,,invalid_date
+37,Chemise,,40.85,invalid_date
+7,Cravate,16.2,,invalid_date
+42,Chaussures,9.4,,2024-12-15
+25,Chemise,13.1,94.44,2024-07-03
+23,Cravate,5.5,,07/02/2024
+22,Cravate,5.7,,06/01/2025
+74,Montre,19.4,,2024-09-13
+47,Lunettes de soleil,,,2024-08-27
+62,Chemise,,,invalid_date
+69,Chaussures,11.5,,25/02/2025
+59,Robe,,16.47,invalid_date
+61,Cravate,3.9,,08/02/2025
+52,Lunettes de soleil,,,invalid_date
+76,Pantalon,8.8,99.32,25/04/2024
+73,Chaussures,,,invalid_date
+91,Montre,,,28/10/2024
+95,Cravate,5.6,,invalid_date
+91,Chemise,14.3,,invalid_date
+19,Robe,5.7,11.11,invalid_date
+92,Lunettes de soleil,8.6,56.67,19/01/2025
+22,Lunettes de soleil,,,invalid_date
+40,Lunettes de soleil,15.3,,2024-07-09
+35,Cravate,,72.91,2024-01-17
+63,Chemise,,,invalid_date
+56,Chaussures,4.4,73.36,28/02/2025
+24,Pantalon,9.6,26.71,invalid_date
+24,Cravate,,49.67,invalid_date
+22,Pantalon,,21.22,14/05/2024
+4,Cravate,10.1,,2025-01-08
+86,Chemise,2.8,,13/03/2024
+61,Pull,,,04/07/2024
+31,Pull,,,24/09/2023
+13,Chemise,,75.27,2025-02-14
+78,Pantalon,,95.6,02/09/2024
+58,Montre,10.8,,2023-09-06
+82,Pull,,71.01,invalid_date
+63,Lunettes de soleil,15.0,,invalid_date
+90,Pantalon,,64.65,invalid_date
+74,Chemise,3.4,,2024-07-25
+58,Pantalon,10.2,31.9,invalid_date
+90,Pantalon,3.0,,25/06/2024
+99,Robe,,69.93,invalid_date
+18,Montre,,88.47,invalid_date
+44,Lunettes de soleil,,,2025-01-03
+29,Robe,3.2,,invalid_date
+76,Cravate,15.1,61.56,23/06/2024
+49,Chemise,6.9,,25/02/2025
+99,Pull,16.2,56.78,2024-04-25
+51,Chemise,,,2025-04-28
+64,Montre,,23.13,invalid_date
+41,Robe,10.5,,invalid_date
+28,Montre,,,2025-05-13
+92,Cravate,17.1,73.04,2024-04-08
+63,Lunettes de soleil,6.7,,14/06/2024
+55,Montre,,,21/11/2023
+90,Cravate,,,invalid_date
+7,Robe,9.7,,invalid_date
+62,Robe,18.0,29.63,invalid_date
+84,Chemise,7.9,71.05,06/08/2023
+55,Chaussures,18.6,,2025-03-03
+7,Pantalon,,63.41,invalid_date
+93,Lunettes de soleil,5.7,,12/09/2023
+89,Chaussures,,79.83,20/06/2023
+84,Lunettes de soleil,,43.06,2023-12-30
+11,Pantalon,10.3,,22/05/2024
+89,Pantalon,16.1,,25/02/2025
+74,Chaussures,2.9,74.24,31/12/2024
+90,Chemise,,15.75,2024-11-20
+85,Pantalon,4.4,,10/09/2024
+16,Chemise,3.4,68.74,invalid_date
+33,Chemise,2.6,,invalid_date
+22,Lunettes de soleil,19.6,32.35,invalid_date
+38,Montre,,,invalid_date
+69,Cravate,14.1,31.34,2024-07-21
+39,Cravate,19.2,,2024-12-06
+94,Lunettes de soleil,,33.46,14/04/2024
+59,Pantalon,,94.62,invalid_date
+27,Pantalon,,99.58,invalid_date
+48,Chaussures,9.0,,24/08/2023
+4,Cravate,2.5,,2023-06-28
+43,Pantalon,,80.03,2024-04-12
+36,Chemise,2.9,44.08,2025-01-27
+23,Robe,,,invalid_date
+74,Robe,11.5,90.69,01/03/2025
+97,Lunettes de soleil,,52.92,13/06/2024
+2,Chaussures,13.5,,2024-08-27
+93,Pull,14.4,,invalid_date
+59,Chaussures,,,10/08/2024
+55,Cravate,6.8,,30/11/2024
+12,Pantalon,2.5,95.04,invalid_date
+8,Pantalon,,82.75,23/05/2023
+87,Chaussures,10.1,46.49,invalid_date
+1,Lunettes de soleil,,31.98,invalid_date
+58,Chaussures,13.8,,2024-04-09
+66,Pull,,54.6,22/10/2024
+15,Pull,18.4,84.86,01/07/2024
+39,Montre,6.6,,2024-02-26
+40,Chemise,,15.17,invalid_date
+59,Pull,6.7,10.46,21/01/2025
+46,Chemise,,27.78,25/07/2024
+16,Montre,,,20/03/2024
+39,Pull,9.1,,2025-03-30
+57,Montre,,77.24,26/09/2024
+91,Cravate,,,06/03/2024
+96,Pull,18.1,,invalid_date
+35,Pantalon,,81.98,23/02/2024
+97,Lunettes de soleil,,21.83,2025-01-23
+17,Chaussures,7.5,79.06,2024-02-13
+87,Pull,9.2,,13/10/2024
+63,Pantalon,15.5,65.59,2024-09-20
+36,Pantalon,17.4,,2025-01-10
+61,Pantalon,14.3,26.98,2024-12-13
+16,Chaussures,,99.14,02/09/2023
+3,Cravate,2.7,,invalid_date
+82,Cravate,,,invalid_date
+7,Robe,,,invalid_date
+54,Cravate,7.1,26.36,2023-10-04
+85,Pull,,35.21,03/11/2024
+24,Robe,,40.09,2024-05-16
+86,Chemise,14.0,,invalid_date
+100,Pull,,,2023-10-10
+14,Chaussures,13.0,13.69,2023-09-03
+91,Montre,18.6,,13/01/2025
+93,Montre,19.8,58.02,2024-05-11
+17,Cravate,,,25/10/2023
+58,Pantalon,18.3,53.45,2023-06-25
+77,Robe,14.2,36.07,invalid_date
+25,Lunettes de soleil,10.4,,invalid_date
+100,Lunettes de soleil,,28.62,2025-05-15
+74,Cravate,12.3,,invalid_date
+91,Robe,6.8,,invalid_date
+16,Chaussures,5.3,36.27,04/12/2023
+18,Robe,17.6,67.82,2023-06-19
+69,Pantalon,,,17/10/2023
+11,Robe,,,23/02/2024
+8,Chemise,16.7,,2025-03-21
+33,Chemise,11.2,,invalid_date
+33,Cravate,16.5,39.18,invalid_date
+81,Lunettes de soleil,4.0,,26/08/2023
+19,Montre,2.8,51.35,2025-01-31
+73,Montre,18.9,68.28,11/04/2025
+21,Chaussures,16.5,16.25,19/12/2024
+32,Montre,,19.02,invalid_date
+97,Chemise,,44.56,2024-03-17
+98,Chemise,3.5,34.09,2023-10-14
+14,Pull,17.2,,invalid_date
+57,Chaussures,,23.91,invalid_date
+89,Robe,12.9,11.91,2025-01-30
+70,Robe,,22.77,2023-12-15
+30,Lunettes de soleil,,68.98,invalid_date
+50,Pantalon,10.3,,22/07/2023
+10,Pull,3.2,90.6,2024-04-20
+55,Pull,,,invalid_date
+37,Pull,,,05/01/2024
+92,Pantalon,16.0,80.0,09/08/2023
+19,Lunettes de soleil,,83.32,invalid_date
+55,Robe,,99.53,06/01/2024
+46,Pull,,,invalid_date
+82,Pull,3.6,,invalid_date
+69,Montre,11.1,,invalid_date
+74,Cravate,14.4,42.55,2024-11-07
+47,Montre,19.2,,03/05/2024
+100,Chaussures,6.6,,2023-06-23
+27,Cravate,2.1,20.55,29/04/2025
+94,Chemise,,43.45,invalid_date
+75,Pantalon,10.1,,2024-04-23
+11,Cravate,,23.47,25/01/2025
+96,Chaussures,,,19/07/2023
+83,Chemise,6.4,15.4,invalid_date
+97,Chaussures,10.6,,invalid_date
+59,Robe,,,2024-06-23
+35,Pantalon,10.9,,invalid_date
+8,Cravate,8.5,,15/06/2023
+41,Lunettes de soleil,16.7,,invalid_date
+55,Cravate,6.1,,2024-09-04
+31,Robe,4.1,15.88,26/04/2024
+25,Cravate,13.1,31.63,invalid_date
+73,Chemise,,,2023-07-13
+40,Chemise,,96.29,04/10/2024
+97,Lunettes de soleil,14.8,73.24,27/02/2024
+53,Pantalon,10.5,,04/08/2024
+76,Chemise,6.5,71.41,invalid_date
+12,Cravate,17.8,79.19,invalid_date
+67,Pull,9.5,,invalid_date
+56,Chemise,,31.52,2024-03-05
+73,Montre,2.9,,invalid_date
+12,Montre,,,2024-08-09
+9,Robe,,18.03,invalid_date
+99,Montre,,,invalid_date
+18,Pantalon,,,24/12/2023
+53,Chaussures,,,invalid_date
+58,Robe,17.7,65.86,invalid_date
+32,Chemise,3.9,36.16,invalid_date
+52,Pantalon,,,17/03/2024
+60,Montre,3.1,,31/07/2024
+26,Lunettes de soleil,,,2023-08-21
+90,Montre,,13.45,10/12/2023
+19,Cravate,7.1,,2024-11-18
+47,Lunettes de soleil,19.6,14.87,invalid_date
+55,Robe,5.8,17.52,11/11/2024
+52,Pantalon,,88.42,invalid_date
+34,Chaussures,16.8,,25/08/2023
+97,Robe,,,14/03/2025
+69,Chaussures,,,2023-07-18
+72,Cravate,2.5,,2023-10-03
+20,Montre,,87.79,invalid_date
+53,Robe,10.9,98.94,invalid_date
+58,Pantalon,1.7,47.82,invalid_date
+49,Cravate,7.6,97.46,21/10/2024
+47,Chemise,,55.19,invalid_date
+64,Montre,,,invalid_date
+98,Pull,3.2,,2024-07-16
+71,Chaussures,,,invalid_date
+37,Pantalon,19.9,18.07,invalid_date
+53,Pantalon,10.4,67.02,invalid_date
+38,Lunettes de soleil,,59.64,2025-05-11
+61,Pantalon,,,2024-09-28
+48,Cravate,,,26/02/2024
+54,Cravate,,12.94,2024-06-20
+48,Pull,,,2023-08-24
+79,Lunettes de soleil,,,invalid_date
+23,Lunettes de soleil,18.2,49.37,invalid_date
+17,Pantalon,,,invalid_date
+21,Pull,4.9,12.31,invalid_date
+99,Chaussures,1.5,61.46,invalid_date
+94,Chaussures,,26.79,04/02/2025
+25,Cravate,,79.34,30/08/2023
+11,Chaussures,12.9,19.98,2024-09-08
+19,Robe,6.0,,12/07/2023
+27,Lunettes de soleil,2.9,,invalid_date
+10,Cravate,,,2024-11-28
+24,Robe,1.2,69.37,2024-05-27
+44,Pull,10.2,,2024-04-05
+25,Chemise,11.2,,2024-04-04
+28,Chemise,7.2,17.51,18/07/2023
+36,Montre,4.8,,23/01/2024
+96,Montre,,,2024-10-01
+26,Robe,19.3,,2024-05-05
+27,Montre,,,26/06/2024
+80,Pantalon,,,29/08/2023
+81,Pantalon,9.5,,invalid_date
+53,Robe,,45.85,2025-01-17
+42,Lunettes de soleil,,32.08,invalid_date
+48,Pull,,,invalid_date
+2,Pull,,90.89,22/04/2024
+37,Cravate,11.0,60.49,invalid_date
+83,Lunettes de soleil,,,2025-03-26
+26,Chemise,,,26/08/2023
+16,Pantalon,,63.21,invalid_date
+3,Robe,1.3,,2024-01-13
+52,Chemise,18.0,40.37,2023-09-24
+61,Pantalon,,,22/11/2024
+97,Pull,,54.44,14/02/2024
+39,Montre,10.4,85.88,2025-05-21
+29,Chemise,16.7,,invalid_date
+93,Lunettes de soleil,5.3,,invalid_date
+1,Chemise,5.9,,2023-12-02
+34,Pull,,34.29,2024-09-26
+75,Montre,,,invalid_date
+58,Pantalon,10.9,,12/01/2024
+42,Montre,,78.96,09/07/2024
+72,Cravate,13.5,72.55,15/06/2024
+8,Cravate,1.2,,2024-09-30
+63,Pantalon,,,invalid_date
+59,Chaussures,17.1,92.27,01/10/2023
+50,Montre,17.5,80.2,2024-10-14
+36,Lunettes de soleil,,95.63,2024-12-01
+60,Pantalon,15.2,,2024-09-03
+35,Chemise,,41.68,invalid_date
+11,Pull,9.2,,invalid_date
+43,Chemise,,,invalid_date
+55,Cravate,,,invalid_date
+78,Montre,10.9,71.3,2023-06-26
+29,Pantalon,2.0,61.77,2025-01-09
+69,Pantalon,,45.27,2023-12-13
+94,Robe,10.4,,invalid_date
+37,Robe,14.9,,invalid_date
+40,Cravate,4.2,,29/09/2024
+19,Chemise,,40.06,11/06/2024
+10,Chaussures,13.9,,invalid_date
+1,Montre,,19.84,invalid_date
+88,Robe,16.9,77.95,2024-10-01
+39,Pull,,,invalid_date
+63,Robe,7.9,,invalid_date
+43,Montre,3.1,,2024-11-04
+85,Chaussures,7.8,,08/05/2024
+27,Pantalon,,,invalid_date
+87,Montre,19.8,,21/09/2023
+51,Lunettes de soleil,,37.84,invalid_date
+67,Pull,16.8,,invalid_date
+45,Robe,3.1,54.9,10/02/2024
+88,Chaussures,,66.14,10/09/2023
+63,Robe,,11.4,2024-01-19
+37,Pantalon,,,invalid_date
+1,Chemise,,89.08,2024-12-12
+92,Robe,3.7,48.88,26/03/2024
+29,Chemise,,,01/01/2025
+52,Pantalon,,63.73,invalid_date
+56,Pull,16.3,71.5,12/08/2023
+18,Lunettes de soleil,,,invalid_date
+81,Montre,,,2024-05-18
+18,Montre,,,05/05/2024
+54,Lunettes de soleil,9.8,,2023-11-30
+97,Chaussures,,,2023-08-05
+80,Robe,,21.33,15/03/2024
+98,Montre,16.9,14.92,10/09/2024
+77,Pantalon,,72.15,2024-04-10
+95,Chemise,14.3,,2025-03-24
+29,Chaussures,,74.72,11/02/2025
+80,Cravate,3.2,23.77,invalid_date
+13,Cravate,,,02/12/2024
+8,Pantalon,,98.44,invalid_date
+34,Montre,17.3,48.91,2025-01-03
+19,Cravate,4.2,,24/06/2024
+86,Pantalon,,,12/06/2024
+50,Pantalon,,,16/01/2024
+16,Lunettes de soleil,,,2024-06-11
+46,Chaussures,,34.92,22/03/2024
+65,Cravate,,56.17,invalid_date
+20,Pull,,51.35,05/11/2023
+98,Robe,18.5,,20/02/2024
+61,Chaussures,,,invalid_date
+75,Pull,,16.08,invalid_date
+21,Cravate,2.8,,06/04/2025
+98,Cravate,19.6,19.49,invalid_date
+50,Lunettes de soleil,18.5,65.07,2024-10-25
+96,Pantalon,,64.59,2023-12-29
+42,Pantalon,,21.99,2023-05-28
+33,Montre,,30.29,20/04/2024
+68,Cravate,2.6,66.62,2023-09-03
+5,Chaussures,,79.69,07/12/2024
+24,Montre,4.6,,invalid_date
+46,Pull,12.8,,01/03/2024
+81,Lunettes de soleil,17.6,,2023-06-26
+16,Montre,,,06/08/2024
+50,Pull,2.3,97.13,invalid_date
+74,Cravate,,45.93,invalid_date
+90,Pantalon,,68.79,18/07/2023
+54,Robe,4.8,,invalid_date
+8,Cravate,10.4,41.13,04/01/2025
+77,Pantalon,,,invalid_date
+6,Pantalon,1.7,,17/09/2024
+39,Cravate,1.4,12.37,invalid_date
+78,Lunettes de soleil,14.0,59.72,29/08/2023
+99,Lunettes de soleil,,73.12,2023-08-05
+57,Pantalon,,,28/01/2025
+8,Cravate,5.4,30.44,2024-02-09
+93,Cravate,16.4,,2025-05-20
+37,Chemise,7.0,99.83,invalid_date
+51,Montre,13.5,16.87,31/08/2024
+91,Pull,18.1,,28/03/2024
+100,Robe,17.5,,22/06/2023
+90,Pantalon,,,21/06/2023
+11,Cravate,18.3,37.44,2023-09-05
+48,Chaussures,1.7,,2024-02-04
+3,Montre,,,28/06/2024
+11,Chemise,,,14/09/2023
+57,Chemise,,,invalid_date
+7,Robe,,,07/09/2023
+97,Cravate,,,14/05/2025
+94,Chemise,,,invalid_date
+60,Lunettes de soleil,,,22/03/2024
+96,Cravate,3.5,,2024-09-11
+32,Robe,,,09/01/2024
+35,Robe,15.9,,07/02/2024
+23,Montre,,10.8,23/02/2025
+62,Cravate,8.8,,2024-06-20
+57,Chaussures,,,2024-06-05
+30,Chaussures,3.8,30.94,2024-08-01
+88,Montre,12.0,59.81,2024-05-24
+92,Robe,19.5,,invalid_date
+92,Chemise,,,2024-02-03
+66,Pantalon,,,2023-08-15
+83,Lunettes de soleil,17.6,,15/01/2024
+53,Pull,,65.97,19/04/2025
+6,Robe,18.7,19.56,29/03/2025
+66,Pull,,84.77,invalid_date
+93,Chaussures,8.2,95.97,invalid_date
+65,Lunettes de soleil,11.2,86.28,invalid_date
+61,Montre,7.0,,2024-10-12
+43,Cravate,,,invalid_date
+15,Cravate,,,invalid_date
+65,Pantalon,,,30/06/2023
+30,Chaussures,18.6,,invalid_date
+75,Chaussures,,40.74,2023-10-01
+53,Lunettes de soleil,10.6,61.84,2024-09-21
+59,Chemise,,,invalid_date
+13,Chaussures,,12.15,2025-03-05
+17,Lunettes de soleil,,21.47,invalid_date
+38,Pantalon,,63.23,invalid_date
+6,Pantalon,,,invalid_date
+58,Lunettes de soleil,,73.01,invalid_date
+99,Pantalon,3.9,,invalid_date
+84,Montre,,,2024-04-28
+30,Robe,10.4,,16/09/2023
+42,Lunettes de soleil,7.1,95.82,invalid_date
+94,Cravate,,,2023-10-27
+45,Robe,,,2024-06-14
+22,Robe,,98.99,2024-09-07
+86,Robe,3.7,59.69,2024-05-22
+77,Chemise,19.2,10.6,13/12/2024
+27,Robe,,75.89,09/07/2023
+38,Pantalon,14.6,,06/09/2023
+34,Pantalon,,75.85,30/10/2023
+11,Cravate,,,29/01/2024
+59,Pantalon,,90.3,27/05/2024
+13,Pull,4.6,95.43,2024-07-03
+18,Lunettes de soleil,17.6,,03/10/2023
+20,Montre,,35.43,invalid_date
+12,Cravate,1.1,54.16,invalid_date
+23,Chemise,,65.2,invalid_date
+45,Montre,11.1,89.01,10/01/2025
+86,Montre,,,01/12/2024
+13,Cravate,,,02/10/2024
+32,Lunettes de soleil,,96.07,10/11/2024
+90,Lunettes de soleil,,,invalid_date
+53,Cravate,,,2024-06-01
+72,Pull,,,24/12/2023
+52,Robe,,53.7,08/01/2024
+82,Chemise,,29.92,invalid_date
+27,Pantalon,,21.63,invalid_date
+3,Lunettes de soleil,,92.1,invalid_date
+7,Cravate,7.9,,invalid_date
+30,Robe,,39.84,invalid_date
+94,Cravate,18.9,86.09,invalid_date
+51,Montre,,37.13,invalid_date
+99,Cravate,1.6,,invalid_date
+52,Chaussures,,87.58,2024-12-02
+65,Lunettes de soleil,1.4,,2023-12-31
+78,Robe,,56.11,28/10/2024
+36,Montre,,,11/03/2024
+38,Lunettes de soleil,,,23/03/2024
+90,Cravate,,,invalid_date
+92,Pantalon,9.6,45.76,04/02/2025
+48,Montre,,39.92,2023-09-12
+72,Chaussures,,63.41,2023-06-23
+52,Montre,10.9,,22/07/2023
+53,Robe,15.1,,2024-02-15
+35,Cravate,,,invalid_date
+31,Pull,,56.3,2023-12-07
+55,Pantalon,8.1,24.59,2024-05-28
+26,Montre,17.5,,23/02/2025
+22,Montre,,,2024-07-13
+56,Robe,,,invalid_date
+84,Chaussures,3.7,,invalid_date
+78,Robe,10.0,94.26,2023-09-05
+68,Montre,,,2024-09-11
+1,Robe,14.3,,23/11/2023
+13,Chemise,12.9,16.01,30/06/2023
+81,Chemise,,,invalid_date
+94,Robe,,94.09,2024-07-07
+76,Chaussures,3.0,,invalid_date
+14,Chaussures,,,invalid_date
+79,Montre,5.0,80.5,2024-04-07
+79,Chaussures,,,2024-11-29
+7,Chaussures,,,01/11/2024
+39,Pantalon,,,invalid_date
+61,Pull,,57.76,2023-05-26
+82,Robe,,,invalid_date
+33,Pantalon,,68.69,2024-04-02
+47,Montre,,75.56,invalid_date
+72,Cravate,8.3,93.99,2025-04-03
+57,Pull,11.0,,2024-05-26
+48,Robe,10.6,64.61,invalid_date
+36,Montre,,34.68,invalid_date
+4,Montre,,,invalid_date
+83,Pantalon,1.7,65.16,invalid_date
+95,Chaussures,17.5,17.45,2025-01-08
+57,Chemise,,98.51,invalid_date
+79,Chemise,,90.8,invalid_date
+93,Pull,,47.47,2024-12-15
+25,Chaussures,14.9,25.53,18/05/2025
+78,Cravate,,25.57,30/04/2025
+36,Pull,,61.14,invalid_date
+60,Pantalon,3.2,26.43,2024-04-10
+41,Chemise,15.6,,05/10/2023
+11,Cravate,6.8,77.27,05/05/2025
+7,Lunettes de soleil,14.4,,01/03/2025
+29,Cravate,6.2,,23/01/2025
+90,Montre,,,13/10/2023
+99,Montre,16.8,,2025-05-18
+69,Cravate,,,2025-03-29
+44,Robe,2.7,,01/04/2025
+5,Pantalon,10.8,,invalid_date
+42,Pull,11.7,39.01,invalid_date
+46,Chemise,,40.12,2024-09-01
+46,Robe,4.1,,invalid_date
+59,Lunettes de soleil,,,invalid_date
+48,Pull,,37.02,invalid_date
+14,Lunettes de soleil,,,invalid_date
+4,Chaussures,,89.79,invalid_date
+97,Chaussures,,80.97,2023-09-03
+40,Chaussures,,,2024-06-16
+85,Chaussures,4.8,37.12,2023-12-19
+31,Cravate,9.3,,2025-02-08
+62,Chaussures,,,invalid_date
+28,Montre,,73.56,12/05/2024
+17,Pull,15.5,,07/12/2023
+87,Lunettes de soleil,12.3,41.22,2024-11-30
+78,Chaussures,,42.61,invalid_date
+77,Lunettes de soleil,18.4,22.43,2024-02-07
+28,Robe,,44.57,05/08/2024
+20,Robe,,,2024-10-26
+21,Lunettes de soleil,14.0,51.84,05/10/2023
+88,Pantalon,,82.32,2024-09-07
+41,Chaussures,,71.77,17/04/2025
+84,Lunettes de soleil,9.0,,invalid_date
+82,Pantalon,,,invalid_date
+43,Pull,3.1,,invalid_date
+11,Chaussures,,,22/10/2024
+7,Montre,6.4,,12/10/2023
+7,Pull,,70.75,invalid_date
+35,Chaussures,,,17/05/2025
+82,Chemise,,,2023-11-30
+23,Pantalon,11.2,,14/03/2024
+36,Pull,19.5,,2023-11-20
+10,Pull,8.1,64.84,15/12/2023
+66,Pantalon,,48.03,2024-02-02
+96,Robe,14.7,,2024-08-16
+25,Robe,19.9,72.48,30/05/2023
+74,Montre,,34.73,10/10/2024
+65,Chemise,12.5,,2024-02-25
+53,Cravate,,,09/07/2023
+60,Pull,2.8,,2024-10-21
+9,Robe,,,invalid_date
+50,Montre,18.7,,31/03/2024
+57,Chaussures,,28.96,invalid_date
+50,Robe,8.7,,2025-05-07
+27,Pull,,,2025-04-10
+20,Chaussures,,47.39,18/01/2024
+72,Montre,,92.91,21/08/2023
+78,Pantalon,2.8,29.02,invalid_date
+38,Chaussures,,,2025-05-21
+54,Robe,,,invalid_date
+69,Lunettes de soleil,,,08/11/2023
+58,Chaussures,18.6,46.0,invalid_date
+43,Montre,13.5,,09/05/2024
+53,Cravate,13.1,22.47,invalid_date
+74,Lunettes de soleil,,64.88,invalid_date
+81,Montre,,,invalid_date
+66,Cravate,17.2,51.2,2025-04-29
+61,Cravate,,15.83,2024-12-30
+74,Montre,,99.07,18/10/2024
+65,Pantalon,,88.49,2025-02-21
+60,Pantalon,1.1,,invalid_date
+61,Lunettes de soleil,,96.18,invalid_date
+100,Chemise,9.3,,invalid_date
+99,Chemise,,48.57,2025-01-22
+19,Robe,15.4,,02/05/2024
+85,Pull,3.7,81.6,18/11/2024
+13,Pull,13.2,,2024-02-27
+97,Robe,,,invalid_date
+34,Robe,12.3,,2023-08-17
+29,Pull,,37.6,invalid_date
+82,Robe,,70.6,invalid_date
+89,Chaussures,,,invalid_date
+30,Chemise,,23.35,15/09/2023
+47,Lunettes de soleil,10.1,97.52,invalid_date
+65,Pull,,,invalid_date
+22,Montre,,11.28,20/08/2023
+29,Robe,4.9,35.05,invalid_date
+26,Pull,10.5,85.6,invalid_date
+26,Pull,,,invalid_date
+9,Robe,11.5,97.34,21/06/2024
+73,Cravate,5.6,72.07,2024-05-02
+89,Montre,,59.68,invalid_date
+25,Pantalon,18.2,57.03,2023-09-01
+30,Cravate,,51.78,10/05/2024
+82,Pantalon,4.7,,2024-08-02
+13,Cravate,,,2024-07-29
+93,Montre,15.8,,2024-10-25
+33,Lunettes de soleil,,,invalid_date
+62,Robe,,33.78,24/03/2024
+36,Robe,12.9,97.95,14/02/2025
+1,Pull,,54.62,2023-05-24
+98,Lunettes de soleil,13.8,,13/08/2024
+82,Chaussures,4.7,78.66,26/06/2023
+65,Robe,,,invalid_date
+27,Chaussures,7.2,78.98,2024-11-16
+79,Chaussures,,,invalid_date
+35,Cravate,,,15/04/2025
+19,Robe,,,16/05/2025
+40,Lunettes de soleil,,,2024-05-22
+53,Pull,13.3,,2023-12-30
+91,Cravate,,,2023-10-08
+42,Lunettes de soleil,,60.23,2023-09-04
+80,Montre,17.3,16.7,08/12/2024
+93,Montre,,95.68,invalid_date
+50,Montre,,15.34,invalid_date
+44,Robe,,93.12,04/05/2024
+18,Pantalon,,84.19,invalid_date
+39,Cravate,,,invalid_date
+68,Robe,14.1,79.49,invalid_date
+92,Pull,,,invalid_date
+28,Chaussures,7.1,,2025-03-31
+87,Robe,5.9,,10/10/2024
+51,Montre,16.2,,2025-03-20
+73,Lunettes de soleil,,,07/10/2023
+74,Pull,13.1,60.88,invalid_date
+21,Pantalon,,64.9,2024-07-05
+99,Lunettes de soleil,,50.62,invalid_date
+43,Pantalon,,,2025-02-28
+52,Robe,,11.7,08/06/2023
+55,Chaussures,5.9,,invalid_date
+59,Cravate,,90.39,2024-10-26
+99,Chaussures,4.9,19.08,2024-07-17
+70,Pull,,88.35,invalid_date
+27,Cravate,,99.19,2025-02-19
+99,Pull,,,2023-11-30
+57,Cravate,,49.47,2024-02-14
+99,Lunettes de soleil,12.2,18.36,invalid_date
+75,Pantalon,4.1,,invalid_date
+78,Pull,,47.36,2024-12-05
+65,Pull,10.1,95.04,2023-08-17
+49,Lunettes de soleil,8.6,,2025-02-08
+56,Robe,5.4,,10/09/2024
+3,Robe,,14.08,2025-01-06
+73,Chemise,3.4,,2025-04-07
+8,Cravate,,,2023-06-03
+54,Chaussures,4.3,76.78,13/07/2023
+15,Chaussures,1.6,,25/08/2024
+80,Pull,1.5,,2023-06-17
+95,Chaussures,18.4,58.55,2024-08-28
+13,Chemise,7.6,18.29,2024-11-18
+61,Montre,,22.1,28/11/2023
+61,Montre,,,invalid_date
+86,Pantalon,10.1,21.32,2024-03-29
+29,Pantalon,,35.41,2023-11-20
+29,Robe,,,invalid_date
+76,Robe,15.4,,invalid_date
+19,Chemise,,66.87,2023-07-04
+2,Chaussures,13.1,,2024-06-16
+74,Montre,,,13/02/2025
+28,Montre,,,invalid_date
+99,Pull,7.4,,invalid_date
+59,Pantalon,,,2024-08-12
+47,Lunettes de soleil,13.2,,2025-01-11
+16,Robe,,,invalid_date
+11,Chaussures,8.6,22.75,2023-11-22
+26,Pull,11.0,60.66,invalid_date
+47,Cravate,14.2,43.7,invalid_date
+22,Cravate,17.0,,2023-11-09
+36,Chemise,,,21/12/2023
+60,Pull,,,invalid_date
+72,Robe,5.0,,2024-08-23
+19,Montre,16.6,45.21,invalid_date
+54,Lunettes de soleil,12.2,85.09,2023-10-05
+36,Chaussures,18.0,75.34,2024-10-30
+57,Chaussures,,10.97,invalid_date
+40,Pantalon,,,13/02/2024
+16,Montre,,88.77,24/10/2024
+33,Pantalon,,,21/01/2025
+29,Pantalon,,,invalid_date
+56,Lunettes de soleil,2.1,,invalid_date
+94,Robe,,,14/09/2023
+11,Chemise,,,2024-01-09
+76,Lunettes de soleil,13.6,,invalid_date
+78,Lunettes de soleil,,13.79,invalid_date
+83,Pantalon,11.9,97.01,11/03/2025
+75,Lunettes de soleil,16.5,,10/01/2024
+74,Chemise,,70.22,2025-03-18
+73,Chaussures,,,2023-09-11
+94,Montre,,,01/05/2025
+32,Robe,9.5,,2023-07-05
+27,Pull,,80.29,09/04/2024
+12,Pull,7.7,,2024-07-27
+93,Pantalon,,65.96,18/03/2024
+26,Robe,,,06/12/2023
+97,Chaussures,,11.43,invalid_date
+40,Robe,15.4,45.82,2024-10-05
+12,Pantalon,,86.7,invalid_date
+44,Pull,,,invalid_date
+73,Pantalon,7.2,49.83,2023-08-01
+71,Chaussures,,12.37,invalid_date
+29,Cravate,,68.31,2023-10-16
+2,Robe,5.6,,09/03/2024
+54,Cravate,,,invalid_date
+34,Pull,,,2024-09-01
+41,Pull,2.5,38.95,invalid_date
+75,Chaussures,,58.18,invalid_date
+30,Pull,14.6,51.88,20/08/2024
+80,Montre,,15.82,2024-12-04
+72,Montre,11.6,,invalid_date
+19,Pantalon,14.0,,invalid_date
+33,Chemise,,48.77,25/04/2025
+28,Montre,,,2024-02-04
+99,Pull,17.4,,invalid_date
+16,Pantalon,,75.73,2023-11-02
+77,Chaussures,16.9,,invalid_date
+16,Pull,,,22/12/2024
+49,Montre,,,27/05/2024
+23,Lunettes de soleil,,,26/11/2023
+26,Cravate,7.7,40.57,invalid_date
+33,Chemise,17.7,98.38,invalid_date
+48,Pantalon,4.2,,01/05/2025
+4,Pull,17.3,,2023-11-23
+69,Cravate,19.5,88.49,invalid_date
+48,Chaussures,17.9,,2023-12-27
+80,Chemise,18.8,,09/07/2024
+14,Pull,14.0,,2024-10-06
+78,Chaussures,,,11/12/2023
+15,Pantalon,,,2024-02-25
+52,Chemise,,82.98,invalid_date
+12,Pull,,78.12,06/08/2023
+42,Chaussures,9.5,,03/12/2024
+56,Lunettes de soleil,2.6,,invalid_date
+62,Lunettes de soleil,,79.38,invalid_date
+6,Cravate,,90.29,invalid_date
+41,Chemise,11.2,,2024-03-04
+46,Chemise,,76.47,invalid_date
+48,Chemise,18.3,51.15,2024-07-31
+92,Pull,2.4,54.57,2023-11-09
+49,Cravate,18.1,93.19,2023-09-12
+85,Pull,,,24/07/2024
+6,Chaussures,3.7,,17/08/2024
+88,Robe,,46.83,01/12/2024
+53,Lunettes de soleil,6.3,,06/01/2024
+77,Chemise,,,2023-09-17
+85,Cravate,2.3,,2024-02-02
+24,Pull,,,06/08/2024
+69,Robe,,19.76,28/11/2023
+26,Pantalon,,28.07,22/07/2024
+62,Pantalon,3.1,84.98,2024-10-11
+98,Pantalon,,49.43,07/12/2023
+77,Chemise,13.6,,2025-01-03
+73,Chemise,,,2024-06-04
+45,Montre,4.8,45.22,16/12/2024
+65,Pantalon,5.3,,2024-06-06
+57,Pantalon,,60.12,invalid_date
+41,Chemise,3.1,46.89,invalid_date
+93,Chaussures,,43.33,2023-09-30
+88,Cravate,1.1,,invalid_date
+16,Cravate,15.5,60.73,2024-06-04
+84,Montre,,,11/04/2025
+96,Cravate,,,01/10/2024
+20,Montre,,,invalid_date
+94,Chaussures,,99.92,03/03/2025
+95,Chemise,,,18/07/2023
+91,Cravate,19.8,,2025-02-15
+52,Lunettes de soleil,,,04/01/2025
+60,Pull,,21.98,2023-05-26
+28,Cravate,,,06/03/2025
+83,Robe,5.1,,17/11/2023
+100,Lunettes de soleil,2.0,40.39,invalid_date
+50,Lunettes de soleil,,12.15,29/05/2023
+73,Chaussures,6.2,67.71,2023-11-07
+53,Pull,9.9,,06/03/2024
+79,Chemise,13.8,17.72,2023-07-07
+43,Pantalon,,28.27,2024-09-28
+40,Pantalon,,,11/09/2024
+44,Chaussures,6.5,82.21,2025-04-29
+21,Lunettes de soleil,,,invalid_date
+36,Cravate,19.5,91.83,2023-06-03
+18,Lunettes de soleil,,25.34,invalid_date
+89,Pull,18.7,50.26,31/05/2023
+86,Pull,17.8,89.78,2023-06-03
+18,Robe,13.9,19.99,invalid_date
+42,Robe,14.5,,2024-07-11
+80,Lunettes de soleil,,86.61,invalid_date
+36,Chemise,10.3,14.68,invalid_date
+40,Robe,,,invalid_date
+98,Montre,,59.61,invalid_date
+2,Chemise,6.8,,08/10/2023
+5,Robe,,,04/05/2025
+91,Pull,,74.72,02/07/2024
+37,Robe,,92.69,invalid_date
+41,Pantalon,1.4,82.56,2023-10-18
+10,Chaussures,8.1,61.47,2024-07-03
+10,Chemise,,88.31,2025-02-13
+75,Montre,,80.75,invalid_date
+16,Chemise,14.4,92.62,2024-03-25
+12,Pantalon,1.1,28.92,01/04/2024
+42,Cravate,10.0,,invalid_date
+91,Chaussures,9.9,49.83,2023-11-26
+23,Cravate,6.0,73.0,2023-11-13
+24,Pull,15.4,,invalid_date
+53,Robe,,84.2,invalid_date
+1,Robe,6.3,15.82,18/03/2025
+45,Chemise,,,2024-10-07
+96,Pantalon,,72.83,invalid_date
+34,Pull,,,11/03/2024
+41,Cravate,5.3,,24/07/2024
+60,Montre,,,04/07/2023
+20,Chaussures,,47.76,2024-09-27
+41,Lunettes de soleil,19.8,45.95,02/10/2023
+85,Chaussures,3.9,29.53,13/06/2024
+61,Chaussures,6.1,,2025-03-08
+39,Robe,,,20/01/2025
+56,Chaussures,10.3,41.8,2024-02-03
+42,Montre,12.5,,2025-03-18
+54,Montre,,,invalid_date
+40,Lunettes de soleil,12.6,,invalid_date
+48,Chaussures,,,02/11/2023
+54,Cravate,,,invalid_date
+61,Robe,,72.85,10/04/2025
+81,Cravate,14.5,83.2,25/05/2024
+73,Montre,,55.99,27/06/2023
+97,Chaussures,12.8,,invalid_date
+94,Robe,,,invalid_date
+19,Pull,17.1,52.64,invalid_date
+1,Pull,,,01/08/2024
+63,Pull,12.5,84.17,invalid_date
+78,Pantalon,6.6,76.19,invalid_date
+65,Robe,,48.07,21/01/2024
+34,Cravate,3.7,,2023-06-03
+48,Montre,15.7,,invalid_date
+21,Montre,15.4,,17/02/2025
+26,Montre,6.4,39.05,2024-11-25
+7,Pull,,,invalid_date
+4,Lunettes de soleil,,26.02,invalid_date
+37,Pull,11.7,89.49,invalid_date
+92,Chaussures,10.4,22.59,invalid_date
+21,Cravate,,,2025-02-28
+53,Pull,,46.05,invalid_date
+54,Lunettes de soleil,14.2,,2025-04-17
+15,Robe,5.3,68.03,2024-02-03
+83,Cravate,10.1,29.71,2024-12-28
+18,Pull,,,24/01/2025
+4,Lunettes de soleil,11.5,28.01,2024-11-07
+30,Montre,1.1,,invalid_date
+22,Lunettes de soleil,5.0,,14/02/2024
+72,Pull,10.7,,05/08/2023
+26,Pull,,,18/11/2023
+4,Montre,,28.41,2025-03-03
+50,Pantalon,15.1,,invalid_date
+87,Cravate,,42.48,invalid_date
+81,Cravate,,29.51,25/03/2024
+2,Cravate,,,invalid_date
+42,Montre,19.7,,invalid_date
+77,Robe,16.1,16.99,2023-12-20
+4,Chemise,,,06/06/2024
+49,Chaussures,,29.38,22/02/2024
+95,Pull,,,2024-07-24
+16,Robe,,93.71,2024-04-21
+82,Chemise,,25.71,2024-10-30
+93,Cravate,,,2024-10-16
+94,Chaussures,,71.02,2023-07-27
+64,Lunettes de soleil,,25.75,invalid_date
+6,Pantalon,,,2025-01-30
+35,Chemise,13.8,,2024-11-25
+84,Chemise,,,2023-07-24
+92,Chemise,6.4,,12/03/2024
+70,Chaussures,,75.36,19/01/2025
+95,Pull,,,18/09/2023
+19,Montre,,,2024-12-16
+78,Robe,,,26/02/2024
+97,Chaussures,,55.57,invalid_date
+44,Chaussures,17.2,97.95,invalid_date
+51,Pantalon,16.6,99.15,invalid_date
+14,Chemise,5.8,,17/12/2023
+15,Pull,,,invalid_date
+85,Lunettes de soleil,,77.48,2023-07-28
+82,Montre,4.0,74.46,04/05/2024
+19,Pantalon,,,25/07/2024
+27,Pantalon,19.1,12.12,02/04/2024
+16,Cravate,4.5,,2023-08-10
+55,Pull,13.6,,20/02/2024
+50,Pull,,,invalid_date
+79,Chemise,13.9,,2024-08-27
+33,Montre,,77.76,28/01/2024
+89,Pull,,,2025-03-22
+63,Pantalon,10.0,17.47,03/01/2024
+49,Pull,,,invalid_date
+100,Montre,,18.55,invalid_date
+87,Chemise,,16.22,20/04/2025
+36,Lunettes de soleil,16.2,32.79,invalid_date
+67,Montre,,36.41,2023-11-26
+38,Pull,9.1,97.17,2024-06-29
+62,Montre,,79.82,12/03/2024
+6,Robe,,,2023-09-30
+92,Montre,16.4,19.14,2023-12-16
+95,Chemise,,,2023-12-16
+91,Pull,13.1,47.68,10/07/2023
+56,Lunettes de soleil,2.3,,23/04/2024
+52,Cravate,18.2,20.89,2023-12-22
+74,Chaussures,,,invalid_date
+34,Montre,2.3,62.39,invalid_date
+6,Cravate,,,2024-02-26
+48,Chemise,10.7,,invalid_date
+68,Chemise,6.8,38.76,10/06/2024
+28,Cravate,,53.09,2024-08-25
+50,Pantalon,3.8,87.21,2023-10-20
+62,Pantalon,11.8,,invalid_date
+47,Cravate,,,2024-01-13
+42,Lunettes de soleil,,45.17,invalid_date
+17,Montre,,68.14,2025-03-05
+77,Robe,10.4,48.95,04/02/2025
+9,Pantalon,14.4,79.56,01/02/2024
+36,Lunettes de soleil,,,05/02/2024
+61,Montre,8.3,52.24,invalid_date
+63,Pull,11.1,,19/03/2025
+37,Cravate,,91.65,25/08/2024
+40,Cravate,,,invalid_date
+85,Cravate,15.6,,2024-01-26
+88,Pull,,,invalid_date
+67,Chaussures,,67.47,invalid_date
+82,Pull,,,26/03/2024
+92,Robe,,58.37,03/01/2024
+78,Pantalon,,,2024-12-12
+9,Cravate,,,invalid_date
+75,Robe,,27.93,18/01/2025
+81,Montre,,,2023-11-26
+18,Chaussures,3.3,13.69,25/12/2023
+14,Robe,3.4,,2025-02-14
+6,Chemise,,,29/02/2024
+56,Cravate,,,2023-08-18
+20,Chemise,,78.61,24/10/2023
+27,Chemise,19.1,,18/07/2024
+16,Pantalon,,,invalid_date
+22,Chaussures,,19.66,invalid_date
+40,Lunettes de soleil,,50.15,2023-06-11
+11,Lunettes de soleil,,,invalid_date
+97,Lunettes de soleil,,,26/04/2024
+68,Pull,,,03/01/2024
+78,Cravate,8.1,,2025-02-25
+52,Cravate,,46.46,invalid_date
+38,Cravate,,96.46,invalid_date
+90,Pantalon,9.6,,03/04/2024
+49,Chemise,,91.83,12/06/2024
+33,Pull,,,24/09/2024
+21,Chaussures,5.2,,25/11/2023
+7,Cravate,2.7,18.31,14/10/2024
+11,Robe,,,27/11/2024
+24,Cravate,8.8,56.85,2024-04-14
+80,Chemise,11.9,,18/07/2023
+22,Cravate,1.3,64.24,2024-05-04
+99,Pantalon,6.1,,invalid_date
+98,Pull,14.7,58.03,2024-03-28
+2,Pull,,56.19,invalid_date
+65,Chemise,8.5,14.35,2025-05-05
+31,Pull,,,2024-11-09
+91,Pantalon,14.6,67.61,2024-07-17
+49,Chaussures,,,invalid_date
+97,Lunettes de soleil,,,invalid_date
+67,Pull,,,2025-02-10
+65,Montre,3.4,,28/09/2024
+15,Lunettes de soleil,,,27/07/2023
+26,Chemise,5.1,50.49,invalid_date
+39,Lunettes de soleil,5.6,,13/10/2024
+63,Lunettes de soleil,,43.44,21/02/2024
+17,Lunettes de soleil,19.2,95.3,05/10/2024
+48,Chemise,,,2024-09-08
+77,Robe,,,2024-08-01
+46,Pull,4.7,11.0,2024-10-29
+96,Robe,2.1,,2024-03-27
+58,Lunettes de soleil,,,29/01/2025
+48,Chemise,16.2,,12/08/2023
+98,Chemise,13.7,99.88,06/08/2023
+43,Montre,,22.96,2023-12-08
+79,Lunettes de soleil,6.2,,2024-06-21
+18,Cravate,8.9,47.58,28/07/2024
+71,Robe,19.8,10.05,2024-08-14
+5,Robe,14.8,29.72,invalid_date
+64,Pantalon,,,invalid_date
+94,Pull,,,invalid_date
+86,Pull,,82.56,2025-01-10
+3,Lunettes de soleil,,,08/11/2024
+93,Lunettes de soleil,,,2024-06-13
+19,Cravate,17.0,89.27,10/06/2023
+20,Pantalon,,,11/08/2023
+73,Pull,6.7,,invalid_date
+9,Pull,18.6,,2025-05-06
+54,Montre,,94.38,25/02/2025
+31,Montre,,,invalid_date
+28,Lunettes de soleil,9.2,35.78,16/02/2024
+21,Pull,12.3,19.06,invalid_date
+2,Chaussures,,90.69,2024-05-09
+1,Montre,4.4,,invalid_date
+88,Pull,13.7,,16/02/2024
+13,Chemise,19.9,98.94,2024-05-25
+22,Lunettes de soleil,,,invalid_date
+68,Pantalon,,,invalid_date
+34,Chaussures,13.2,54.68,invalid_date
+37,Chemise,,,25/06/2023
+46,Robe,,47.62,24/11/2024
+86,Pull,,23.38,2023-08-19
+11,Chemise,12.2,,2025-03-11
+20,Pantalon,,71.9,invalid_date
+62,Lunettes de soleil,,94.37,01/02/2025
+84,Chemise,,27.23,2023-09-26
+5,Robe,,,invalid_date
+42,Montre,,,invalid_date
+41,Chaussures,1.1,,2024-07-23
+63,Pull,3.8,,29/07/2024
+26,Chaussures,8.9,,invalid_date
+48,Pull,,79.44,2023-11-18
+19,Pull,,57.78,22/09/2024
+99,Chemise,,,2023-10-12
+37,Pull,1.3,,13/10/2024
+78,Cravate,18.5,,invalid_date
+5,Cravate,,45.53,invalid_date
+30,Chemise,,31.51,06/04/2025
+7,Pantalon,,,2023-10-22
+65,Robe,15.6,54.7,invalid_date
+85,Robe,15.8,,invalid_date
+93,Pull,4.4,,2024-11-19
+43,Cravate,19.0,,2023-10-28
+85,Robe,,,2024-12-26
+94,Chaussures,,37.85,2025-02-08
+20,Pantalon,17.2,95.82,12/08/2024
+23,Pantalon,,,invalid_date
+16,Montre,,,2025-03-29
+46,Chaussures,8.4,,invalid_date
+3,Pantalon,19.9,23.12,invalid_date
+89,Cravate,,,18/08/2023
+14,Lunettes de soleil,5.0,,invalid_date
+96,Pantalon,19.5,,invalid_date
+99,Montre,,27.92,2024-07-04
+58,Cravate,,,invalid_date
+44,Lunettes de soleil,15.2,,2024-03-18
+18,Pantalon,12.3,,19/08/2024
+71,Pull,3.3,,2023-08-18
+40,Lunettes de soleil,6.6,,invalid_date
+18,Robe,16.5,,2024-05-11
+68,Pull,,,2023-10-03
+4,Robe,7.2,88.26,20/11/2024
+15,Pantalon,,38.65,2025-02-01
+74,Cravate,12.1,,10/09/2024
+98,Pantalon,,,2024-08-22
+52,Chemise,,,03/09/2023
+95,Chemise,3.6,95.41,2024-01-20
+62,Chemise,,46.54,14/01/2024
+21,Cravate,2.6,26.66,invalid_date
+3,Montre,5.1,25.24,10/11/2024
+1,Robe,12.0,54.34,2023-09-08
+56,Cravate,,,10/04/2024
+18,Lunettes de soleil,,,06/09/2023
+32,Pantalon,,,2024-08-10
+15,Lunettes de soleil,,72.22,invalid_date
+75,Pantalon,19.4,21.92,2024-06-03
+32,Chemise,,21.97,10/11/2024
+15,Chemise,13.4,84.7,04/10/2024
+14,Pull,4.9,23.23,03/10/2023
+42,Lunettes de soleil,,49.91,invalid_date
+19,Cravate,8.4,88.3,01/01/2024
+63,Robe,,,2023-09-07
+8,Chemise,,28.35,05/03/2025
+19,Robe,,,invalid_date
+9,Montre,7.6,,24/03/2025
+50,Robe,4.0,49.43,2024-02-24
+100,Cravate,,29.7,2024-06-01
+35,Pull,10.9,,invalid_date
+52,Chemise,2.2,,31/07/2024
+32,Chaussures,12.9,23.42,10/10/2024
+99,Lunettes de soleil,11.8,53.29,2024-06-09
+94,Robe,,,invalid_date
+26,Lunettes de soleil,,,invalid_date
+26,Cravate,,42.12,invalid_date
+43,Montre,5.3,72.08,invalid_date
+18,Cravate,8.8,,invalid_date
+95,Pantalon,,74.66,invalid_date
+28,Cravate,8.0,,2025-01-02
+36,Montre,18.0,40.67,invalid_date
+16,Pantalon,16.3,,invalid_date
+22,Chemise,,83.54,01/01/2024
+43,Pantalon,2.7,,2023-09-29
+55,Pull,,60.07,2024-05-11
+95,Pantalon,19.6,70.06,2024-12-18
+21,Cravate,15.0,27.63,2025-01-05
+17,Robe,,30.31,2024-07-21
+16,Cravate,,,2023-08-17
+89,Pantalon,16.8,52.64,2023-08-18
+48,Chemise,,19.77,2025-01-13
+10,Chaussures,,30.63,01/03/2024
+92,Pull,17.8,84.59,18/02/2025
+55,Chaussures,,,invalid_date
+28,Chemise,,,2025-01-01
+75,Pantalon,16.1,91.07,invalid_date
+90,Pantalon,,91.84,2023-11-07
+67,Chaussures,11.2,81.9,2023-08-09
+66,Pantalon,5.6,40.52,10/10/2024
+34,Pull,11.4,,2024-12-25
+18,Cravate,14.3,,2024-01-08
+55,Pantalon,,,05/05/2024
+4,Chemise,15.5,79.78,invalid_date
+4,Pantalon,7.1,17.44,14/02/2025
+13,Montre,,15.15,invalid_date
+20,Pull,6.9,,21/08/2023
+34,Chaussures,2.6,,10/02/2025
+63,Pantalon,,55.13,01/11/2023
+49,Montre,,52.06,invalid_date
+7,Chemise,13.6,,2024-08-20
+47,Robe,,43.99,2024-02-18
+53,Chaussures,16.2,,invalid_date
+7,Pull,6.9,,invalid_date
+6,Chemise,12.9,46.61,11/09/2024
+78,Montre,12.7,79.51,2023-09-07
+9,Chemise,6.1,,11/02/2025
+68,Pantalon,17.9,,invalid_date
+23,Montre,10.5,,invalid_date
+98,Cravate,11.0,45.97,2024-02-18
+87,Pantalon,,,invalid_date
+22,Robe,8.7,,invalid_date
+17,Pull,,,18/11/2024
+11,Montre,,,2024-01-04
+46,Pull,15.4,26.79,invalid_date
+87,Pull,7.5,36.44,invalid_date
+11,Montre,,,invalid_date
+74,Chemise,15.7,43.15,03/08/2023
+43,Chaussures,9.8,,2023-09-04
+38,Chemise,,31.49,2025-01-21
+98,Pull,,62.84,07/07/2023
+94,Cravate,16.3,,invalid_date
+60,Pantalon,11.3,31.7,invalid_date
+87,Cravate,10.4,,2024-11-16
+6,Lunettes de soleil,17.2,,01/12/2023
+50,Pantalon,,80.1,2023-09-12
+24,Cravate,16.6,,23/02/2025
+15,Chaussures,16.9,,02/01/2025
+61,Montre,,84.07,invalid_date
+54,Chemise,17.8,,2024-03-22
+8,Pantalon,6.9,,2023-09-09
+70,Robe,,,2024-09-24
+76,Chaussures,,27.52,2024-09-20
+78,Chaussures,,,07/05/2024
+10,Pantalon,5.8,,2023-07-19
+67,Lunettes de soleil,18.9,84.66,04/04/2025
+31,Montre,,49.18,invalid_date
+89,Pantalon,3.2,48.39,2024-03-29
+25,Chemise,10.9,,invalid_date
+12,Chemise,,16.54,2024-11-11
+23,Cravate,,,invalid_date
+71,Chaussures,9.3,,04/06/2024
+98,Chaussures,,36.14,2024-01-31
+31,Robe,18.0,,2023-05-23
+44,Robe,5.5,46.67,2025-01-12
+83,Pull,12.7,,02/08/2023
+89,Chemise,12.5,55.67,12/05/2024
+37,Chaussures,,99.27,18/10/2024
+97,Lunettes de soleil,,,invalid_date
+83,Montre,,,invalid_date
+50,Cravate,3.8,,invalid_date
+80,Cravate,19.1,19.75,07/11/2023
+100,Chaussures,,46.38,20/02/2025
+80,Chemise,,23.95,09/06/2024
+98,Lunettes de soleil,19.5,67.77,invalid_date
+28,Robe,11.7,56.8,28/12/2023
+86,Pull,13.4,69.15,20/07/2024
+1,Pull,19.2,,31/08/2023
+4,Chaussures,,59.01,14/03/2025
+85,Robe,,,23/01/2025
+81,Pantalon,18.5,,15/04/2025
+13,Chaussures,,61.44,03/01/2025
+25,Robe,8.6,,invalid_date
+35,Chemise,17.2,53.06,2023-08-07
+1,Lunettes de soleil,,15.63,2025-01-19
+98,Lunettes de soleil,10.6,17.31,invalid_date
+43,Chemise,1.9,43.77,invalid_date
+83,Robe,2.5,,2025-03-18
+59,Lunettes de soleil,15.7,,invalid_date
+53,Chaussures,,,18/04/2024
+3,Montre,,45.17,invalid_date
+58,Chaussures,,70.43,01/09/2023
+3,Pantalon,,,07/10/2024
+7,Chaussures,11.7,,2024-01-11
+51,Robe,2.3,,2025-03-31
+12,Chaussures,,42.21,2025-04-01
+45,Lunettes de soleil,3.1,51.78,2023-08-02
+87,Pantalon,2.5,10.04,2024-02-25
+97,Lunettes de soleil,,,invalid_date
+74,Pull,8.1,29.64,invalid_date
+70,Robe,6.8,75.34,invalid_date
+42,Chemise,,36.46,2023-07-01
+56,Robe,6.4,31.29,invalid_date
+33,Pantalon,8.6,,invalid_date
+64,Chaussures,18.4,11.26,invalid_date
+12,Montre,18.0,19.21,12/10/2024
+67,Lunettes de soleil,,,invalid_date
+88,Montre,,87.99,invalid_date
+32,Pantalon,17.1,,26/05/2024
+4,Pull,,96.38,02/09/2023
+90,Lunettes de soleil,8.7,50.82,13/11/2023
+64,Cravate,18.1,87.41,31/10/2024
+98,Chemise,8.1,17.59,2024-05-01
+29,Pull,7.2,,invalid_date
+85,Pull,,,2024-02-12
+88,Robe,8.7,75.92,2023-08-23
+74,Chaussures,,97.2,invalid_date
+76,Robe,,80.5,2023-09-01
+17,Chemise,17.2,95.63,invalid_date
+70,Lunettes de soleil,,,invalid_date
+17,Robe,,86.15,invalid_date
+11,Robe,,96.62,invalid_date
+84,Montre,2.7,,02/03/2024
+50,Montre,4.7,,09/01/2024
+49,Pantalon,19.3,,14/03/2024
+79,Montre,8.3,,invalid_date
+64,Chaussures,16.9,38.81,31/03/2025
+96,Chemise,,71.34,01/10/2024
+83,Chaussures,14.0,,2024-10-28
+85,Pull,,,invalid_date
+59,Chemise,1.6,25.11,invalid_date
+44,Pull,6.1,,07/10/2024
+76,Lunettes de soleil,,,2023-09-26
+82,Cravate,13.0,,03/12/2024
+29,Cravate,11.4,40.62,20/09/2024
+11,Pull,,,2024-12-23
+44,Lunettes de soleil,4.2,46.33,invalid_date
+29,Pull,,19.2,invalid_date
+91,Lunettes de soleil,8.0,,invalid_date
+34,Lunettes de soleil,,,28/07/2023
+99,Robe,16.7,,invalid_date
+80,Pantalon,17.7,93.37,26/12/2024
+77,Montre,4.1,,invalid_date
+31,Robe,16.1,85.47,15/03/2024
+40,Pantalon,,,2024-02-19
+14,Cravate,,65.74,25/01/2025
+61,Pantalon,,,2023-09-07
+3,Robe,19.1,72.74,03/10/2024
+99,Pantalon,,,invalid_date
+68,Pantalon,,60.53,30/08/2024
+1,Robe,7.9,,02/12/2024
+21,Chaussures,,,invalid_date
+65,Lunettes de soleil,,,08/11/2024
+22,Chaussures,,,invalid_date
+81,Pull,,,invalid_date
+79,Robe,4.4,37.41,2025-04-01
+89,Lunettes de soleil,19.7,22.25,2023-10-28
+6,Chaussures,,67.52,2024-09-04
+31,Chaussures,13.2,,2023-10-15
+27,Chemise,,13.04,invalid_date
+82,Lunettes de soleil,11.6,,03/07/2023
+37,Lunettes de soleil,,22.97,18/04/2025
+58,Montre,,67.88,invalid_date
+1,Chaussures,8.0,,2024-06-09
+9,Cravate,16.3,73.68,invalid_date
+18,Cravate,16.9,28.02,invalid_date
+1,Robe,12.9,43.94,2024-08-25
+67,Cravate,,,11/04/2025
+4,Chaussures,,56.68,invalid_date
+59,Chaussures,,,22/01/2024
+96,Pull,,,2023-09-01
+74,Chemise,7.2,,03/03/2025
+85,Cravate,,14.78,invalid_date
+57,Pantalon,13.3,15.7,2024-02-29
+57,Cravate,18.6,96.1,03/10/2023
+24,Chaussures,3.9,76.69,2025-01-03
+94,Lunettes de soleil,16.2,67.63,invalid_date
+71,Chaussures,5.5,,invalid_date
+32,Cravate,,34.01,01/06/2023
+93,Montre,,,05/11/2023
+32,Chemise,,,invalid_date
+92,Pantalon,,,2023-07-07
+24,Chaussures,9.4,14.99,invalid_date
+77,Montre,,74.69,21/09/2024
+91,Pull,3.6,21.76,invalid_date
+97,Pantalon,,45.74,invalid_date
+25,Chaussures,1.7,,invalid_date
+88,Montre,,41.44,invalid_date
+95,Pull,,,2024-09-30
+97,Chemise,,98.02,11/09/2024
+83,Pantalon,,19.85,23/12/2023
+21,Cravate,17.6,12.06,invalid_date
+74,Chaussures,,69.76,22/06/2024
+26,Montre,6.3,15.1,2025-05-06
+74,Lunettes de soleil,19.9,,2025-02-07
+78,Pantalon,3.8,67.0,2024-07-11
+27,Chaussures,,46.91,2024-03-20
+15,Pantalon,,46.24,2024-09-25
+6,Pantalon,12.7,,invalid_date
+96,Montre,18.7,93.29,2024-10-31
+38,Cravate,,28.76,invalid_date
+23,Montre,,79.9,2024-11-14
+98,Robe,4.3,,invalid_date
+68,Chaussures,18.5,,2023-11-23
+20,Robe,8.1,85.6,invalid_date
+47,Pull,14.7,82.94,2025-05-09
+92,Pull,,84.11,2023-08-20
+59,Pantalon,3.7,,invalid_date
+42,Pull,8.4,29.08,17/01/2024
+10,Chaussures,,,2024-10-20
+47,Chaussures,,35.01,invalid_date
+80,Chemise,9.4,48.81,22/08/2023
+30,Chaussures,,57.79,21/11/2024
+41,Robe,19.1,84.5,2023-09-05
+90,Robe,1.6,,26/09/2023
+64,Montre,,,15/02/2024
+76,Pull,,85.92,26/06/2024
+62,Pantalon,,51.56,2025-01-19
+6,Chemise,15.6,13.49,invalid_date
+53,Cravate,,34.86,05/03/2024
+21,Lunettes de soleil,10.8,,24/12/2024
+14,Chaussures,12.3,97.68,30/03/2025
+11,Cravate,,50.77,2023-12-16
+60,Cravate,7.3,,21/08/2023
+68,Robe,10.3,82.09,2025-01-10
+91,Cravate,,,06/02/2024
+55,Lunettes de soleil,,12.67,invalid_date
+1,Pull,4.8,64.63,01/07/2024
+33,Lunettes de soleil,,84.09,12/12/2023
+75,Pantalon,11.0,,2024-11-25
+5,Chemise,,47.33,20/07/2023
+43,Chemise,15.3,,invalid_date
+60,Pantalon,18.4,,invalid_date
+31,Pantalon,,,2023-07-04
+86,Pantalon,7.0,13.81,invalid_date
+39,Montre,,,invalid_date
+29,Pantalon,,,06/12/2023
+78,Robe,,95.99,2025-01-11
+63,Robe,,,2025-04-15
+30,Chaussures,,,invalid_date
+73,Pantalon,,82.63,invalid_date
+34,Chaussures,17.8,,2024-12-17
+66,Montre,16.6,,2023-05-23
+21,Chemise,,18.56,2025-03-18
+48,Montre,18.1,,2023-05-31
+94,Robe,18.6,83.38,invalid_date
+52,Robe,6.8,24.46,14/03/2024
+46,Cravate,,,15/09/2023
+2,Chaussures,2.2,33.36,14/05/2025
+61,Pull,10.0,84.59,2025-03-18
+49,Pantalon,,18.24,2024-07-24
+66,Montre,,,invalid_date
+65,Chaussures,,,invalid_date
+82,Chemise,,30.64,12/11/2023
+12,Lunettes de soleil,,13.96,2024-01-26
+63,Robe,13.8,,02/05/2025
+14,Montre,,26.36,invalid_date
+54,Robe,,44.54,invalid_date
+34,Lunettes de soleil,,56.05,2023-07-21
+57,Chemise,,19.2,2024-03-06
+46,Cravate,,34.77,2024-06-14
+65,Cravate,,57.94,invalid_date
+6,Lunettes de soleil,,45.57,invalid_date
+57,Pantalon,9.1,18.03,2025-02-04
+15,Cravate,7.8,99.87,invalid_date
+53,Pantalon,,74.77,02/04/2025
+24,Cravate,,38.91,24/03/2025
+43,Chemise,,,11/01/2025
+64,Chaussures,6.0,48.6,2025-03-08
+90,Robe,,46.19,28/07/2023
+97,Montre,18.0,79.52,invalid_date
+34,Chemise,11.4,,invalid_date
+19,Pantalon,,34.38,2023-10-24
+42,Chaussures,,,invalid_date
+85,Cravate,,,16/12/2024
+65,Lunettes de soleil,11.8,,26/11/2023
+85,Chemise,3.1,75.01,2024-05-16
+88,Montre,19.9,,invalid_date
+6,Pull,,17.07,2025-01-11
+77,Lunettes de soleil,,32.37,2023-10-20
+66,Robe,7.2,44.11,2025-04-20
+4,Robe,,,2025-01-01
+7,Robe,,,invalid_date
+72,Lunettes de soleil,,,15/05/2025
+21,Chemise,,,09/06/2023
+97,Montre,7.5,,15/07/2024
+29,Cravate,15.8,48.26,26/09/2024
+34,Lunettes de soleil,17.6,86.89,10/11/2024
+44,Robe,,,2025-04-02
+7,Chemise,,24.42,2024-02-06
+23,Chaussures,,,invalid_date
+85,Montre,6.9,78.74,11/03/2025
+4,Pantalon,,73.82,2024-12-15
+48,Robe,,99.4,invalid_date
+2,Pantalon,,,invalid_date
+17,Cravate,17.6,,12/04/2024
+2,Robe,,81.33,invalid_date
+55,Pantalon,3.8,92.76,2023-09-09
+68,Robe,,,02/08/2023
+90,Lunettes de soleil,17.5,,invalid_date
+22,Pull,19.7,37.88,invalid_date
+72,Cravate,,,2025-03-08
+5,Lunettes de soleil,,,16/11/2024
+95,Chaussures,17.5,20.03,2025-04-16
+92,Montre,,71.4,22/12/2024
+57,Lunettes de soleil,15.5,69.8,15/08/2024
+22,Chemise,,71.66,17/06/2024
+46,Chemise,13.4,82.11,invalid_date
+50,Cravate,,39.61,2025-02-16
+50,Cravate,7.2,34.01,23/08/2024
+30,Robe,1.2,,09/07/2023
+61,Robe,10.8,,2024-04-23
+36,Robe,,,2023-08-31
+69,Cravate,,,invalid_date
+80,Cravate,9.6,,2025-03-12
+83,Pantalon,,,invalid_date
+95,Lunettes de soleil,,98.94,invalid_date
+77,Chemise,,53.31,13/12/2024
+14,Robe,17.0,32.84,2024-01-30
+12,Lunettes de soleil,14.5,34.1,invalid_date
+84,Cravate,12.3,56.93,invalid_date
+14,Chaussures,,12.71,invalid_date
+27,Chaussures,10.8,74.05,2025-01-16
+19,Pantalon,1.9,11.34,2024-08-18
+1,Chemise,,,2023-09-19
+6,Chemise,,74.34,2023-09-26
+71,Pantalon,16.5,43.54,20/01/2024
+8,Cravate,,93.57,invalid_date
+11,Chemise,,47.9,2024-07-11
+41,Robe,,84.89,2025-01-09
+1,Cravate,14.9,,2024-05-07
+1,Pull,,,13/12/2023
+10,Pull,1.4,,23/08/2023
+35,Pantalon,,,2023-07-31
+91,Pantalon,14.4,98.81,04/11/2024
+70,Pull,,,2024-01-13
+67,Chemise,8.0,48.69,13/11/2024
+71,Chaussures,,,2024-09-01
+68,Cravate,11.3,,invalid_date
+10,Pull,,,2025-03-17
+73,Montre,18.0,72.39,2023-09-14
+3,Pantalon,,50.91,30/11/2023
+2,Robe,19.6,,2024-02-22
+10,Montre,,97.44,29/06/2023
+63,Montre,6.5,70.39,09/01/2024
+38,Lunettes de soleil,12.4,18.69,16/02/2025
+12,Lunettes de soleil,,33.96,2023-10-04
+78,Montre,7.4,,invalid_date
+94,Pull,6.1,,invalid_date
+38,Pull,10.2,38.71,2024-12-23
+74,Chaussures,,54.73,invalid_date
+74,Chemise,18.8,,2024-05-14
+91,Pull,8.8,51.34,2025-02-04
+36,Montre,19.8,,invalid_date
+36,Chemise,,56.82,2023-05-31
+89,Robe,14.6,,2025-02-24
+50,Pull,1.1,,invalid_date
+83,Chemise,,97.73,19/02/2025
+14,Pantalon,,17.28,invalid_date
+47,Cravate,,14.79,2024-11-05
+6,Chemise,,63.43,2025-05-19
+62,Robe,18.2,,invalid_date
+92,Pull,14.3,82.97,invalid_date
+67,Montre,8.9,,11/02/2025
+17,Robe,,,invalid_date
+12,Chaussures,19.6,82.43,2023-07-11
+99,Pantalon,,,invalid_date
+85,Lunettes de soleil,5.2,,2024-04-30
+94,Pull,9.3,40.37,01/08/2023
+68,Chemise,,,2025-04-23
+96,Lunettes de soleil,9.5,,08/02/2025
+70,Cravate,11.4,38.61,25/08/2023
+81,Robe,8.7,,14/05/2024
+7,Montre,,,29/09/2023
+58,Pull,,96.48,2025-05-08
+73,Chaussures,14.9,,18/02/2025
+14,Chemise,,75.76,2024-12-04
+13,Pantalon,,,2024-06-10
+77,Chemise,,,invalid_date
+50,Chemise,14.0,25.14,03/10/2023
+92,Pull,,,invalid_date
+11,Chaussures,20.0,70.02,14/10/2023
+41,Pull,17.6,,invalid_date
+7,Pantalon,,29.31,07/04/2025
+84,Robe,,,2023-09-14
+64,Pantalon,15.5,,invalid_date
+71,Chemise,,67.95,invalid_date
+97,Pantalon,,35.91,06/01/2024
+99,Chemise,4.9,,2024-06-12
+5,Cravate,,,invalid_date
+79,Pantalon,,89.25,invalid_date
+46,Pull,15.4,,2023-07-29
+6,Pull,8.4,,invalid_date
+74,Chemise,,61.41,2024-04-11
+70,Lunettes de soleil,,33.65,08/04/2025
+65,Robe,14.2,74.5,invalid_date
+25,Robe,,87.57,2023-12-01
+51,Montre,9.7,40.08,2025-02-03
+21,Pull,16.7,,06/06/2023
+33,Chaussures,18.1,,invalid_date
+33,Chaussures,12.1,69.53,2024-11-26
+29,Robe,7.3,16.28,invalid_date
+6,Lunettes de soleil,16.9,42.06,invalid_date
+98,Lunettes de soleil,10.7,11.26,2024-02-13
+50,Lunettes de soleil,9.4,65.46,15/06/2024
+87,Pull,,,18/03/2024
+73,Chaussures,,,2023-12-18
+30,Cravate,9.0,81.76,24/01/2024
+48,Pull,10.9,,2024-08-27
+89,Chaussures,,,2023-06-13
+29,Chemise,,73.04,2025-02-09
+83,Chaussures,2.3,,invalid_date
+1,Pull,,19.58,invalid_date
+56,Cravate,,59.52,invalid_date
+76,Pull,,,2025-01-06
+91,Pantalon,8.3,,2023-11-18
+62,Cravate,,64.78,invalid_date
+75,Montre,,,2024-10-13
+85,Pantalon,19.9,,2023-12-15
+1,Chemise,4.4,65.35,invalid_date
+30,Chaussures,13.6,15.32,14/12/2024
+36,Montre,19.8,75.8,2023-07-04
+54,Pull,12.0,73.1,invalid_date
+81,Chemise,3.4,,invalid_date
+90,Chaussures,5.2,,21/02/2024
+46,Chaussures,14.2,31.93,2025-05-17
+100,Chaussures,,40.19,03/10/2023
+33,Lunettes de soleil,4.7,41.0,21/11/2023
+59,Montre,7.8,65.0,2024-08-24
+99,Pantalon,14.0,99.16,15/12/2024
+88,Pantalon,,87.87,2024-11-13
+75,Cravate,3.3,,2025-04-30
+80,Lunettes de soleil,8.4,61.07,2023-06-12
+54,Montre,1.3,,19/02/2024
+51,Montre,19.1,,2024-08-04
+11,Lunettes de soleil,7.9,,01/08/2024
+39,Chemise,,45.24,invalid_date
+40,Cravate,,,invalid_date
+78,Lunettes de soleil,4.2,21.65,16/07/2024
+18,Lunettes de soleil,17.8,17.96,05/10/2023
+28,Lunettes de soleil,,,20/06/2023
+87,Chaussures,2.9,,invalid_date
+88,Pantalon,,23.28,invalid_date
+40,Pantalon,,33.73,invalid_date
+44,Cravate,,95.25,27/05/2024
+86,Chemise,7.9,,2023-05-22
+5,Cravate,,,10/09/2024
+4,Pull,,,invalid_date
+50,Robe,,,invalid_date
+99,Pull,,,06/10/2023
+73,Montre,,,2025-05-04
+56,Cravate,18.2,,26/03/2025
+48,Chemise,11.2,,invalid_date
+12,Pull,,,13/09/2023
+74,Lunettes de soleil,,26.36,2024-08-19
+59,Robe,,79.92,09/09/2023
+24,Lunettes de soleil,,,invalid_date
+70,Cravate,5.7,94.69,03/07/2024
+100,Pull,17.8,74.66,29/02/2024
+73,Lunettes de soleil,,30.34,2023-07-17
+69,Pantalon,,92.78,2024-11-19
+11,Pull,,,19/08/2024
+21,Cravate,,76.52,07/02/2024
+65,Montre,,,2024-01-11
+83,Chaussures,17.5,,21/09/2023
+95,Chaussures,,51.65,invalid_date
+56,Lunettes de soleil,,,2025-01-26
+15,Robe,18.3,,2024-06-03
+57,Pantalon,,39.29,2024-01-23
+4,Chaussures,10.2,75.65,31/07/2024
+24,Pull,9.8,20.79,invalid_date
+39,Cravate,19.4,79.23,09/09/2024
+68,Pantalon,10.4,91.76,2025-01-22
+26,Lunettes de soleil,,,2023-11-11
+93,Chemise,12.4,,2024-08-21
+45,Chaussures,,84.45,2023-10-05
+19,Chaussures,,30.42,invalid_date
+78,Chaussures,,86.76,05/01/2024
+29,Chaussures,,,2023-08-28
+61,Lunettes de soleil,2.7,,2024-12-08
+66,Chaussures,,80.91,invalid_date
+21,Cravate,8.2,11.27,2024-03-21
+51,Pantalon,7.7,90.37,invalid_date
+12,Montre,,,invalid_date
+34,Lunettes de soleil,,,2024-08-31
+19,Cravate,19.6,98.39,2025-05-06
+21,Chemise,,32.84,09/11/2023
+72,Chaussures,14.6,,03/08/2024
+8,Lunettes de soleil,,29.0,18/05/2025
+32,Montre,17.4,16.0,invalid_date
+8,Robe,,34.82,2024-02-03
+63,Pull,,,2023-07-21
+2,Pantalon,,25.71,invalid_date
+37,Lunettes de soleil,,,2023-09-29
+41,Robe,16.0,,invalid_date
+10,Chaussures,18.8,,invalid_date
+35,Pantalon,,,2024-10-23
+73,Pantalon,,63.32,invalid_date
+42,Montre,,82.44,02/05/2024
+1,Chaussures,1.3,49.11,invalid_date
+2,Pantalon,,18.65,2023-10-31
+40,Pantalon,18.9,,invalid_date
+52,Montre,,,2024-02-18
+10,Chaussures,,30.82,2025-01-22
+57,Lunettes de soleil,13.8,,invalid_date
+74,Montre,,41.72,invalid_date
+88,Robe,4.9,,11/12/2024
+40,Cravate,,26.35,2024-04-11
+6,Chaussures,3.3,41.68,07/04/2024
+63,Lunettes de soleil,,,05/04/2025
+62,Chemise,14.5,,18/02/2024
+40,Robe,,,invalid_date
+58,Montre,18.5,47.78,23/02/2025
+45,Lunettes de soleil,14.1,,2024-05-28
+3,Lunettes de soleil,,,2025-03-23
+5,Lunettes de soleil,,,30/12/2024
+11,Pantalon,,,2024-11-05
+42,Cravate,,63.42,2023-09-25
+48,Pull,3.1,51.64,31/01/2025
+39,Cravate,,,invalid_date
+51,Pull,,69.17,06/06/2023
+43,Robe,,,invalid_date
+33,Pantalon,,,invalid_date
+78,Cravate,15.3,,01/10/2023
+75,Montre,,,2025-04-10
+68,Chaussures,3.8,,2023-09-23
+78,Montre,14.7,,2023-07-19
+32,Chaussures,3.0,,2025-04-18
+8,Chaussures,,,25/08/2024
+39,Pull,,,invalid_date
+17,Chaussures,1.7,,invalid_date
+56,Robe,8.2,23.35,invalid_date
+7,Chemise,,19.6,2024-10-10
+94,Montre,,,2024-09-04
+43,Pull,,,2024-04-23
+74,Cravate,,,2023-07-02
+34,Pull,8.5,17.62,invalid_date
+71,Pull,1.9,36.7,2023-10-16
+53,Chaussures,18.7,13.01,2024-11-13
+40,Montre,,46.59,2024-12-02
+39,Cravate,,,invalid_date
+4,Chemise,,73.97,invalid_date
+36,Lunettes de soleil,15.3,23.77,invalid_date
+85,Montre,,,2023-11-22
+5,Robe,,15.26,invalid_date
+47,Chemise,,,2024-08-08
+58,Pull,14.9,27.91,invalid_date
+20,Cravate,1.2,,invalid_date
+14,Cravate,4.9,30.67,2024-02-26
+33,Lunettes de soleil,9.9,76.07,invalid_date
+55,Montre,7.9,,2024-01-05
+100,Montre,,,2024-10-17
+96,Chemise,,28.95,2024-08-30
+30,Robe,16.5,31.15,05/08/2023
+92,Chaussures,,51.26,2023-06-10
+59,Chaussures,19.2,,2023-10-01
+57,Lunettes de soleil,,,invalid_date
+100,Pantalon,,,07/03/2025
+34,Lunettes de soleil,3.0,93.31,16/01/2024
+47,Cravate,,,invalid_date
+19,Pull,10.6,,invalid_date
+6,Pull,,74.14,2025-04-16
+63,Cravate,,61.61,2023-12-13
+13,Chaussures,2.6,,invalid_date
+6,Cravate,,82.66,invalid_date
+10,Montre,,36.22,invalid_date
+29,Chaussures,,72.5,invalid_date
+41,Pantalon,10.4,,02/05/2024
+96,Robe,,26.36,12/12/2023
+38,Chaussures,,,invalid_date
+34,Lunettes de soleil,17.1,91.79,invalid_date
+70,Cravate,,,2025-03-02
+40,Montre,,,2024-08-02
+22,Chemise,,,2023-09-16
+79,Pull,,54.72,21/10/2024
+55,Cravate,,,2023-08-05
+58,Montre,10.0,,invalid_date
+20,Chemise,,41.44,2025-02-07
+78,Chaussures,,61.54,2024-04-07
+76,Robe,,,2024-08-22
+6,Chaussures,,,2024-07-24
+56,Cravate,9.8,68.12,invalid_date
+93,Robe,13.6,,2025-02-15
+43,Robe,12.8,,2024-04-11
+25,Cravate,14.8,68.92,2024-11-05
+35,Cravate,14.4,15.78,2025-05-18
+20,Pantalon,19.0,,invalid_date
+38,Pantalon,14.5,,invalid_date
+64,Lunettes de soleil,6.7,19.36,invalid_date
+42,Robe,11.6,,2024-03-23
+87,Chemise,,,26/11/2024
+82,Montre,,,invalid_date
+52,Robe,,77.4,invalid_date
+56,Chaussures,5.1,20.06,invalid_date
+56,Chaussures,4.4,,invalid_date
+9,Chemise,,57.87,13/09/2023
+94,Montre,18.8,,2023-08-23
+98,Lunettes de soleil,,61.78,invalid_date
+21,Cravate,3.1,,02/11/2023
+53,Chemise,15.0,73.56,2025-02-07
+45,Cravate,,,2023-08-28
+13,Chemise,7.1,39.4,21/07/2023
+32,Cravate,11.4,94.18,24/04/2024
+79,Chaussures,13.5,,invalid_date
+90,Lunettes de soleil,,78.07,2024-09-20
+23,Cravate,,70.59,2025-02-27
+62,Lunettes de soleil,18.1,55.51,invalid_date
+70,Lunettes de soleil,,,invalid_date
+40,Pantalon,1.0,27.09,2025-05-01
+29,Chaussures,2.9,41.44,28/07/2023
+95,Pantalon,,73.74,27/07/2024
+62,Montre,8.3,,invalid_date
+22,Chemise,13.1,,2024-01-30
+99,Pantalon,,,2023-12-22
+59,Pantalon,,62.16,invalid_date
+89,Robe,,26.04,invalid_date
+94,Chaussures,,,invalid_date
+50,Chaussures,,61.73,2024-09-16
+42,Montre,4.9,40.91,invalid_date
+35,Lunettes de soleil,12.9,,2024-04-11
+75,Chemise,,,15/09/2023
+76,Robe,,,04/08/2024
+3,Chemise,,,16/08/2024
+72,Pull,,46.51,invalid_date
+25,Robe,,,invalid_date
+81,Pull,4.9,,invalid_date
+69,Chemise,,10.89,invalid_date
+82,Lunettes de soleil,,96.84,2025-01-21
+21,Lunettes de soleil,,,11/07/2024
+71,Chemise,1.3,,13/02/2024
+67,Pantalon,15.6,60.07,invalid_date
+6,Pull,10.2,,14/03/2024
+96,Pantalon,,98.58,2024-10-11
+20,Montre,16.0,14.25,2024-08-08
+87,Pull,,,invalid_date
+27,Chemise,,44.87,invalid_date
+34,Cravate,,48.88,invalid_date
+98,Montre,18.4,,2024-09-13
+54,Chemise,1.6,48.5,2024-10-31
+30,Robe,,,2024-03-29
+77,Chemise,,,invalid_date
+52,Pull,4.1,44.0,2025-04-03
+42,Pull,,88.5,22/11/2023
+55,Chaussures,4.5,21.24,21/12/2024
+31,Cravate,,49.56,06/05/2025
+64,Robe,,,invalid_date
+42,Pull,,39.36,2024-03-06
+69,Cravate,,84.74,14/02/2025
+43,Pull,5.1,73.14,2025-01-27
+95,Cravate,8.5,95.19,invalid_date
+100,Montre,5.5,,06/06/2024
+21,Lunettes de soleil,15.7,,invalid_date
+87,Pull,11.5,,2024-11-03
+88,Pull,,19.13,invalid_date
+42,Montre,8.0,50.38,10/01/2024
+7,Chemise,7.9,,30/04/2024
+35,Montre,,,2025-01-12
+39,Montre,,,2024-01-26
+46,Robe,,,invalid_date
+27,Chemise,,55.95,2024-09-02
+25,Pantalon,,17.48,invalid_date
+26,Cravate,16.7,48.44,invalid_date
+61,Chaussures,16.4,41.74,19/02/2025
+70,Montre,,,2024-04-02
+41,Pantalon,7.0,,31/12/2024
+42,Cravate,18.6,53.44,2024-06-26
+66,Pantalon,,,17/02/2025
+64,Pantalon,,76.81,invalid_date
+51,Pantalon,19.8,,2025-01-25
+76,Robe,,,2023-07-11
+79,Chemise,14.1,,18/06/2024
+30,Chemise,11.1,,2024-03-30
+13,Pantalon,,,13/03/2025
+22,Robe,,,invalid_date
+48,Montre,,,13/06/2023
+82,Pull,15.3,95.09,invalid_date
+7,Chaussures,,,invalid_date
+69,Pantalon,,57.59,invalid_date
+78,Montre,,,invalid_date
+68,Robe,,93.29,10/05/2024
+27,Lunettes de soleil,10.4,,invalid_date
+14,Pantalon,4.5,67.44,invalid_date
+65,Pull,15.3,79.78,invalid_date
+63,Pantalon,,61.88,invalid_date
+80,Chaussures,,52.12,17/06/2024
+41,Chaussures,,93.22,2024-03-25
+48,Pantalon,,77.01,invalid_date
+60,Chemise,,,2024-11-01
+96,Pantalon,3.3,80.85,2023-11-25
+32,Chaussures,,,25/08/2024
+16,Cravate,14.7,,invalid_date
+13,Pantalon,,15.49,24/05/2024
+28,Montre,4.9,,2024-08-19
+49,Lunettes de soleil,,,invalid_date
+93,Lunettes de soleil,11.8,41.79,invalid_date
+1,Pull,,,08/12/2023
+86,Cravate,,,2024-12-23
+75,Montre,,41.2,2024-11-07
+49,Robe,5.7,69.4,12/06/2023
+63,Chaussures,9.7,,invalid_date
+49,Lunettes de soleil,1.1,36.55,15/03/2025
+33,Robe,,16.89,invalid_date
+90,Montre,,67.11,17/03/2025
+69,Robe,,,2023-11-09
+5,Cravate,13.7,22.18,2023-11-12
+34,Chaussures,10.2,48.0,17/12/2023
+82,Robe,,20.45,invalid_date
+41,Cravate,,61.76,06/06/2023
+64,Lunettes de soleil,5.9,61.27,invalid_date
+69,Robe,,,01/11/2024
+15,Cravate,,,2023-05-28
+63,Pantalon,9.6,,invalid_date
+72,Pantalon,,,invalid_date
+99,Chemise,4.9,63.16,invalid_date
+64,Cravate,,,invalid_date
+29,Cravate,,,2023-12-04
+33,Pantalon,5.4,64.45,14/01/2024
+25,Lunettes de soleil,19.4,,2024-11-25
+45,Robe,16.0,93.14,invalid_date
+22,Cravate,18.0,,16/04/2025
+60,Chaussures,,15.97,invalid_date
+89,Montre,,18.97,2024-02-16
+35,Pull,20.0,85.62,2023-12-03
+80,Montre,,18.89,2024-05-18
+97,Robe,,,2024-10-28
+96,Lunettes de soleil,,28.42,17/09/2024
+11,Montre,17.0,26.7,17/08/2024
+89,Cravate,4.3,19.71,2023-08-09
+25,Robe,,,2024-06-22
+7,Montre,,50.38,2025-03-06
+20,Chemise,,80.15,31/07/2024
+54,Chaussures,,27.69,2024-10-05
+44,Montre,,12.7,27/12/2023
+32,Chaussures,7.3,,2024-01-08
+79,Montre,2.7,68.89,2023-08-13
+12,Pantalon,,,2023-07-10
+84,Lunettes de soleil,10.4,,30/09/2024
+91,Robe,15.1,99.89,invalid_date
+22,Pantalon,10.0,,2023-12-23
+53,Chemise,19.7,,24/11/2024
+17,Chaussures,7.9,68.32,2025-04-14
+44,Chaussures,,77.98,invalid_date
+86,Chemise,,,26/06/2024
+24,Lunettes de soleil,12.7,,invalid_date
+81,Pull,7.0,,05/07/2023
+11,Montre,,74.82,invalid_date
+18,Robe,,,2025-02-03
+49,Chemise,3.5,61.75,30/03/2024
+69,Pantalon,,,invalid_date
+37,Lunettes de soleil,,,2024-10-31
+28,Montre,8.2,,10/06/2023
+59,Robe,1.4,49.45,invalid_date
+15,Chemise,10.3,,2024-01-06
+7,Lunettes de soleil,11.9,45.37,2025-04-25
+42,Cravate,,,18/03/2024
+6,Chaussures,,,2024-12-14
+19,Chemise,4.2,,invalid_date
+96,Chaussures,,91.24,2024-08-08
+98,Cravate,1.0,,2023-10-16
+38,Lunettes de soleil,9.6,65.1,invalid_date
+67,Pantalon,3.3,46.56,2023-11-10
+75,Pantalon,8.3,83.84,invalid_date
+64,Cravate,,76.6,25/05/2024
+2,Pull,6.7,,21/05/2025
+34,Lunettes de soleil,5.7,,invalid_date
+29,Cravate,9.3,75.07,10/01/2024
+11,Pantalon,10.9,,invalid_date
+34,Pull,,23.51,2025-03-04
+82,Robe,16.3,16.16,28/07/2024
+98,Cravate,,,05/01/2024
+74,Robe,,,21/05/2024
+19,Chemise,2.8,34.03,2023-08-29
+91,Pantalon,14.1,92.86,invalid_date
+58,Robe,19.4,,2025-02-07
+5,Pull,10.5,,2025-01-03
+60,Cravate,,67.35,30/10/2024
+40,Chaussures,19.1,,2025-04-19
+2,Robe,2.7,99.32,invalid_date
+90,Pull,3.0,71.8,invalid_date
+23,Pull,7.6,,2023-11-11
+5,Chemise,9.8,,15/01/2024
+53,Chemise,2.0,60.54,23/01/2025
+12,Chemise,2.7,28.05,invalid_date
+95,Lunettes de soleil,2.3,,invalid_date
+92,Pull,,,2024-08-18
+99,Robe,6.9,,invalid_date
+23,Chaussures,,,21/05/2024
+4,Pantalon,,,24/03/2025
+93,Cravate,,54.26,17/08/2024
+31,Pull,,,invalid_date
+22,Chaussures,18.9,77.45,22/05/2024
+86,Chaussures,8.5,,invalid_date
+50,Pull,,95.74,23/08/2023
+10,Montre,,,invalid_date
+35,Robe,10.0,69.62,invalid_date
+27,Pull,,97.75,invalid_date
+39,Montre,19.9,,28/03/2025
+27,Robe,,,invalid_date
+20,Pantalon,,,24/10/2023
+78,Pull,,61.73,2024-02-12
+52,Robe,16.2,78.98,invalid_date
+91,Montre,15.7,,2025-04-25
+1,Lunettes de soleil,5.4,,invalid_date
+65,Chaussures,,,invalid_date
+3,Lunettes de soleil,8.7,41.26,2023-10-09
+6,Chaussures,,,2023-07-23
+93,Chaussures,5.7,,2024-02-04
+40,Lunettes de soleil,1.1,54.7,invalid_date
+94,Lunettes de soleil,2.0,28.24,invalid_date
+26,Pantalon,12.3,,2023-05-25
+2,Cravate,,83.2,2023-12-20
+97,Montre,,,2025-01-02
+100,Pantalon,,89.57,11/08/2024
+88,Chemise,,,invalid_date
+60,Pull,17.5,66.58,2024-06-05
+57,Pull,5.2,73.56,16/01/2025
+22,Montre,10.9,,invalid_date
+98,Chemise,,,2024-09-10
+55,Chemise,11.5,,2024-09-25
+17,Cravate,,,2024-03-30
+69,Cravate,10.2,,invalid_date
+14,Chemise,,,20/06/2023
+60,Chemise,,,2024-07-09
+99,Chaussures,,96.76,2024-12-09
+51,Chemise,,,invalid_date
+46,Montre,,,invalid_date
+88,Pull,2.3,,invalid_date
+96,Chaussures,2.7,,04/06/2023
+19,Lunettes de soleil,,93.5,2024-10-28
+47,Chemise,,90.35,11/12/2024
+28,Pantalon,12.8,,invalid_date
+38,Pantalon,5.2,37.13,invalid_date
+55,Pantalon,,87.23,2024-02-13
+13,Pull,,,invalid_date
+71,Lunettes de soleil,,74.16,2024-03-14
+86,Pull,5.4,,2024-08-21
+16,Robe,,33.36,11/07/2023
+65,Lunettes de soleil,17.3,38.81,invalid_date
+44,Pull,15.1,22.31,02/01/2024
+64,Pull,16.3,,invalid_date
+64,Pantalon,,23.93,invalid_date
+77,Montre,,,08/02/2024
+56,Pull,,,2024-04-22
+5,Pull,2.2,12.46,2024-11-05
+65,Montre,,,invalid_date
+83,Cravate,10.1,,25/02/2024
+40,Cravate,11.1,,2024-12-24
+39,Pull,14.4,44.5,invalid_date
+23,Pull,,,2025-05-04
+58,Chaussures,,,05/06/2023
+55,Robe,,,invalid_date
+27,Chaussures,10.1,87.37,31/08/2023
+27,Lunettes de soleil,10.0,42.23,2023-11-02
+68,Lunettes de soleil,,,invalid_date
+89,Chemise,,63.22,2024-06-16
+8,Pull,15.8,,2023-08-25
+88,Chaussures,,,invalid_date
+58,Lunettes de soleil,19.1,,20/06/2023
+58,Chemise,,,01/04/2025
+33,Chaussures,9.3,62.8,2024-09-30
+68,Robe,3.8,,invalid_date
+17,Montre,14.8,15.37,2024-09-17
+83,Chaussures,10.2,,28/06/2023
+84,Montre,9.1,97.18,13/08/2023
+22,Chemise,15.8,,2024-10-10
+37,Robe,,61.94,2023-06-06
+48,Chaussures,,95.98,2024-11-07
+75,Chaussures,4.6,77.22,2024-04-09
+35,Chaussures,,54.59,2024-03-12
+55,Chemise,,51.81,2024-07-20
+11,Lunettes de soleil,,89.84,17/11/2024
+88,Chemise,,62.5,2023-09-17
+53,Montre,,43.91,2024-11-11
+57,Chaussures,,48.99,invalid_date
+1,Cravate,19.2,,12/04/2024
+8,Chaussures,,19.79,invalid_date
+78,Cravate,3.4,,2024-10-17
+70,Pantalon,4.0,84.0,16/09/2024
+84,Chemise,,,invalid_date
+54,Montre,,,2023-09-05
+71,Robe,7.8,,invalid_date
+96,Pull,1.4,,22/06/2024
+1,Lunettes de soleil,,77.82,2024-11-30
+6,Chemise,13.6,60.85,invalid_date
+6,Chaussures,4.5,,2023-08-18
+80,Chemise,6.3,62.63,2023-08-12
+45,Cravate,5.7,10.59,2023-10-23
+46,Pantalon,,,15/01/2025
+8,Pantalon,12.7,,25/02/2025
+92,Chemise,,,invalid_date
+27,Cravate,15.3,27.35,18/11/2024
+32,Lunettes de soleil,,21.9,06/01/2024
+73,Cravate,,77.74,2023-09-23
+75,Chemise,,,10/06/2024
+79,Chaussures,19.1,,30/10/2023
+26,Pantalon,,,2024-11-06
+9,Chemise,,67.68,02/02/2024
+44,Pantalon,12.1,45.6,invalid_date
+30,Pantalon,10.2,75.03,24/10/2024
+36,Montre,,32.67,2023-07-30
+90,Chemise,,20.84,2023-08-15
+1,Chaussures,,38.39,22/10/2024
+8,Cravate,4.2,15.65,14/09/2023
+46,Chemise,,28.89,2023-07-30
+75,Pantalon,6.7,,19/07/2023
+76,Montre,,51.95,04/12/2024
+89,Robe,17.3,97.37,invalid_date
+33,Pull,14.3,63.16,03/10/2024
+99,Montre,,,invalid_date
+26,Cravate,17.7,,13/12/2023
+13,Pull,17.6,,invalid_date
+70,Robe,,,invalid_date
+65,Pull,15.0,84.66,30/03/2025
+90,Lunettes de soleil,,22.15,2023-06-21
+95,Robe,8.6,69.26,25/02/2024
+40,Cravate,,76.34,invalid_date
+51,Chaussures,11.6,,2024-01-19
+97,Pantalon,,,2024-12-15
+97,Robe,,,2023-08-03
+83,Chemise,2.7,81.36,12/04/2025
+12,Robe,11.8,63.46,invalid_date
+90,Lunettes de soleil,,,06/09/2023
+1,Robe,,84.52,invalid_date
+47,Lunettes de soleil,4.7,,invalid_date
+6,Chemise,14.6,14.49,invalid_date
+29,Cravate,8.0,58.49,2024-04-25
+21,Robe,16.9,17.82,03/04/2025
+1,Chemise,9.0,93.86,02/08/2023
+63,Chemise,,,2024-03-06
+61,Lunettes de soleil,,,2024-02-12
+2,Pull,5.3,,2023-08-18
+57,Lunettes de soleil,13.5,70.6,2024-03-27
+53,Pantalon,,35.48,01/03/2025
+39,Chaussures,18.8,,07/11/2024
+15,Cravate,,,invalid_date
+47,Montre,19.1,47.98,13/04/2024
+78,Robe,4.4,,2024-10-06
+61,Pull,17.3,,2025-01-29
+12,Montre,12.8,25.52,2023-08-17
+22,Robe,,,2024-11-12
+99,Montre,,,2023-07-06
+65,Lunettes de soleil,,61.32,2023-09-22
+46,Robe,,,2024-04-09
+54,Chemise,,,invalid_date
+91,Robe,2.2,98.13,invalid_date
+44,Cravate,,,26/04/2024
+95,Robe,,75.35,07/09/2024
+100,Chemise,16.9,62.34,16/01/2025
+69,Pantalon,,,invalid_date
+82,Lunettes de soleil,,,21/03/2025
+28,Montre,,,invalid_date
+45,Lunettes de soleil,,86.42,invalid_date
+50,Cravate,8.7,,invalid_date
+12,Pull,16.5,94.45,05/05/2025
+61,Chaussures,12.0,,17/08/2023
+6,Montre,,11.84,05/04/2024
+53,Lunettes de soleil,1.6,30.51,26/06/2023
+35,Lunettes de soleil,12.3,,11/12/2023
+83,Montre,13.7,,invalid_date
+16,Chaussures,4.5,,invalid_date
+83,Robe,15.7,,invalid_date
+83,Lunettes de soleil,,70.86,07/01/2025
+61,Cravate,11.9,37.42,invalid_date
+66,Montre,19.8,,invalid_date
+42,Chemise,,61.39,2023-11-11
+89,Montre,,78.85,invalid_date
+52,Montre,,28.53,2024-06-28
+52,Chaussures,12.0,52.71,invalid_date
+79,Pantalon,13.8,54.15,03/08/2023
+90,Pull,19.3,79.54,16/10/2024
+12,Montre,15.0,,invalid_date
+34,Chaussures,,24.2,invalid_date
+90,Cravate,19.5,70.71,28/10/2024
+39,Chemise,,,15/03/2024
+4,Lunettes de soleil,12.4,,2023-09-14
+1,Pull,5.9,,2025-02-21
+72,Robe,13.5,83.06,invalid_date
+87,Pantalon,9.9,47.29,31/05/2023
+82,Lunettes de soleil,,69.7,16/05/2025
+83,Chemise,,89.42,invalid_date
+66,Pantalon,7.2,94.55,2025-03-11
+61,Chemise,18.8,,2025-03-13
+58,Chemise,4.9,56.58,27/09/2023
+21,Lunettes de soleil,3.9,,invalid_date
+23,Robe,,77.7,invalid_date
+3,Montre,,95.63,invalid_date
+83,Montre,13.0,16.77,30/06/2023
+76,Pantalon,,87.27,10/11/2023
+52,Lunettes de soleil,3.5,57.73,2024-07-22
+80,Pantalon,9.7,,2024-03-11
+87,Robe,6.3,,invalid_date
+84,Chaussures,,,2023-07-22
+11,Chaussures,,82.95,02/02/2025
+21,Pull,5.1,62.7,2024-08-09
+59,Pull,5.7,,invalid_date
+58,Lunettes de soleil,16.6,,invalid_date
+98,Montre,,,2024-01-22
+98,Robe,,,20/12/2024
+65,Pantalon,,,invalid_date
+3,Cravate,,85.64,2023-08-09
+46,Montre,20.0,,invalid_date
+52,Lunettes de soleil,3.9,96.47,21/07/2024
+5,Lunettes de soleil,,,21/02/2025
+75,Pantalon,,,invalid_date
+23,Chaussures,,,2024-09-02
+22,Lunettes de soleil,11.7,,13/01/2024
+10,Montre,,,19/06/2024
+79,Chaussures,12.2,,29/10/2023
+72,Montre,,,24/10/2024
+2,Robe,,57.27,invalid_date
+33,Cravate,2.8,64.28,invalid_date
+11,Chaussures,,10.89,2023-07-03
+38,Robe,,93.7,invalid_date
+93,Pantalon,,76.71,2024-05-08
+37,Pantalon,5.1,,07/01/2025
+20,Montre,,,29/08/2024
+21,Chaussures,6.6,39.66,2024-05-23
+67,Chaussures,5.4,,28/02/2024
+55,Pantalon,,,2024-11-28
+73,Chemise,,46.21,2023-08-18
+11,Montre,13.5,66.52,14/10/2024
+79,Lunettes de soleil,,,2023-11-10
+97,Robe,17.1,,21/02/2024
+33,Pantalon,,30.3,invalid_date
+25,Montre,,86.54,2025-02-01
+7,Montre,10.3,67.81,30/06/2024
+45,Chemise,5.3,78.18,2024-03-07
+19,Pull,16.8,,2023-08-12
+27,Montre,,,26/09/2023
+36,Montre,6.4,,08/09/2023
+4,Montre,,87.94,28/11/2024
+9,Chemise,,47.22,invalid_date
+10,Montre,,18.08,invalid_date
+22,Pull,,,2023-12-05
+78,Pantalon,,,14/10/2023
+70,Pantalon,14.8,,13/05/2025
+35,Lunettes de soleil,13.7,64.2,22/03/2024
+7,Montre,16.6,14.55,invalid_date
+32,Chemise,,90.35,invalid_date
+36,Chemise,19.9,64.38,2023-10-17
+11,Chemise,,45.43,invalid_date
+94,Chemise,,,invalid_date
+36,Chemise,13.5,,2023-06-27
+78,Pull,,,invalid_date
+77,Cravate,17.5,,2024-10-25
+26,Chemise,,37.0,invalid_date
+65,Chemise,,,2025-04-13
+77,Chaussures,1.8,63.95,invalid_date
+93,Robe,17.4,18.27,16/06/2024
+49,Pantalon,,59.82,12/06/2024
+21,Lunettes de soleil,5.6,,2023-05-25
+38,Montre,16.2,,2024-12-13
+77,Montre,,,17/05/2025
+92,Robe,6.6,87.72,invalid_date
+26,Pantalon,9.4,36.03,invalid_date
+74,Pull,,,19/06/2024
+53,Chaussures,17.6,,2025-01-17
+47,Cravate,19.5,77.41,invalid_date
+69,Robe,,,2024-11-09
+28,Lunettes de soleil,10.8,39.76,09/12/2024
+31,Chemise,8.5,49.06,29/08/2023
+6,Chaussures,14.9,,17/03/2024
+2,Pantalon,1.2,62.8,2024-10-13
+8,Cravate,13.1,42.84,invalid_date
+34,Pull,4.0,,16/06/2024
+73,Montre,,30.81,invalid_date
+84,Chaussures,19.4,,2024-04-11
+18,Montre,,,09/11/2024
+35,Chaussures,,,invalid_date
+37,Pull,5.3,21.19,invalid_date
+72,Pantalon,,,invalid_date
+28,Robe,,,05/02/2025
+21,Chaussures,,,invalid_date
+64,Chemise,,44.19,31/08/2024
+14,Lunettes de soleil,,58.76,09/04/2025
+2,Robe,9.5,,2024-12-23
+17,Cravate,7.7,,2024-01-09
+10,Pull,19.1,16.11,invalid_date
+93,Pantalon,9.0,38.44,20/01/2024
+68,Montre,,,14/12/2024
+10,Cravate,,,2025-05-17
+91,Lunettes de soleil,,,invalid_date
+60,Chemise,,21.08,invalid_date
+68,Lunettes de soleil,,,invalid_date
+28,Lunettes de soleil,7.3,59.84,05/11/2024
+92,Montre,,45.64,06/05/2025
+88,Montre,1.9,,02/09/2023
+94,Pantalon,11.3,87.0,invalid_date
+24,Chaussures,,48.92,2023-10-07
+25,Chaussures,,29.14,2024-07-16
+73,Lunettes de soleil,6.5,26.74,27/01/2024
+31,Chaussures,,43.85,19/08/2023
+22,Montre,10.0,65.98,2025-01-01
+93,Pull,13.4,22.3,2024-07-31
+74,Pantalon,5.8,15.87,2024-08-16
+98,Chaussures,,,23/11/2024
+85,Pantalon,12.5,90.05,invalid_date
+62,Pull,16.6,,invalid_date
+44,Chaussures,18.0,,09/07/2024
+56,Pantalon,4.8,21.19,invalid_date
+51,Robe,19.7,70.61,14/04/2024
+81,Chaussures,,,2025-02-07
+27,Pantalon,8.9,,12/08/2023
+94,Montre,,,2023-06-10
+31,Lunettes de soleil,,65.29,invalid_date
+65,Robe,,17.63,invalid_date
+61,Robe,14.8,,2023-10-24
+87,Lunettes de soleil,,,21/01/2025
+54,Chaussures,8.1,,2023-09-24
+2,Chemise,,,invalid_date
+52,Robe,19.0,,03/03/2025
+41,Montre,13.3,19.4,invalid_date
+90,Montre,,85.79,06/01/2024
+77,Lunettes de soleil,,83.25,27/12/2024
+77,Cravate,,,16/06/2023
+28,Chaussures,3.5,,12/02/2025
+13,Chaussures,2.9,69.45,09/08/2023
+79,Robe,,30.52,2024-09-11
+90,Pantalon,,49.32,2024-10-27
+25,Robe,,25.54,23/03/2025
+51,Montre,,15.78,2023-11-12
+27,Montre,,,2024-10-05
+50,Chemise,8.3,98.87,invalid_date
+93,Robe,,,invalid_date
+74,Robe,,,invalid_date
+35,Lunettes de soleil,4.7,,2024-11-12
+26,Lunettes de soleil,16.3,85.55,invalid_date
+19,Lunettes de soleil,,21.92,10/05/2025
+42,Pull,,,18/03/2024
+43,Montre,,,23/01/2025
+46,Pantalon,19.8,,19/01/2024
+1,Chemise,,,invalid_date
+17,Robe,,,19/12/2024
+33,Pull,3.0,,26/10/2023
+9,Montre,18.7,22.93,2024-09-15
+68,Lunettes de soleil,,11.53,20/03/2025
+61,Chemise,,11.79,30/04/2024
+25,Chemise,,,2025-02-24
+28,Lunettes de soleil,2.2,,invalid_date
+7,Cravate,,77.2,23/11/2024
+86,Chemise,,,invalid_date
+63,Montre,,40.3,invalid_date
+35,Pantalon,,64.85,15/12/2024
+41,Chemise,,,invalid_date
+63,Robe,19.8,,invalid_date
+82,Cravate,11.9,89.94,2023-10-19
+85,Lunettes de soleil,,34.32,2024-05-04
+12,Pull,18.3,,invalid_date
+3,Montre,,23.82,2023-10-14
+73,Montre,,,24/06/2024
+47,Pull,19.2,69.07,invalid_date
+55,Robe,19.9,28.13,invalid_date
+41,Lunettes de soleil,,,2023-12-24
+32,Cravate,,,invalid_date
+71,Lunettes de soleil,,,17/08/2024
+38,Cravate,,27.32,06/12/2023
+52,Chaussures,17.0,69.15,02/02/2024
+12,Pantalon,9.9,36.54,23/11/2024
+47,Pull,,66.06,19/09/2023
+20,Cravate,3.5,,2023-06-22
+58,Chemise,19.6,30.52,2025-05-12
+91,Lunettes de soleil,,,2024-08-27
+86,Robe,,,2025-01-11
+81,Montre,,38.25,invalid_date
+70,Chemise,17.0,51.65,17/10/2024
+75,Pantalon,7.1,,06/06/2024
+66,Lunettes de soleil,4.2,,08/08/2024
+27,Chemise,17.4,,2024-07-22
+20,Cravate,12.3,26.24,invalid_date
+43,Pantalon,11.4,,invalid_date
+98,Pantalon,10.7,83.39,invalid_date
+63,Chemise,,74.37,2023-10-11
+7,Montre,12.1,53.29,invalid_date
+72,Chaussures,8.4,,invalid_date
+39,Montre,18.5,74.25,16/07/2024
+63,Pull,,87.6,2024-07-12
+44,Pull,14.1,,2023-08-01
+95,Pantalon,15.6,,07/04/2025
+81,Chemise,,49.6,18/10/2024
+17,Pantalon,11.0,,03/02/2024
+6,Robe,8.0,19.42,05/01/2024
+9,Robe,17.9,68.63,2023-11-07
+30,Pull,17.2,,2024-09-13
+42,Lunettes de soleil,16.6,,31/07/2024
+80,Montre,11.2,,invalid_date
+35,Pull,,,invalid_date
+38,Chemise,18.4,,invalid_date
+55,Robe,16.5,48.88,invalid_date
+41,Montre,,55.54,2023-11-24
+46,Montre,8.0,64.13,invalid_date
+57,Cravate,,96.56,invalid_date
+5,Chaussures,11.7,,invalid_date
+85,Robe,13.2,,2024-11-02
+49,Pull,,,invalid_date
+32,Lunettes de soleil,16.1,95.21,29/01/2025
+38,Lunettes de soleil,,44.99,16/03/2024
+96,Pull,11.4,,14/07/2024
+95,Pantalon,,10.26,2024-12-04
+22,Pantalon,10.8,46.4,invalid_date
+37,Pantalon,,,18/02/2025
+90,Chemise,,83.56,invalid_date
+63,Montre,6.5,63.23,invalid_date
+52,Robe,13.6,97.4,2024-06-20
+55,Pull,19.4,,invalid_date
+24,Pantalon,11.6,,18/04/2025
+16,Lunettes de soleil,,49.2,2024-10-09
+18,Pull,15.2,35.01,2024-01-25
+17,Chaussures,13.9,34.18,2023-07-24
+27,Montre,19.5,,11/01/2025
+80,Chemise,,,2024-07-12
+82,Robe,,,2023-05-27
+79,Chaussures,,,01/11/2023
+47,Lunettes de soleil,17.8,,2024-10-23
+15,Lunettes de soleil,5.7,44.16,invalid_date
+75,Pull,,,04/11/2024
+75,Chaussures,,,01/03/2025
+12,Robe,12.5,,2023-08-10
+23,Pull,7.5,,23/02/2025
+88,Robe,,53.3,invalid_date
+69,Cravate,,52.19,2024-12-17
+9,Robe,,44.02,05/10/2024
+88,Montre,6.6,23.39,2025-02-14
+34,Montre,,,2023-07-17
+9,Chaussures,17.6,,18/09/2023
+32,Montre,,48.24,2023-06-09
+90,Pull,10.5,,2024-11-28
+11,Robe,4.9,39.21,28/07/2023
+30,Lunettes de soleil,,25.37,2023-07-17
+63,Pantalon,11.4,,invalid_date
+68,Pull,9.0,,2023-12-03
+53,Chemise,,83.98,2023-07-15
+93,Pantalon,,26.13,2025-02-18
+52,Chemise,2.0,,08/12/2023
+83,Pull,18.3,70.78,2024-04-02
+37,Pantalon,2.8,,22/09/2024
+5,Pantalon,,38.78,2024-03-31
+13,Lunettes de soleil,9.1,28.52,2024-01-22
+18,Chaussures,6.3,99.21,invalid_date
+17,Chaussures,13.6,43.52,invalid_date
+4,Pantalon,19.3,86.53,2023-05-26
+33,Robe,5.0,27.32,13/09/2024
+24,Lunettes de soleil,19.2,81.69,2023-07-10
+94,Robe,,,2024-12-21
+28,Robe,,,invalid_date
+57,Lunettes de soleil,16.1,,17/07/2023
+25,Robe,4.3,,2024-02-23
+56,Montre,,66.26,12/08/2023
+85,Pull,,,22/01/2025
+100,Pantalon,7.4,,11/01/2024
+43,Pantalon,,,2024-09-04
+82,Chemise,,47.48,05/01/2025
+61,Pull,,,2025-05-10
+37,Montre,,,23/03/2024
+93,Pull,,,2025-02-18
+98,Pull,15.2,,24/05/2024
+76,Chaussures,,52.73,invalid_date
+59,Lunettes de soleil,19.1,39.16,invalid_date
+37,Lunettes de soleil,,32.17,20/03/2024
+13,Lunettes de soleil,14.9,,invalid_date
+82,Cravate,12.7,,2025-03-11
+87,Pantalon,2.9,72.52,2024-01-06
+32,Chemise,10.4,,2023-09-10
+61,Chaussures,15.7,,invalid_date
+79,Lunettes de soleil,16.5,60.03,28/01/2025
+94,Robe,11.9,21.86,08/12/2024
+51,Cravate,,,06/03/2024
+24,Pull,13.2,77.38,24/07/2024
+90,Robe,,28.46,invalid_date
+14,Montre,,,invalid_date
+34,Pantalon,19.9,,invalid_date
+50,Robe,11.8,,invalid_date
+4,Lunettes de soleil,14.0,29.66,invalid_date
+15,Chemise,,,invalid_date
+4,Pantalon,8.6,,invalid_date
+75,Chemise,15.5,27.52,17/12/2024
+35,Cravate,,84.99,invalid_date
+36,Pantalon,,17.97,2024-02-13
+56,Montre,12.4,,invalid_date
+12,Pantalon,,62.05,2024-10-04
+7,Robe,13.5,90.43,2024-06-23
+68,Lunettes de soleil,17.2,46.38,invalid_date
+10,Chemise,5.7,20.98,12/09/2024
+65,Pull,,89.93,2025-02-28
+41,Cravate,2.4,72.58,19/08/2023
+76,Pantalon,,,24/10/2024
+13,Pantalon,16.0,28.3,invalid_date
+13,Robe,18.6,,03/07/2023
+86,Chemise,4.1,36.04,2025-03-13
+69,Montre,,,invalid_date
+10,Cravate,,,03/10/2024
+49,Robe,17.3,64.47,invalid_date
+11,Chemise,,37.15,invalid_date
+49,Pantalon,,25.24,2023-07-13
+45,Robe,17.7,73.9,22/10/2023
+28,Pull,,96.92,14/08/2024
+9,Lunettes de soleil,,,2024-06-03
+97,Montre,15.1,,29/08/2023
+63,Pantalon,,,invalid_date
+68,Pull,,55.6,2023-11-20
+4,Pull,,,invalid_date
+52,Cravate,,89.79,20/04/2025
+82,Pantalon,,,23/01/2024
+47,Chemise,5.9,52.88,2024-06-02
+38,Robe,3.1,,invalid_date
+83,Lunettes de soleil,,,2024-10-15
+1,Chemise,,46.83,invalid_date
+35,Pantalon,10.2,,2023-09-17
+25,Pantalon,3.3,22.6,invalid_date
+19,Chaussures,4.3,,22/01/2024
+42,Chaussures,,,2024-04-18
+1,Robe,,50.71,2023-05-25
+48,Pantalon,14.4,41.23,21/01/2025
+25,Pull,,93.49,invalid_date
+68,Chaussures,18.5,,30/09/2024
+16,Pull,19.2,,invalid_date
+31,Chemise,3.4,86.63,25/02/2024
+14,Robe,,31.83,invalid_date
+43,Chaussures,15.9,,03/02/2024
+61,Lunettes de soleil,,75.95,invalid_date
+5,Chaussures,2.6,12.03,01/05/2024
+64,Chemise,13.8,51.82,invalid_date
+19,Pantalon,,32.55,invalid_date
+52,Chemise,,,14/08/2023
+48,Robe,14.3,,2023-10-05
+74,Chemise,,60.98,invalid_date
+39,Pull,,11.33,invalid_date
+7,Lunettes de soleil,,,21/02/2025
+48,Montre,18.0,45.92,13/04/2025
+54,Pantalon,,69.75,21/10/2023
+76,Chemise,3.7,,2023-12-12
+62,Lunettes de soleil,12.7,,19/09/2024
+35,Robe,,87.37,07/12/2024
+2,Robe,13.8,,2023-07-19
+28,Robe,10.7,,invalid_date
+17,Robe,,,invalid_date
+14,Pull,,51.27,11/02/2025
+23,Montre,,,2024-08-15
+48,Montre,2.2,29.95,invalid_date
+44,Robe,7.8,,invalid_date
+69,Chaussures,11.0,14.15,2025-04-24
+78,Lunettes de soleil,8.5,49.84,10/12/2023
+38,Chaussures,12.4,12.38,15/04/2025
+60,Chaussures,,71.6,22/05/2024
+49,Cravate,10.0,45.66,13/01/2025
+97,Chemise,19.5,85.51,invalid_date
+6,Robe,,10.68,2024-03-21
+54,Pantalon,13.8,19.56,invalid_date
+32,Cravate,8.1,,2024-08-21
+78,Chemise,1.0,,03/01/2024
+13,Lunettes de soleil,,,invalid_date
+64,Pantalon,,,2024-06-14
+94,Montre,12.0,,25/03/2024
+94,Cravate,3.6,,invalid_date
+81,Montre,9.8,,17/10/2024
+57,Robe,,11.16,invalid_date
+38,Pull,4.7,,09/09/2024
+55,Lunettes de soleil,,15.26,invalid_date
+61,Lunettes de soleil,2.3,80.54,invalid_date
+12,Pull,10.1,46.61,invalid_date
+80,Chemise,4.0,16.23,08/10/2023
+62,Montre,,66.93,03/08/2024
+32,Chaussures,,,invalid_date
+20,Pantalon,,,invalid_date
+66,Pull,,,2024-12-10
+78,Robe,4.7,12.6,24/02/2024
+44,Cravate,11.8,88.63,2023-06-22
+19,Robe,,44.2,2025-01-02
+62,Robe,3.0,,09/07/2023
+44,Pantalon,,90.6,2023-12-13
+13,Pantalon,15.8,,2023-11-19
+90,Lunettes de soleil,8.5,48.8,29/10/2023
+9,Chaussures,,,2024-06-27
+32,Montre,,,26/02/2024
+79,Montre,,,invalid_date
+55,Chaussures,,73.73,2025-05-03
+40,Lunettes de soleil,,,invalid_date
+17,Lunettes de soleil,,87.29,invalid_date
+7,Lunettes de soleil,,,2024-01-28
+77,Cravate,15.1,65.25,29/06/2024
+88,Robe,17.5,21.79,24/02/2025
+56,Pull,18.1,23.26,28/02/2025
+64,Montre,11.5,,12/12/2023
+93,Montre,17.3,,invalid_date
+84,Chemise,9.7,30.72,2024-08-06
+38,Montre,11.6,79.68,10/10/2024
+83,Chaussures,,,29/02/2024
+52,Montre,1.2,46.63,invalid_date
+18,Lunettes de soleil,4.8,16.06,2025-04-18
+4,Chemise,,,2023-07-21
+50,Robe,15.7,28.41,09/03/2024
+58,Lunettes de soleil,1.4,,11/11/2023
+93,Pantalon,,,invalid_date
+87,Robe,,90.16,2024-02-20
+72,Pull,,61.14,2025-03-25
+25,Chaussures,,78.72,invalid_date
+28,Pull,1.9,,10/04/2025
+51,Pantalon,10.0,58.68,2024-09-02
+68,Chemise,6.4,15.51,06/04/2025
+31,Pantalon,,,2023-09-06
+88,Cravate,16.8,57.02,16/11/2023
+66,Cravate,,38.77,2023-07-20
+6,Chemise,,,26/12/2023
+37,Montre,,59.4,2023-11-02
+78,Chemise,,81.13,21/09/2023
+78,Cravate,10.2,49.23,31/08/2024
+67,Lunettes de soleil,,,14/02/2025
+57,Pull,12.0,69.76,16/10/2024
+9,Montre,,,invalid_date
+27,Pull,,67.93,invalid_date
+45,Lunettes de soleil,7.2,59.09,18/08/2023
+31,Cravate,12.0,,27/10/2024
+85,Chaussures,,40.16,2024-05-27
+88,Pull,,,invalid_date
+63,Cravate,1.1,,2023-09-24
+21,Montre,,48.7,05/04/2024
+41,Pantalon,13.1,24.81,invalid_date
+48,Robe,9.1,,2023-06-24
+1,Montre,3.4,67.5,invalid_date
+92,Chaussures,,52.22,2023-09-24
+98,Robe,3.7,,invalid_date
+65,Lunettes de soleil,4.8,10.78,2023-06-21
+10,Chemise,,,invalid_date
+38,Montre,5.1,,invalid_date
+85,Montre,19.7,,2023-12-08
+87,Montre,,,26/06/2024
+99,Lunettes de soleil,,46.6,invalid_date
+79,Lunettes de soleil,11.0,,2024-08-01
+3,Pull,,,invalid_date
+92,Pull,,66.17,2024-11-30
+12,Pantalon,15.4,98.57,17/02/2025
+3,Pull,,,2023-12-28
+98,Pantalon,7.4,,2023-11-06
+96,Pantalon,,73.8,22/05/2024
+2,Chemise,10.6,46.12,invalid_date
+34,Montre,,87.72,2023-10-01
+41,Robe,10.6,42.23,invalid_date
+24,Pantalon,,52.48,09/09/2023
+50,Cravate,,,16/08/2024
+87,Cravate,16.4,88.89,07/01/2025
+89,Chaussures,,48.1,invalid_date
+19,Robe,,33.75,invalid_date
+64,Chaussures,6.5,82.98,2023-12-13
+70,Lunettes de soleil,13.6,,2024-12-04
+41,Pantalon,,35.18,07/05/2025
+15,Lunettes de soleil,19.1,75.67,2024-05-08
+41,Lunettes de soleil,17.1,44.33,2024-08-22
+12,Chemise,2.1,63.04,2023-11-16
+71,Montre,10.9,,invalid_date
+6,Chaussures,11.0,,2023-08-14
+43,Chaussures,12.9,65.95,2023-10-26
+34,Cravate,,48.22,27/04/2025
+51,Chaussures,11.1,56.07,2024-06-16
+18,Lunettes de soleil,,,21/02/2025
+90,Robe,15.6,88.46,2023-09-15
+12,Chemise,19.6,70.69,2023-08-04
+79,Lunettes de soleil,10.4,,2024-05-25
+13,Pantalon,15.2,70.05,29/08/2024
+53,Pull,13.3,,02/04/2025
+62,Pantalon,,45.83,invalid_date
+68,Cravate,8.8,,2024-06-15
+12,Lunettes de soleil,17.7,,2023-08-21
+76,Chaussures,,49.15,invalid_date
+90,Cravate,,,21/04/2025
+22,Chaussures,11.5,51.74,13/07/2024
+73,Pantalon,,,22/05/2023
+20,Lunettes de soleil,,44.22,invalid_date
+25,Pull,19.2,38.54,invalid_date
+38,Pantalon,15.7,,21/04/2024
+62,Cravate,11.9,,12/04/2024
+45,Pantalon,,17.23,31/03/2025
+68,Lunettes de soleil,,79.65,invalid_date
+78,Chaussures,6.0,,invalid_date
+63,Pull,13.1,66.38,2023-11-16
+76,Cravate,1.3,75.8,30/05/2024
+82,Chemise,,85.21,08/01/2025
+36,Chaussures,11.9,,2024-03-13
+24,Chaussures,5.3,46.73,2024-08-21
+82,Chemise,8.3,,invalid_date
+26,Chemise,,,invalid_date
+91,Lunettes de soleil,,,invalid_date
+82,Robe,,54.53,invalid_date
+98,Robe,,,05/12/2023
+7,Lunettes de soleil,,,invalid_date
+39,Robe,18.9,32.89,27/04/2025
+49,Lunettes de soleil,,41.85,invalid_date
+96,Robe,,60.54,invalid_date
+46,Lunettes de soleil,,84.89,17/07/2024
+51,Robe,10.8,,08/12/2023
+47,Montre,,,invalid_date
+72,Cravate,,,invalid_date
+89,Pull,17.5,,27/05/2023
+8,Pull,19.9,,30/06/2024
+60,Chaussures,14.9,14.6,28/06/2024
+23,Cravate,,,2023-05-27
+76,Pull,,70.03,2024-10-11
+72,Chemise,2.2,,2024-11-06
+46,Chemise,13.9,,2024-01-22
+85,Chaussures,19.2,,2024-02-27
+9,Chaussures,,79.46,2023-09-19
+97,Montre,,26.93,2024-10-09
+19,Cravate,13.5,34.73,10/12/2023
+46,Chaussures,,,invalid_date
+49,Chaussures,,19.99,invalid_date
+47,Montre,5.2,,08/09/2024
+38,Pull,,,2023-12-22
+78,Pantalon,,,invalid_date
+39,Pull,,78.02,invalid_date
+59,Chemise,,22.21,invalid_date
+14,Lunettes de soleil,9.7,,2024-07-28
+18,Pantalon,,,invalid_date
+93,Chaussures,,89.47,26/07/2024
+4,Robe,,45.3,invalid_date
+80,Chemise,9.1,,2024-01-15
+3,Cravate,,,invalid_date
+64,Chemise,6.9,74.1,2024-11-19
+87,Lunettes de soleil,9.4,95.29,06/09/2023
+30,Chemise,,86.52,invalid_date
+38,Chaussures,,64.7,22/08/2023
+39,Pull,1.9,59.77,2024-12-22
+32,Robe,,,19/01/2025
+60,Chaussures,12.5,,24/09/2023
+76,Chemise,,27.47,invalid_date
+91,Cravate,13.3,,2024-06-19
+11,Chemise,14.0,,08/02/2024
+16,Pantalon,,23.24,invalid_date
+60,Chaussures,,,2024-09-09
+21,Pantalon,17.0,71.68,invalid_date
+7,Montre,5.3,24.11,23/09/2023
+73,Pantalon,,,26/09/2024
+100,Montre,3.2,,04/02/2025
+1,Montre,,86.54,19/02/2025
+26,Chemise,,14.6,2023-09-11
+17,Lunettes de soleil,15.1,60.44,2025-05-10
+96,Robe,13.1,,invalid_date
+52,Montre,15.5,31.4,12/12/2023
+2,Cravate,,,invalid_date
+9,Chaussures,,58.75,2023-07-23
+10,Cravate,16.8,50.18,2023-06-20
+97,Pull,2.9,35.27,2024-03-15
+70,Robe,4.0,18.87,09/09/2024
+31,Chaussures,1.6,71.66,invalid_date
+50,Pantalon,,30.0,2023-12-30
+69,Pantalon,,,invalid_date
+2,Montre,,,17/02/2025
+24,Chemise,,,invalid_date
+92,Pantalon,,,2024-06-08
+56,Cravate,,88.42,invalid_date
+86,Pull,3.0,,2025-03-12
+98,Pantalon,17.8,,04/02/2025
+34,Pull,,,30/12/2023
+44,Lunettes de soleil,16.6,,2023-10-20
+31,Montre,9.5,,2025-01-19
+55,Cravate,,,25/06/2024
+100,Montre,11.3,,2024-11-14
+59,Pantalon,,77.27,2024-09-10
+94,Chaussures,,70.05,19/06/2023
+39,Lunettes de soleil,17.8,54.48,invalid_date
+28,Chemise,6.6,,22/05/2023
+100,Pantalon,14.0,66.36,28/07/2023
+24,Robe,10.7,,2023-12-22
+54,Robe,,,invalid_date
+73,Lunettes de soleil,,93.43,23/03/2024
+71,Cravate,,,invalid_date
+78,Cravate,8.6,72.11,27/06/2024
+74,Chaussures,15.2,80.15,invalid_date
+83,Chaussures,10.2,44.5,14/07/2023
+9,Chemise,18.2,43.94,invalid_date
+13,Pantalon,11.3,21.55,28/12/2023
+62,Pantalon,10.9,17.88,24/02/2025
+90,Lunettes de soleil,,,invalid_date
+79,Robe,,,invalid_date
+77,Chemise,7.0,19.58,2024-02-15
+36,Lunettes de soleil,,42.04,invalid_date
+80,Pantalon,19.9,,2024-09-03
+81,Pull,8.7,,2024-05-09
+13,Chaussures,,,2024-03-30
+96,Lunettes de soleil,,64.79,10/12/2023
+72,Pantalon,2.7,57.3,02/04/2024
+68,Chaussures,14.3,78.72,12/08/2023
+10,Lunettes de soleil,,26.97,2024-07-28
+50,Cravate,16.2,47.94,2024-06-15
+10,Montre,,34.1,2024-02-10
+40,Chemise,5.6,,23/06/2024
+67,Pull,,72.54,invalid_date
+77,Pantalon,,99.93,invalid_date
+81,Chaussures,,,2025-01-27
+57,Robe,2.3,39.04,invalid_date
+95,Robe,,90.82,invalid_date
+24,Cravate,8.7,,2024-08-01
+74,Robe,7.8,,26/11/2023
+30,Pantalon,7.0,79.84,2024-12-30
+99,Montre,,79.77,invalid_date
+76,Lunettes de soleil,,,2024-11-01
+81,Robe,18.4,60.62,invalid_date
+14,Montre,10.2,39.58,12/06/2023
+52,Pantalon,2.3,,2024-05-30
+55,Montre,1.5,20.89,invalid_date
+38,Chemise,14.4,37.51,invalid_date
+22,Robe,2.8,82.97,09/11/2023
+87,Cravate,4.5,,2024-10-28
+13,Pantalon,,36.12,01/02/2025
+98,Robe,4.0,,2024-01-22
+97,Pull,,,invalid_date
+12,Pantalon,,,29/05/2023
+36,Chemise,,,26/02/2025
+25,Pantalon,,,invalid_date
+18,Robe,16.9,71.59,invalid_date
+23,Lunettes de soleil,17.3,12.44,26/10/2024
+50,Pull,12.7,77.44,2024-12-23
+82,Chaussures,,,invalid_date
+85,Lunettes de soleil,12.4,61.29,2024-07-25
+69,Lunettes de soleil,,18.36,invalid_date
+70,Cravate,12.6,85.22,20/02/2024
+17,Robe,13.4,,15/04/2025
+87,Chaussures,10.7,34.31,2024-08-09
+39,Cravate,,,2023-10-10
+95,Lunettes de soleil,,,13/05/2025
+37,Chaussures,6.4,44.53,invalid_date
+43,Pull,,28.38,invalid_date
+45,Chaussures,,,invalid_date
+2,Cravate,,35.5,26/11/2023
+77,Pantalon,,46.44,14/12/2023
+59,Pantalon,16.2,,16/11/2023
+18,Montre,,,invalid_date
+49,Lunettes de soleil,,,invalid_date
+14,Montre,14.3,,invalid_date
+7,Pantalon,,91.74,2023-09-20
+98,Cravate,,,2023-08-12
+44,Lunettes de soleil,,,2025-05-05
+84,Pull,,94.93,18/10/2024
+63,Robe,6.0,28.4,09/09/2024
+79,Lunettes de soleil,,,04/01/2025
+98,Chemise,,46.77,15/07/2024
+44,Robe,,,2023-06-23
+61,Chaussures,,21.19,2024-05-30
+43,Chemise,19.6,,21/01/2024
+96,Chaussures,,56.27,invalid_date
+53,Cravate,,,invalid_date
+7,Lunettes de soleil,,29.87,2024-08-10
+99,Pantalon,17.2,,invalid_date
+43,Pantalon,19.4,,invalid_date
+65,Pull,,,22/06/2024
+7,Cravate,,23.2,invalid_date
+55,Cravate,,,24/12/2024
+66,Lunettes de soleil,15.2,30.94,invalid_date
+20,Cravate,,71.17,03/07/2024
+92,Chemise,9.5,,14/04/2024
+36,Pull,,,2024-05-27
+50,Cravate,,58.44,invalid_date
+79,Montre,,,invalid_date
+35,Robe,,,2024-03-22
+76,Pull,,,2024-11-05
+97,Cravate,,,11/05/2024
+4,Robe,17.6,,14/11/2024
+60,Pull,,,2024-06-27
+10,Pull,15.3,68.66,2024-01-22
+80,Chemise,16.0,,invalid_date
+5,Lunettes de soleil,,75.34,2024-10-26
+96,Robe,,,invalid_date
+85,Lunettes de soleil,,95.84,invalid_date
+17,Lunettes de soleil,9.2,66.82,2024-02-26
+34,Montre,1.5,16.31,09/12/2023
+75,Pull,16.7,,21/07/2024
+11,Pantalon,,,22/11/2023
+52,Lunettes de soleil,,,2023-12-17
+66,Lunettes de soleil,10.7,,invalid_date
+75,Lunettes de soleil,,59.28,invalid_date
+79,Chemise,15.1,,invalid_date
+76,Pull,1.3,34.86,invalid_date
+30,Cravate,1.1,61.68,26/12/2024
+55,Robe,,,invalid_date
+31,Lunettes de soleil,4.3,16.04,28/03/2024
+9,Cravate,,,06/05/2024
+40,Montre,17.5,59.66,07/08/2024
+59,Pull,,,2023-08-31
+1,Cravate,,35.38,invalid_date
+87,Chaussures,18.4,,invalid_date
+29,Pull,,,17/12/2023
+39,Pantalon,4.9,92.68,invalid_date
+87,Cravate,,56.27,21/04/2024
+54,Pull,11.2,,invalid_date
+22,Pantalon,,40.94,invalid_date
+67,Robe,14.4,,15/12/2024
+47,Pantalon,,78.21,2023-09-15
+69,Cravate,18.9,,invalid_date
+98,Pantalon,11.4,75.91,invalid_date
+9,Robe,17.5,33.32,03/09/2023
+21,Pantalon,,61.68,2025-04-14
+76,Pantalon,,23.93,26/06/2024
+12,Pantalon,,17.93,2024-07-09
+43,Pull,7.9,,2024-01-22
+5,Cravate,,,10/01/2024
+69,Pantalon,13.8,,31/07/2024
+79,Robe,,,invalid_date
+91,Lunettes de soleil,,,2023-06-28
+72,Chaussures,12.4,,08/11/2024
+20,Chemise,8.9,94.14,2023-09-25
+54,Pantalon,,,invalid_date
+79,Pantalon,1.3,,2023-12-05
+95,Pantalon,8.7,47.57,2025-03-03
+88,Pantalon,,,2023-08-04
+84,Lunettes de soleil,,95.91,invalid_date
+25,Robe,10.4,77.12,26/02/2024
+73,Cravate,,54.3,invalid_date
+81,Montre,1.9,24.21,2024-07-28
+83,Montre,,,invalid_date
+17,Robe,,94.53,invalid_date
+45,Pantalon,6.6,91.09,24/08/2023
+87,Chemise,14.4,,2024-02-18
+49,Chemise,6.5,25.62,03/09/2024
+2,Lunettes de soleil,,,12/08/2024
+52,Pull,1.8,33.15,invalid_date
+65,Pull,,28.38,13/07/2024
+43,Pull,9.2,,invalid_date
+66,Montre,,41.28,2023-12-29
+27,Lunettes de soleil,13.5,47.5,2024-01-29
+76,Chemise,17.8,81.94,invalid_date
+49,Chemise,,,invalid_date
+97,Montre,18.1,77.83,2024-05-03
+66,Chemise,4.9,,invalid_date
+76,Pull,14.9,,30/12/2023
+10,Pantalon,5.9,96.13,23/09/2024
+57,Chaussures,,,26/03/2025
+28,Chemise,,75.58,invalid_date
+94,Lunettes de soleil,,,invalid_date
+68,Lunettes de soleil,,44.2,invalid_date
+22,Pull,15.7,88.54,invalid_date
+22,Chemise,15.4,57.42,2024-08-08
+48,Cravate,,,invalid_date
+55,Montre,,,22/07/2023
+42,Cravate,,,invalid_date
+61,Pull,3.8,42.17,2023-11-15
+62,Pull,,63.97,invalid_date
+90,Montre,,96.88,invalid_date
+9,Robe,,71.55,03/09/2024
+57,Pull,15.5,,24/03/2024
+33,Pull,,,2023-12-18
+99,Pull,,37.96,invalid_date
+52,Montre,,31.38,2025-03-22
+73,Cravate,7.7,15.49,22/12/2024
+25,Chemise,,61.8,2024-08-19
+36,Chaussures,,78.34,07/04/2024
+99,Chaussures,,,11/10/2023
+84,Chemise,19.1,34.71,2025-03-15
+39,Chemise,,,invalid_date
+31,Pull,,,2023-11-20
+45,Pull,,,2023-12-03
+75,Chaussures,18.0,,16/11/2024
+35,Lunettes de soleil,13.0,54.62,invalid_date
+43,Cravate,,66.16,2023-11-01
+77,Chaussures,,46.79,invalid_date
+47,Chemise,4.2,,10/07/2023
+93,Cravate,11.6,,03/04/2025
+41,Chaussures,2.7,,20/07/2024
+28,Pull,,,2023-07-02
+58,Chemise,,17.4,invalid_date
+65,Pantalon,,43.33,invalid_date
+87,Robe,,64.36,10/08/2023
+27,Pantalon,,65.79,invalid_date
+98,Cravate,,,26/07/2023
+57,Montre,,80.21,14/05/2025
+3,Pull,,68.38,invalid_date
+40,Cravate,,,2024-01-17
+44,Lunettes de soleil,16.2,95.57,invalid_date
+35,Chemise,10.3,36.86,30/04/2024
+27,Pull,,21.25,invalid_date
+7,Pantalon,,,04/07/2024
+30,Robe,,31.64,invalid_date
+34,Montre,,,invalid_date
+44,Lunettes de soleil,5.8,,23/02/2024
+13,Lunettes de soleil,,,2025-03-20
+31,Chaussures,,41.46,invalid_date
+96,Pull,,,invalid_date
+13,Lunettes de soleil,8.6,,invalid_date
+82,Pantalon,,25.09,invalid_date
+95,Robe,,11.64,01/05/2024
+52,Montre,13.0,,invalid_date
+76,Montre,14.7,97.68,invalid_date
+45,Pull,11.9,56.64,28/08/2024
+37,Pull,,,2024-05-10
+25,Lunettes de soleil,2.9,51.41,invalid_date
+6,Pantalon,9.3,,invalid_date
+83,Robe,,58.87,invalid_date
+41,Pull,,91.35,2024-09-29
+96,Pull,12.0,,17/01/2024
+52,Cravate,7.7,,2025-04-26
+48,Pull,,14.09,14/07/2024
+17,Chaussures,11.1,34.31,2023-11-14
+30,Pull,16.6,65.09,29/04/2024
+25,Chemise,,,invalid_date
+30,Lunettes de soleil,8.7,,09/12/2023
+99,Pantalon,,56.81,2023-09-19
+91,Chemise,,70.62,22/05/2023
+100,Lunettes de soleil,17.0,45.08,invalid_date
+23,Pull,,,invalid_date
+34,Pantalon,,48.62,2023-09-04
+17,Chaussures,19.2,16.8,20/05/2024
+21,Lunettes de soleil,2.6,62.7,28/05/2023
+80,Robe,,,invalid_date
+81,Robe,,73.01,28/12/2024
+88,Pull,6.3,19.84,invalid_date
+69,Pull,,92.92,invalid_date
+3,Pull,3.7,59.74,invalid_date
+76,Cravate,,56.17,invalid_date
+100,Robe,17.4,33.42,2023-11-17
+4,Pantalon,6.0,,20/07/2024
+8,Pantalon,,25.21,15/10/2023
+2,Cravate,,,06/04/2025
+60,Montre,1.9,,25/04/2024
+14,Cravate,,,2024-03-23
+62,Lunettes de soleil,13.4,67.29,2023-09-25
+64,Chaussures,,,2024-12-14
+65,Lunettes de soleil,16.5,14.02,23/02/2025
+39,Pull,,,09/11/2023
+14,Pantalon,,74.61,invalid_date
+88,Chemise,,81.65,invalid_date
+93,Montre,13.3,,invalid_date
+15,Montre,14.0,,invalid_date
+74,Pantalon,4.6,,2025-04-27
+60,Robe,,93.0,invalid_date
+32,Lunettes de soleil,,,2024-11-03
+18,Chaussures,3.1,,06/10/2024
+36,Chemise,3.7,,invalid_date
+30,Robe,4.7,,16/12/2023
+31,Pull,,,15/10/2023
+74,Cravate,,20.99,invalid_date
+11,Robe,1.9,23.55,2023-10-10
+12,Pull,,60.96,2024-01-01
+44,Montre,,,invalid_date
+4,Cravate,,55.03,invalid_date
+39,Pantalon,,10.43,16/11/2024
+33,Cravate,,,07/06/2024
+72,Robe,,,26/01/2024
+60,Lunettes de soleil,17.3,44.9,17/09/2023
+42,Montre,13.9,,2023-06-29
+6,Cravate,,,invalid_date
+93,Montre,,,27/12/2023
+15,Chemise,,90.72,invalid_date
+39,Montre,14.8,85.93,26/04/2024
+50,Chemise,,24.6,28/05/2023
+77,Pull,,,2023-11-18
+14,Pantalon,,,02/06/2023
+38,Pull,,,2024-06-08
+22,Lunettes de soleil,14.0,,12/04/2024
+88,Chemise,15.4,,invalid_date
+49,Pull,15.1,,invalid_date
+76,Chaussures,,16.09,16/05/2024
+71,Montre,,,25/01/2025
+77,Pull,9.9,,2023-06-15
+49,Cravate,10.4,,2023-07-23
+86,Pantalon,,,2024-12-24
+17,Lunettes de soleil,4.3,46.62,14/12/2023
+26,Chaussures,5.4,14.67,2025-01-13
+79,Cravate,,,invalid_date
+4,Lunettes de soleil,,73.69,10/10/2023
+79,Pull,13.4,,16/04/2025
+100,Chaussures,12.4,,2025-03-05
+62,Chemise,,,13/03/2024
+68,Pull,,,2025-02-23
+14,Pantalon,19.3,,07/01/2025
+40,Chaussures,11.1,,01/12/2023
+98,Robe,,39.97,10/01/2025
+72,Lunettes de soleil,,58.99,invalid_date
+24,Chemise,5.3,25.19,2024-12-14
+62,Chemise,18.1,,invalid_date
+52,Lunettes de soleil,18.5,,invalid_date
+68,Montre,,28.27,29/06/2024
+21,Robe,,25.63,30/10/2023
+86,Lunettes de soleil,6.9,48.44,2024-05-23
+98,Chaussures,11.3,52.39,19/01/2024
+11,Chemise,,38.1,2025-05-18
+3,Chaussures,13.9,,21/09/2024
+39,Pull,19.0,,invalid_date
+18,Pantalon,,46.52,19/05/2025
+41,Chemise,,,29/06/2024
+36,Chaussures,16.7,,2023-08-24
+62,Pull,6.6,,invalid_date
+64,Chaussures,18.1,45.81,23/10/2023
+7,Pantalon,,50.09,2024-02-25
+18,Lunettes de soleil,,,invalid_date
+91,Pantalon,,,2024-10-20
+93,Pantalon,,,invalid_date
+17,Chemise,,16.63,2024-09-24
+16,Chaussures,,21.37,invalid_date
+20,Montre,,61.78,28/01/2025
+75,Pull,10.6,,18/08/2024
+16,Pantalon,9.2,,2023-08-22
+37,Chaussures,,,26/11/2023
+90,Pantalon,,,invalid_date
+60,Cravate,12.1,,invalid_date
+11,Cravate,14.2,,invalid_date
+58,Cravate,,,27/08/2024
+22,Robe,,,05/03/2024
+80,Montre,10.9,,30/07/2023
+61,Pantalon,,,2023-12-01
+67,Chemise,16.9,78.66,31/07/2023
+69,Chemise,13.2,,2024-11-04
+81,Chemise,,10.85,14/05/2025
+90,Pull,,,2024-12-31
+52,Lunettes de soleil,14.2,,invalid_date
+20,Chemise,5.2,14.77,invalid_date
+35,Chemise,,23.35,2023-09-18
+91,Pantalon,15.3,,25/01/2025
+9,Robe,,47.9,2023-08-13
+82,Pantalon,10.9,92.66,2024-06-03
+43,Robe,,24.72,invalid_date
+98,Pull,,,03/10/2024
+11,Pull,5.7,81.07,15/02/2024
+99,Chaussures,,75.57,13/04/2025
+42,Chemise,1.8,22.89,invalid_date
+5,Chemise,,,07/06/2023
+19,Montre,10.6,,10/03/2024
+34,Chemise,,25.84,2024-02-24
+52,Montre,12.4,,02/12/2023
+35,Cravate,,,invalid_date
+3,Robe,7.1,76.54,invalid_date
+45,Chaussures,10.8,40.09,2024-04-25
+66,Pantalon,17.9,,2024-01-05
+36,Pull,5.7,14.54,05/06/2024
+40,Pantalon,17.1,,04/08/2024
+3,Pull,,24.16,2023-10-13
+45,Chemise,7.2,45.98,2024-02-16
+17,Pull,2.8,53.87,19/05/2024
+46,Pull,,,invalid_date
+90,Chemise,6.2,,29/08/2024
+51,Robe,2.4,,2025-05-01
+17,Pull,5.4,94.72,invalid_date
+12,Cravate,,,invalid_date
+96,Cravate,,,2023-09-19
+79,Montre,,,16/02/2025
+64,Pantalon,,48.9,2023-12-12
+66,Chaussures,,,2024-03-02
+96,Lunettes de soleil,3.5,,invalid_date
+56,Cravate,7.0,88.66,17/06/2024
+56,Pantalon,,,invalid_date
+72,Lunettes de soleil,,,invalid_date
+58,Montre,,27.09,invalid_date
+55,Chemise,18.3,77.06,2025-03-17
+6,Pantalon,,75.95,invalid_date
+28,Chaussures,10.2,58.42,2023-11-23
+36,Lunettes de soleil,,94.44,10/07/2023
+66,Montre,,,13/07/2024
+77,Chemise,19.9,,17/03/2024
+52,Chaussures,8.2,57.16,02/07/2024
+20,Montre,4.0,75.16,invalid_date
+86,Robe,9.5,,23/07/2024
+37,Chemise,9.9,75.44,invalid_date
+29,Chemise,,,2023-12-27
+83,Robe,,64.68,30/09/2024
+60,Pantalon,,33.71,15/08/2023
+49,Lunettes de soleil,9.5,,01/07/2024
+13,Pantalon,,,invalid_date
+78,Pull,16.6,99.72,2023-06-25
+65,Chemise,,28.86,2025-05-19
+93,Chemise,,48.57,2023-10-07
+99,Montre,,81.51,invalid_date
+26,Pantalon,,19.74,01/06/2024
+14,Pull,,70.6,2023-10-17
+19,Robe,13.6,,07/08/2024
+42,Chemise,,36.62,invalid_date
+96,Chemise,13.7,,14/10/2024
+81,Montre,,,2024-06-05
+51,Cravate,,32.39,invalid_date
+8,Chemise,1.6,,2024-08-22
+79,Robe,12.8,,invalid_date
+92,Robe,,,03/09/2024
+97,Lunettes de soleil,,,2024-11-29
+67,Lunettes de soleil,,,invalid_date
+52,Chemise,1.1,32.48,2025-05-06
+37,Chemise,,50.64,2024-10-12
+47,Pantalon,13.5,84.35,invalid_date
+81,Chaussures,15.7,,23/07/2023
+56,Chemise,14.5,86.48,invalid_date
+17,Montre,,,invalid_date
+79,Chemise,,,2024-02-26
+42,Chaussures,,,19/05/2025
+39,Chaussures,1.3,,invalid_date
+72,Chaussures,,27.23,2025-02-18
+60,Cravate,,43.03,2025-01-27
+15,Chemise,,71.11,19/02/2025
+16,Cravate,,10.58,2024-09-12
+34,Montre,18.7,88.6,2024-07-05
+75,Chaussures,,96.08,15/07/2023
+93,Montre,8.8,36.05,2025-02-28
+34,Pantalon,6.3,78.01,2023-07-21
+72,Pantalon,,92.95,2024-06-28
+41,Pantalon,9.5,,2023-08-08
+65,Pull,,,07/07/2024
+13,Robe,,57.39,2024-03-16
+26,Pantalon,,,03/07/2024
+41,Montre,3.4,,invalid_date
+35,Chemise,,12.46,18/09/2024
+34,Robe,,10.33,2023-10-07
+78,Pantalon,,,2024-12-23
+24,Lunettes de soleil,19.3,,2024-04-08
+29,Chaussures,,41.55,invalid_date
+83,Chemise,,31.73,2024-09-29
+4,Lunettes de soleil,,46.63,2024-02-24
+42,Cravate,,93.79,2024-05-12
+36,Montre,,,invalid_date
+49,Robe,10.7,52.06,10/08/2023
+14,Chemise,,81.81,2023-09-28
+57,Montre,19.0,,invalid_date
+40,Cravate,16.4,49.97,2024-03-28
+10,Montre,,84.89,13/10/2024
+79,Chemise,4.2,,2023-09-21
+46,Pull,,50.3,2024-08-29
+30,Robe,,,19/02/2024
+21,Cravate,11.8,53.2,2025-04-21
+94,Cravate,7.8,88.88,29/01/2024
+80,Chaussures,,98.2,invalid_date
+50,Pantalon,,,2024-04-06
+14,Montre,,78.7,20/04/2024
+65,Montre,14.6,93.62,invalid_date
+72,Pull,,87.2,invalid_date
+20,Montre,,59.81,01/08/2024
+90,Pantalon,19.8,34.61,2024-07-18
+98,Montre,,49.63,05/01/2025
+1,Pull,7.9,52.99,10/05/2025
+60,Chaussures,3.3,,2024-12-20
+51,Cravate,,,07/05/2024
+52,Cravate,,,invalid_date
+81,Pull,7.9,86.23,invalid_date
+92,Cravate,5.8,52.79,invalid_date
+70,Lunettes de soleil,8.6,42.59,invalid_date
+84,Chemise,7.3,45.05,2024-06-27
+7,Pantalon,15.9,70.05,2025-04-12
+42,Lunettes de soleil,2.4,,2023-05-27
+72,Robe,16.0,22.54,2023-11-10
+1,Chemise,13.8,68.96,invalid_date
+39,Lunettes de soleil,16.8,,10/01/2025
+17,Cravate,13.8,,invalid_date
+34,Pantalon,,95.38,invalid_date
+53,Pull,,16.32,2025-05-04
+10,Chaussures,17.7,46.96,invalid_date
+94,Lunettes de soleil,16.6,53.26,invalid_date
+81,Cravate,16.7,,2024-08-07
+89,Lunettes de soleil,,,invalid_date
+79,Pantalon,,49.11,2024-05-13
+19,Cravate,15.8,74.17,invalid_date
+23,Pull,3.7,,02/03/2024
+14,Chaussures,8.2,,invalid_date
+80,Pull,17.1,,2023-12-02
+79,Lunettes de soleil,,,2023-12-07
+96,Lunettes de soleil,,55.66,2024-01-10
+40,Cravate,,33.18,27/03/2024
+72,Montre,,,invalid_date
+87,Chemise,,72.87,12/12/2024
+68,Montre,18.7,,invalid_date
+13,Chaussures,,95.91,26/01/2025
+22,Pantalon,,45.57,2024-05-30
+19,Cravate,,16.52,2024-06-04
+80,Pull,,52.16,invalid_date
+59,Cravate,,,11/08/2024
+9,Chaussures,,34.25,2025-02-16
+9,Montre,,,2023-08-04
+28,Lunettes de soleil,,,10/01/2024
+14,Pantalon,,75.73,2023-06-20
+27,Chemise,16.1,42.53,2025-02-07
+96,Chaussures,12.0,66.55,invalid_date
+60,Cravate,19.3,81.94,04/07/2023
+88,Cravate,,,09/01/2025
+98,Robe,11.4,,2024-02-05
+1,Pantalon,12.7,59.54,invalid_date
+61,Robe,16.8,49.32,09/04/2024
+79,Lunettes de soleil,15.5,,2025-05-13
+21,Pull,7.7,71.6,2023-08-23
+47,Pantalon,1.6,,invalid_date
+17,Chaussures,9.2,28.72,2024-12-22
+27,Lunettes de soleil,,22.12,31/08/2024
+5,Chaussures,15.2,10.25,invalid_date
+35,Chaussures,,,14/01/2025
+27,Pantalon,19.6,86.45,invalid_date
+15,Lunettes de soleil,14.5,,invalid_date
+50,Montre,,10.83,2024-07-02
+33,Pull,,15.78,14/07/2024
+13,Lunettes de soleil,,,15/09/2023
+95,Pull,11.5,39.63,15/06/2024
+53,Robe,,84.71,invalid_date
+1,Chaussures,6.6,,2023-09-17
+84,Lunettes de soleil,,18.88,2024-10-26
+43,Chaussures,,24.38,invalid_date
+21,Chaussures,13.6,39.19,26/08/2024
+83,Montre,13.1,,invalid_date
+8,Robe,,,invalid_date
+87,Cravate,12.3,79.44,2024-04-21
+43,Chaussures,,,2025-01-21
+60,Montre,14.4,46.17,2023-09-13
+57,Robe,11.1,97.24,25/07/2023
+46,Chemise,,,2024-05-25
+40,Chaussures,4.4,,invalid_date
+99,Robe,,63.66,2024-07-20
+42,Pull,,,invalid_date
+78,Pantalon,3.0,80.67,2024-03-26
+91,Robe,,47.05,12/01/2025
+33,Pull,15.6,,2024-11-14
+71,Pull,,92.04,2025-01-02
+45,Chaussures,4.4,,2024-05-29
+1,Cravate,,71.27,2023-10-22
+86,Cravate,,35.27,invalid_date
+15,Cravate,,61.96,21/10/2023
+14,Pull,14.2,92.11,2024-07-30
+67,Montre,,89.43,invalid_date
+47,Lunettes de soleil,10.7,,2023-11-29
+74,Montre,8.5,14.6,invalid_date
+1,Montre,,,20/04/2024
+41,Montre,,,03/11/2024
+15,Chemise,9.6,76.94,11/08/2024
+82,Pull,6.4,,17/08/2023
+73,Pantalon,14.1,,2024-10-24
+44,Cravate,,95.93,29/02/2024
+78,Lunettes de soleil,,50.54,invalid_date
+64,Pull,8.9,,2024-01-26
+40,Chemise,10.3,,invalid_date
+86,Pantalon,,,2023-06-09
+88,Cravate,7.0,67.77,30/09/2023
+66,Cravate,8.4,23.38,invalid_date
+92,Pull,6.4,,invalid_date
+76,Pull,,71.39,invalid_date
+24,Cravate,2.7,,28/04/2024
+26,Chaussures,,,2023-06-25
+37,Montre,4.0,26.95,2025-02-15
+35,Montre,,,2023-10-24
+75,Cravate,,,2024-03-07
+20,Chemise,1.8,52.32,2024-12-30
+54,Robe,,,27/07/2023
+15,Chaussures,3.0,93.45,invalid_date
+19,Montre,13.9,,2023-07-03
+57,Lunettes de soleil,3.0,25.2,invalid_date
+84,Cravate,13.5,,26/03/2025
+54,Pull,5.7,,17/02/2025
+42,Pull,12.0,,2023-12-31
+91,Pull,,,2024-02-12
+30,Chaussures,10.3,61.89,16/08/2023
+87,Lunettes de soleil,1.7,72.49,05/05/2024
+73,Lunettes de soleil,14.7,,invalid_date
+3,Chaussures,19.0,,31/10/2023
+44,Chemise,,79.59,12/07/2024
+83,Montre,1.5,96.06,2023-11-02
+5,Chemise,4.9,32.76,01/07/2024
+56,Montre,18.0,44.42,invalid_date
+84,Cravate,14.0,62.93,invalid_date
+77,Chaussures,,80.49,2024-09-16
+1,Pull,,17.65,11/11/2024
+6,Chemise,18.1,89.6,invalid_date
+60,Montre,15.2,50.86,09/03/2024
+37,Pull,,81.04,2024-08-16
+52,Cravate,3.9,96.4,04/07/2024
+74,Chemise,,,06/12/2023
+65,Pull,,54.2,invalid_date
+54,Chemise,,,24/10/2023
+23,Pull,,,13/11/2024
+64,Robe,1.3,,18/12/2023
+41,Montre,9.9,99.46,2023-07-02
+79,Montre,19.1,59.12,28/05/2023
+67,Chemise,16.1,56.14,18/03/2024
+88,Pantalon,,,2024-10-15
+1,Pull,,,2024-10-17
+43,Lunettes de soleil,,58.85,2025-04-30
+10,Lunettes de soleil,,,invalid_date
+9,Chaussures,9.9,90.78,05/06/2023
+18,Pull,,,2024-01-04
+52,Chemise,2.6,,invalid_date
+3,Montre,1.1,,17/11/2023
+14,Pull,,52.06,invalid_date
+8,Montre,16.7,35.65,07/08/2023
+71,Pull,,50.77,invalid_date
+38,Lunettes de soleil,2.6,39.48,2024-06-01
+5,Chemise,,14.59,07/07/2024
+72,Pull,1.5,11.06,2023-07-29
+45,Robe,11.7,71.75,invalid_date
+88,Chaussures,1.6,99.08,invalid_date
+61,Pull,,,invalid_date
+89,Pull,,,invalid_date
+40,Robe,16.8,,invalid_date
+87,Robe,13.7,15.05,13/01/2024
+37,Pantalon,7.6,49.67,invalid_date
+47,Pantalon,18.1,31.45,20/12/2024
+55,Lunettes de soleil,,44.14,invalid_date
+87,Lunettes de soleil,15.6,,03/11/2024
+64,Pantalon,,37.11,22/02/2024
+67,Robe,,56.46,11/01/2024
+35,Chemise,10.8,,invalid_date
+52,Chaussures,6.4,,10/02/2025
+34,Pull,,,19/09/2024
+98,Cravate,,76.3,2023-12-08
+15,Pantalon,14.1,,invalid_date
+10,Robe,,,invalid_date
+29,Chaussures,,,2024-07-26
+65,Cravate,,75.09,invalid_date
+36,Chemise,17.7,89.63,invalid_date
+54,Robe,,69.64,2024-03-22
+43,Pull,6.6,,invalid_date
+14,Chaussures,,,invalid_date
+94,Robe,,10.44,invalid_date
+32,Montre,,,invalid_date
+61,Chaussures,,17.07,05/11/2024
+44,Chemise,,82.05,10/04/2024
+58,Lunettes de soleil,,,08/08/2024
+43,Robe,,,2023-09-17
+31,Robe,1.1,74.98,27/04/2025
+1,Pull,,,01/02/2024
+85,Pantalon,19.8,32.61,invalid_date
+78,Chemise,,,29/10/2023
+62,Cravate,,46.64,06/09/2023
+53,Lunettes de soleil,3.6,73.11,2024-08-15
+60,Chemise,,65.2,01/02/2025
+30,Pantalon,8.2,,invalid_date
+39,Cravate,5.7,85.33,invalid_date
+92,Montre,,67.22,19/11/2024
+39,Montre,,47.65,2025-04-18
+17,Pantalon,5.0,54.24,invalid_date
+63,Chemise,,,27/04/2025
+80,Pull,,,11/09/2023
+91,Robe,2.5,24.87,15/05/2025
+18,Pantalon,,48.95,03/05/2025
+79,Robe,,25.8,invalid_date
+69,Robe,9.5,39.55,2023-07-13
+11,Cravate,17.0,,2024-07-08
+94,Chaussures,5.0,92.62,12/10/2023
+49,Lunettes de soleil,19.6,,invalid_date
+50,Chaussures,,26.75,invalid_date
+60,Lunettes de soleil,19.6,,13/06/2023
+72,Cravate,,97.3,24/01/2024
+24,Cravate,,,invalid_date
+91,Pull,,90.16,2024-04-05
+84,Chaussures,,54.97,2024-04-30
+33,Pull,,,2025-05-16
+8,Chaussures,15.7,77.09,2025-04-15
+71,Pull,,93.05,15/12/2024
+91,Chaussures,16.0,78.7,17/09/2023
+44,Pull,,56.91,invalid_date
+58,Montre,,,01/09/2023
+72,Pantalon,,,11/06/2023
+83,Montre,,,08/09/2024
+78,Chemise,,,invalid_date
+86,Lunettes de soleil,10.5,28.65,invalid_date
+10,Chaussures,,,invalid_date
+57,Chemise,,90.21,invalid_date
+79,Robe,,,05/11/2024
+5,Montre,,28.57,2023-06-11
+92,Chemise,5.3,61.83,invalid_date
+16,Cravate,,,2025-01-16
+70,Cravate,,59.48,15/06/2024
+71,Pantalon,1.7,,2025-03-09
+27,Montre,6.3,,2024-05-20
+17,Montre,,,07/03/2024
+47,Lunettes de soleil,,,13/03/2025
+64,Pull,,97.86,06/06/2024
+42,Cravate,,22.06,05/09/2023
+15,Robe,,90.78,invalid_date
+45,Chaussures,14.1,,2023-11-13
+8,Montre,18.0,79.74,04/01/2025
+84,Pull,2.8,64.92,2023-06-02
+39,Pull,,38.77,2023-12-17
+6,Chaussures,,,18/12/2024
+26,Chemise,10.7,37.02,2024-10-24
+94,Pull,14.0,25.51,2024-12-30
+95,Robe,,10.86,invalid_date
+26,Lunettes de soleil,5.4,61.83,2025-05-11
+92,Pantalon,16.6,42.55,12/09/2024
+62,Pull,12.1,,06/11/2024
+78,Robe,2.7,,25/03/2025
+53,Chemise,2.6,95.93,2024-05-11
+39,Cravate,,52.57,2023-11-29
+77,Lunettes de soleil,,,2024-03-31
+24,Montre,5.5,20.44,2023-06-23
+4,Chaussures,12.8,55.23,2024-12-13
+12,Robe,,60.44,invalid_date
+68,Chemise,11.6,,23/03/2024
+47,Chaussures,4.6,70.85,invalid_date
+20,Pantalon,13.7,38.88,2024-12-18
+57,Chaussures,,,11/07/2024
+7,Robe,19.5,92.02,2024-07-02
+84,Cravate,14.1,,18/11/2024
+5,Pull,16.4,20.08,2025-01-22
+3,Cravate,,,2024-06-29
+64,Pantalon,,,2024-05-06
+92,Montre,9.6,,2025-02-22
+29,Pantalon,16.7,20.59,2023-06-23
+85,Montre,19.2,18.35,27/06/2024
+99,Montre,19.6,,2024-07-12
+8,Lunettes de soleil,,,invalid_date
+78,Robe,,45.75,invalid_date
+18,Cravate,,,2024-06-25
+96,Pull,10.9,,2024-09-22
+36,Chemise,11.6,32.47,03/01/2024
+28,Chemise,,,26/03/2024
+37,Cravate,12.8,,invalid_date
+94,Chemise,,,invalid_date
+89,Chaussures,,,14/05/2024
+15,Cravate,12.8,,2023-09-28
+28,Robe,10.9,80.05,09/09/2024
+64,Cravate,,27.59,2025-05-04
+31,Chemise,1.6,,26/06/2024
+67,Robe,,,invalid_date
+35,Pantalon,,79.01,2024-05-16
+52,Cravate,,41.07,invalid_date
+57,Montre,8.6,,2023-07-31
+66,Pantalon,,32.78,17/08/2023
+57,Chaussures,,,2023-10-08
+10,Lunettes de soleil,11.2,,2024-08-18
+26,Lunettes de soleil,2.4,45.97,12/11/2024
+44,Pull,,,04/09/2023
+23,Lunettes de soleil,10.5,,2024-03-22
+64,Montre,,82.63,06/05/2024
+87,Robe,,,invalid_date
+46,Lunettes de soleil,16.0,10.8,2024-05-08
+12,Lunettes de soleil,13.2,23.7,2025-04-17
+67,Lunettes de soleil,,91.64,invalid_date
+13,Montre,15.1,45.15,invalid_date
+48,Chemise,,,2023-07-31
+75,Cravate,5.9,,2024-01-28
+70,Pantalon,,,2024-10-06
+31,Robe,,60.58,invalid_date
+61,Montre,,,invalid_date
+43,Pull,17.6,37.44,invalid_date
+46,Robe,,,18/08/2023
+18,Pantalon,,,05/05/2024
+17,Montre,7.5,97.05,27/02/2024
+96,Pantalon,,,01/07/2024
+75,Robe,,62.66,15/03/2024
+87,Pantalon,16.5,59.57,25/01/2025
+36,Montre,14.7,,2024-06-22
+60,Pantalon,,,11/03/2024
+52,Pantalon,15.0,,invalid_date
+39,Robe,,25.64,07/01/2025
+92,Pull,15.7,,2023-10-01
+87,Montre,,69.26,invalid_date
+27,Chemise,,,15/10/2024
+82,Montre,,18.63,15/09/2023
+67,Chaussures,17.8,,2023-09-24
+87,Robe,2.4,53.89,2023-09-11
+54,Pantalon,,,invalid_date
+84,Pantalon,19.4,,11/04/2024
+39,Chaussures,,,2024-01-16
+94,Pull,19.4,,08/01/2025
+72,Montre,9.7,52.19,invalid_date
+19,Pull,,93.83,2024-09-19
+97,Chemise,11.5,,18/04/2025
+74,Chemise,,47.07,2023-09-01
+70,Lunettes de soleil,7.9,59.44,invalid_date
+83,Pull,,37.67,2025-01-05
+99,Chemise,16.8,,2023-05-31
+97,Chemise,9.5,53.87,invalid_date
+81,Lunettes de soleil,,77.63,2024-06-12
+5,Montre,16.2,61.36,26/05/2023
+65,Robe,,,invalid_date
+57,Lunettes de soleil,18.7,,2024-06-08
+61,Robe,,,21/08/2024
+57,Chaussures,,,2024-10-15
+99,Chaussures,,,04/04/2024
+62,Pull,1.1,,2024-04-29
+97,Chaussures,,,invalid_date
+29,Chemise,,,28/11/2023
+22,Pull,19.1,31.74,20/07/2024
+97,Robe,15.7,75.92,14/09/2024
+12,Lunettes de soleil,10.8,,28/07/2024
+52,Montre,8.0,40.83,20/02/2025
+98,Chemise,,85.65,28/06/2023
+93,Lunettes de soleil,12.4,,14/09/2023
+30,Cravate,19.9,,invalid_date
+52,Chaussures,15.7,51.88,19/06/2023
+87,Chaussures,4.5,19.18,2023-09-11
+92,Montre,16.7,,2023-06-16
+84,Cravate,5.8,,2024-08-13
+35,Cravate,4.6,71.45,invalid_date
+36,Pull,8.6,,invalid_date
+81,Chemise,6.1,,invalid_date
+87,Pantalon,,,invalid_date
+3,Lunettes de soleil,,37.64,2023-10-07
+48,Montre,13.6,51.72,28/12/2023
+38,Chemise,7.1,,2024-09-07
+83,Lunettes de soleil,,,invalid_date
+17,Cravate,13.1,,invalid_date
+78,Montre,18.4,70.99,invalid_date
+48,Chemise,5.5,,invalid_date
+87,Lunettes de soleil,,80.14,2024-12-24
+43,Chemise,,,invalid_date
+86,Chemise,,,02/08/2023
+54,Montre,,,2025-01-07
+19,Pull,14.8,90.15,2024-01-27
+68,Pull,4.5,,2025-04-18
+20,Pantalon,,,13/07/2023
+27,Lunettes de soleil,,,2024-12-31
+26,Pull,,,invalid_date
+84,Pull,,,2023-07-11
+5,Chemise,3.8,11.41,invalid_date
+60,Cravate,,29.93,11/11/2024
+95,Lunettes de soleil,,28.44,2025-03-19
+94,Cravate,,34.11,invalid_date
+9,Lunettes de soleil,13.7,81.73,2024-04-07
+78,Chemise,,45.67,invalid_date
+57,Cravate,19.5,,08/09/2024
+100,Cravate,,,2023-07-06
+62,Lunettes de soleil,16.1,,2024-08-07
+54,Robe,,67.47,2024-09-21
+37,Pull,15.3,,31/05/2024
+74,Robe,,81.35,invalid_date
+57,Chemise,,21.77,invalid_date
+43,Lunettes de soleil,9.3,,invalid_date
+39,Montre,9.4,,2023-12-31
+34,Pull,,55.73,invalid_date
+6,Lunettes de soleil,,15.2,2024-01-22
+66,Lunettes de soleil,6.3,33.87,10/08/2024
+100,Cravate,,63.54,2024-09-17
+24,Pantalon,,12.9,invalid_date
+58,Pantalon,1.1,,01/08/2024
+80,Robe,8.3,91.42,2024-06-10
+62,Lunettes de soleil,,51.36,invalid_date
+95,Pantalon,9.1,,2024-06-11
+97,Cravate,,,invalid_date
+53,Pantalon,13.1,,2025-04-07
+41,Cravate,,,invalid_date
+92,Lunettes de soleil,1.0,,invalid_date
+1,Chemise,,,2023-05-23
+67,Chemise,3.0,,17/05/2024
+60,Pantalon,19.3,92.01,29/01/2025
+96,Pantalon,12.4,,invalid_date
+93,Pull,,40.24,invalid_date
+95,Cravate,,57.9,invalid_date
+56,Montre,2.5,,invalid_date
+19,Cravate,,11.55,invalid_date
+55,Pantalon,3.9,28.68,2024-02-17
+98,Cravate,,24.69,2025-02-06
+73,Robe,1.8,94.93,30/05/2023
+87,Pantalon,,,25/10/2023
+20,Montre,5.8,44.98,2024-11-07
+89,Chaussures,18.2,74.87,2023-12-05
+50,Pull,,38.62,2023-07-13
+15,Pantalon,11.5,84.83,invalid_date
+11,Pantalon,13.7,87.71,invalid_date
+79,Cravate,4.7,,invalid_date
+93,Chaussures,2.1,,invalid_date
+44,Lunettes de soleil,11.5,,invalid_date
+14,Lunettes de soleil,17.3,,2024-03-24
+45,Chaussures,2.7,77.91,11/09/2024
+1,Pantalon,,79.84,26/02/2025
+33,Lunettes de soleil,17.0,,2023-10-05
+33,Chemise,16.3,,27/02/2025
+36,Pull,,,invalid_date
+5,Lunettes de soleil,,,28/05/2024
+77,Cravate,,61.43,24/05/2024
+34,Chaussures,,17.04,invalid_date
+80,Chemise,,,04/09/2023
+23,Pull,,,invalid_date
+11,Pull,4.7,,13/05/2024
+18,Lunettes de soleil,,,invalid_date
+41,Chemise,,,16/04/2025
+11,Pantalon,,,15/05/2024
+2,Cravate,6.9,,invalid_date
+77,Lunettes de soleil,10.2,,11/05/2025
+21,Montre,,14.03,04/07/2023
+64,Chaussures,4.9,,2025-02-28
+26,Pull,,84.8,invalid_date
+42,Robe,12.4,50.74,29/10/2024
+8,Pull,15.7,66.33,26/07/2024
+26,Pantalon,4.6,,05/06/2023
+3,Pull,12.6,35.93,2023-10-30
+20,Chaussures,14.8,10.6,2024-11-04
+75,Robe,18.4,,invalid_date
+83,Pantalon,6.3,,invalid_date
+29,Robe,14.2,,12/07/2023
+76,Chaussures,,14.06,2023-09-14
+15,Lunettes de soleil,18.7,30.53,15/06/2023
+80,Pantalon,10.5,,2024-02-09
+40,Chaussures,,,2024-09-19
+87,Pull,,,27/09/2023
+17,Lunettes de soleil,,55.2,2024-08-07
+96,Montre,16.7,,invalid_date
+24,Chaussures,13.1,39.42,20/08/2023
+68,Chaussures,,14.15,18/01/2025
+44,Pull,5.4,,2024-12-25
+1,Robe,,,invalid_date
+6,Chaussures,,,2024-01-21
+93,Chaussures,,38.21,invalid_date
+28,Lunettes de soleil,11.6,19.25,28/07/2023
+17,Pantalon,13.5,,invalid_date
+11,Robe,,29.79,2023-11-22
+50,Pantalon,,,24/02/2025
+46,Montre,6.9,,2024-01-12
+16,Pull,5.3,,2024-07-02
+80,Lunettes de soleil,,12.56,2023-10-04
+96,Cravate,,,invalid_date
+77,Montre,,,invalid_date
+9,Pantalon,,56.06,invalid_date
+17,Pantalon,8.0,,2023-08-01
+59,Lunettes de soleil,19.6,,10/06/2023
+75,Chemise,19.1,29.29,2025-01-31
+24,Cravate,,33.76,13/06/2024
+2,Robe,9.6,98.25,16/10/2023
+72,Montre,,,08/05/2025
+1,Montre,,,10/12/2024
+2,Chemise,,43.99,2025-03-30
+71,Chaussures,3.3,80.87,2024-01-18
+75,Cravate,,87.87,10/09/2023
+72,Robe,15.5,48.4,invalid_date
+27,Cravate,,,invalid_date
+76,Lunettes de soleil,11.8,,invalid_date
+51,Chemise,,98.97,2024-10-28
+26,Robe,,,invalid_date
+94,Robe,12.0,,12/05/2024
+45,Pantalon,,26.32,26/11/2024
+96,Cravate,9.9,52.65,30/06/2024
+72,Cravate,,66.33,2023-08-19
+89,Lunettes de soleil,,,invalid_date
+34,Chaussures,2.4,54.97,2023-06-25
+27,Lunettes de soleil,,,2025-03-10
+63,Lunettes de soleil,,,invalid_date
+27,Pull,,,2024-02-04
+63,Robe,20.0,62.63,invalid_date
+4,Robe,,86.95,2023-08-10
+78,Chemise,,86.46,14/10/2024
+4,Chemise,2.8,30.15,19/01/2024
+40,Chemise,6.8,,12/08/2024
+64,Chaussures,,99.35,2024-12-31
+1,Lunettes de soleil,,,13/04/2025
+91,Chemise,6.9,,2023-10-31
+68,Chemise,,51.56,18/10/2023
+58,Chaussures,,20.64,2023-12-30
+59,Chaussures,9.2,70.72,24/01/2024
+66,Lunettes de soleil,,,28/04/2024
+80,Montre,,,invalid_date
+26,Chaussures,,52.02,2023-12-19
+88,Pull,6.9,,invalid_date
+64,Cravate,12.9,,2023-08-18
+76,Lunettes de soleil,,,2024-09-16
+5,Pull,,,invalid_date
+49,Montre,,84.63,16/07/2024
+36,Robe,17.8,25.14,2024-02-18
+63,Lunettes de soleil,,,invalid_date
+51,Robe,,,19/11/2024
+80,Robe,,97.52,28/12/2023
+46,Cravate,,,invalid_date
+5,Chaussures,,,2023-10-02
+77,Chemise,,,09/09/2024
+30,Robe,7.3,,09/02/2024
+71,Chemise,,,2024-07-14
+69,Cravate,,93.24,2023-06-30
+93,Pantalon,,37.26,invalid_date
+36,Chemise,,,2025-04-22
+46,Chemise,,,2023-06-30
+41,Pantalon,1.9,46.69,invalid_date
+58,Lunettes de soleil,,,17/04/2024
+83,Lunettes de soleil,,87.74,2024-03-21
+28,Chaussures,18.2,,27/08/2024
+15,Pull,12.3,,2025-04-13
+7,Pantalon,,,invalid_date
+15,Pull,,,invalid_date
+60,Montre,,28.2,2024-05-02
+3,Lunettes de soleil,,,19/01/2024
+84,Pull,,57.53,14/02/2025
+3,Pull,13.7,46.89,25/11/2024
+4,Lunettes de soleil,,,2024-12-31
+62,Pantalon,13.1,94.73,2025-02-08
+93,Lunettes de soleil,18.5,61.3,2023-07-22
+63,Montre,,96.4,invalid_date
+95,Cravate,18.3,,2024-05-17
+43,Chemise,10.3,,invalid_date
+47,Pantalon,,,2025-02-11
+59,Cravate,,,invalid_date
+26,Chemise,,,05/08/2023
+85,Robe,14.1,,invalid_date
+17,Montre,4.5,65.29,2024-11-03
+58,Cravate,,,2024-11-23
+95,Pantalon,,,21/05/2024
+35,Chemise,,99.69,2023-11-17
+26,Chaussures,19.5,,20/03/2025
+1,Pull,3.9,,2025-04-16
+27,Chemise,,44.3,2023-12-08
+77,Chaussures,,,21/03/2024
+34,Chemise,19.6,49.62,15/11/2024
+36,Chemise,,28.76,2025-05-03
+16,Chaussures,,,2024-02-02
+3,Robe,3.4,69.79,invalid_date
+5,Lunettes de soleil,18.7,82.7,08/05/2024
+68,Pantalon,15.9,61.0,14/06/2023
+39,Robe,14.5,,25/05/2024
+97,Montre,12.4,62.82,18/02/2024
+92,Pull,,31.3,14/05/2024
+11,Chaussures,10.2,78.82,01/10/2023
+36,Chaussures,12.2,55.4,07/01/2025
+47,Montre,14.0,,invalid_date
+6,Cravate,2.0,,28/08/2023
+34,Montre,,,invalid_date
+71,Robe,12.1,,invalid_date
+4,Chaussures,,,2024-11-26
+31,Pull,,,30/01/2024
+46,Cravate,,55.75,2024-07-26
+65,Chaussures,,,26/01/2025
+58,Montre,,34.44,08/07/2024
+37,Pantalon,,,invalid_date
+76,Cravate,,65.41,07/04/2024
+8,Robe,,,invalid_date
+40,Lunettes de soleil,,92.98,20/07/2024
+55,Chaussures,,,2023-09-22
+20,Pull,7.9,40.92,2024-03-15
+100,Montre,,66.17,30/10/2023
+39,Pantalon,15.9,,11/11/2024
+47,Cravate,,83.53,invalid_date
+81,Cravate,,91.58,2025-01-20
+44,Robe,,,22/01/2025
+46,Pull,,93.13,2024-02-11
+55,Cravate,,,21/11/2023
+66,Chemise,,,invalid_date
+75,Pantalon,,78.32,21/07/2023
+26,Pantalon,,,invalid_date
+42,Chaussures,,62.48,09/08/2024
+72,Lunettes de soleil,17.9,,2025-03-01
+68,Pull,13.3,98.16,23/08/2024
+48,Cravate,12.3,19.72,2024-08-26
+6,Chaussures,8.7,12.97,invalid_date
+87,Cravate,,31.87,2023-08-05
+1,Cravate,,56.69,invalid_date
+69,Cravate,,,invalid_date
+13,Lunettes de soleil,,,2023-07-15
+95,Chemise,,56.13,2023-08-14
+38,Chaussures,,,27/08/2024
+20,Lunettes de soleil,6.8,33.19,invalid_date
+98,Chaussures,,,invalid_date
+84,Pull,,,03/10/2024
+79,Chaussures,,,08/07/2023
+50,Cravate,,,07/11/2023
+56,Lunettes de soleil,6.9,,2025-02-14
+20,Lunettes de soleil,16.1,,15/08/2024
+99,Lunettes de soleil,8.4,96.29,invalid_date
+69,Chaussures,17.0,31.87,09/02/2025
+50,Montre,3.6,30.39,2023-05-22
+63,Robe,,70.79,2023-09-12
+66,Lunettes de soleil,,,07/05/2024
+65,Cravate,,,invalid_date
+50,Pull,,,11/09/2024
+65,Lunettes de soleil,11.7,,03/05/2024
+9,Chaussures,,,invalid_date
+33,Robe,,92.39,02/04/2025
+5,Pull,,,2024-01-22
+33,Robe,4.4,36.27,invalid_date
+66,Lunettes de soleil,,,2025-04-30
+7,Cravate,7.2,,invalid_date
+85,Chemise,,43.67,2025-05-18
+29,Pull,,14.47,invalid_date
+34,Cravate,18.3,,30/07/2023
+53,Cravate,,70.45,28/05/2023
+17,Cravate,4.9,10.14,invalid_date
+65,Pantalon,,,2024-03-30
+17,Pantalon,,,invalid_date
+99,Lunettes de soleil,7.9,40.04,09/07/2023
+3,Chaussures,,18.61,20/04/2025
+28,Pull,18.2,14.03,invalid_date
+62,Montre,,21.12,18/11/2024
+10,Chemise,12.3,90.74,2024-07-29
+52,Montre,6.5,84.08,15/08/2023
+58,Cravate,19.4,13.94,2025-03-20
+79,Chaussures,9.4,81.99,15/06/2023
+55,Lunettes de soleil,7.7,25.8,21/04/2024
+12,Lunettes de soleil,,,2024-11-17
+33,Montre,,,2024-03-23
+7,Cravate,,77.27,24/11/2024
+93,Pull,3.1,,invalid_date
+88,Lunettes de soleil,11.4,48.36,24/04/2024
+60,Pantalon,15.7,17.49,02/11/2023
+59,Cravate,16.4,42.85,invalid_date
+30,Cravate,,,invalid_date
+75,Pull,,39.78,26/07/2024
+75,Robe,4.6,73.56,2024-03-15
+19,Robe,,,invalid_date
+88,Pull,15.0,22.84,10/04/2024
+9,Pantalon,,58.99,01/01/2024
+13,Chemise,12.5,,invalid_date
+32,Cravate,19.6,78.76,03/09/2023
+62,Pull,14.3,51.89,2023-05-31
+74,Robe,,,2024-10-06
+82,Chaussures,,,02/12/2024
+8,Pantalon,,73.34,invalid_date
+88,Cravate,,,25/04/2024
+68,Pantalon,,,invalid_date
+13,Montre,19.1,97.11,2023-09-05
+98,Pantalon,,74.9,09/04/2024
+78,Cravate,5.7,53.93,10/05/2024
+37,Montre,,75.04,23/01/2025
+45,Robe,,,invalid_date
+26,Pull,,,16/04/2024
+1,Robe,8.4,,08/10/2023
+19,Chaussures,9.6,46.96,invalid_date
+85,Lunettes de soleil,16.0,,invalid_date
+3,Pantalon,1.5,49.24,invalid_date
+84,Pantalon,12.2,83.31,invalid_date
+60,Chemise,1.9,,invalid_date
+52,Chaussures,,,02/09/2024
+63,Montre,15.9,,2023-05-27
+90,Lunettes de soleil,10.6,,09/03/2025
+83,Lunettes de soleil,6.8,,2024-12-09
+82,Pull,,45.13,invalid_date
+22,Chaussures,1.7,,05/04/2024
+31,Montre,16.1,41.65,19/07/2024
+46,Pantalon,,,invalid_date
+61,Cravate,7.9,59.59,20/06/2023
+94,Montre,,,31/05/2024
+58,Cravate,,,2024-11-19
+69,Cravate,,77.66,14/08/2024
+19,Chemise,17.0,,08/11/2024
+55,Pantalon,,20.07,invalid_date
+34,,18.0,20.0,2022-01-13
+1,Montre,,,10/12/2024
+27,Pull,,97.75,invalid_date
+61,Cravate,,15.83,2024-12-30
+91,Cravate,,,06/02/2024
+29,Chaussures,,74.72,11/02/2025
+61,Chaussures,,17.07,05/11/2024
+89,Lunettes de soleil,,,invalid_date
+64,Lunettes de soleil,6.7,19.36,invalid_date
+42,Pantalon,,21.99,2023-05-28
+9,Montre,,,2023-08-04
+78,Pantalon,3.8,67.0,2024-07-11
+41,Chaussures,,71.77,17/04/2025
+40,Pull,9.7,,27/02/2025
+27,Cravate,,,invalid_date
+88,Montre,2.3,18.39,invalid_date
+68,Pull,,,invalid_date
+26,Pull,,22.89,2023-08-09
+28,Pull,,,2023-07-02
+58,Lunettes de soleil,,,08/08/2024
+41,Cravate,2.4,72.58,19/08/2023
+81,Montre,,38.25,invalid_date
+30,Montre,15.9,,13/12/2023
+52,Robe,13.6,97.4,2024-06-20
+84,Robe,,,2023-09-14
+89,Pull,,,invalid_date
+100,Chaussures,16.0,34.95,2024-08-11
+64,Cravate,,27.59,2025-05-04
+23,Lunettes de soleil,10.5,,2024-03-22
+96,Pull,18.7,,03/07/2024
+34,Cravate,12.7,,2024-07-31
+45,Pull,,,2023-12-03
+44,Lunettes de soleil,5.8,,23/02/2024
+8,Pantalon,,98.44,invalid_date
+69,Pantalon,,,17/10/2023
+62,Robe,18.0,29.63,invalid_date
+73,Montre,18.0,72.39,2023-09-14
+24,Cravate,,88.45,26/05/2023
+13,Pantalon,,,invalid_date
+32,Pantalon,,,invalid_date
+87,Lunettes de soleil,9.4,95.29,06/09/2023
+41,Chaussures,,,invalid_date
+23,Cravate,6.0,73.0,2023-11-13
+66,Pull,20.0,,2022-
+8,Chemise,16.7,,2025-03-21
+68,Lunettes de soleil,,11.53,20/03/2025
+52,Robe,9.6,98.13,2024-01-15
+79,Lunettes de soleil,4.2,80.64,2023-10-23
+34,Pull,,,11/03/2024
+94,Robe,10.4,,invalid_date
+75,Pantalon,,78.32,21/07/2023
+67,Montre,,89.43,invalid_date
+24,Montre,25.0,55.0,2022-01-15
+24,Pull,,,06/08/2024
+88,Montre,12.0,59.81,2024-05-24
+2,Cravate,6.9,,invalid_date
+57,Lunettes de soleil,,,29/08/2023
+31,Montre,,49.18,invalid_date
+83,Chaussures,2.3,,invalid_date
+65,Lunettes de soleil,16.5,14.02,23/02/2025
+5,Pull,10.5,,2025-01-03
+89,Chaussures,,,2023-09-13
+61,Pull,,,2025-05-10
+73,Chemise,,,2023-07-13
+47,Lunettes de soleil,10.7,,2023-11-29
+18,Lunettes de soleil,4.8,16.06,2025-04-18
+8,Pantalon,,,2025-02-06
+5,Chemise,,47.33,20/07/2023
+34,Lunettes de soleil,,51.15,2023-06-26
+39,Chemise,,,15/03/2024
+33,Lunettes de soleil,,84.09,12/12/2023
+41,Robe,10.6,42.23,invalid_date
+91,Pantalon,,,2024-10-20
+13,Chaussures,2.9,69.45,09/08/2023
+76,Pantalon,,23.93,26/06/2024
+44,Pantalon,10.0,,2025-02-26
+59,Pantalon,10.9,,23/09/2023
+28,Chaussures,18.2,,27/08/2024
+27,Lunettes de soleil,13.3,77.22,2024-12-19
+17,Cravate,2.3,62.77,07/08/2024
+50,Pantalon,15.1,,invalid_date
+16,Pantalon,9.2,,2023-08-22
+25,Robe,,,invalid_date
+48,Pull,,79.44,2023-11-18
+74,Robe,,,2024-10-06
+90,Montre,,13.45,10/12/2023
+14,Pantalon,,,02/06/2023
+75,Lunettes de soleil,,42.58,invalid_date
+27,Montre,6.3,,2024-05-20
+34,Chaussures,16.8,,25/08/2023
+45,Robe,16.0,93.14,invalid_date
+4,Pantalon,,73.82,2024-12-15
+29,Pantalon,,,06/12/2023
+69,Chaussures,17.0,31.87,09/02/2025
+91,Montre,18.6,,13/01/2025
+81,Chemise,,,invalid_date
+18,Montre,,60.14,2025-03-24
+13,Chaussures,2.6,,invalid_date
+92,Chaussures,10.4,22.59,invalid_date
+12,Chemise,2.1,63.04,2023-11-16
+65,Montre,9.3,,invalid_date
+34,Cravate,3.7,,2023-06-03
+97,Chaussures,,,2023-08-05
+28,Montre,8.2,,10/06/2023
+21,Montre,,48.7,05/04/2024
+94,Cravate,,81.32,31/07/2024
+16,Montre,2.0,52.5,invalid_date
+83,Lunettes de soleil,,87.74,2024-03-21
+90,Chemise,,15.75,2024-11-20
+36,Chaussures,11.9,,2024-03-13
+20,Chaussures,,47.39,18/01/2024
+98,Chaussures,10.6,,invalid_date
+98,Chemise,8.1,17.59,2024-05-01
+21,Chemise,15.1,,2024-02-02
+4,Chemise,,73.97,invalid_date
+94,Robe,4.6,,invalid_date
+52,Cravate,18.2,20.89,2023-12-22
+56,Chaussures,,53.87,invalid_date
+30,Cravate,,66.38,invalid_date
+43,Pull,7.9,,2024-01-22
+31,Chemise,19.5,,07/11/2024
+46,Chemise,13.9,,2024-01-22
+30,Pull,20.0,,2022-01-10
+81,Chemise,3.4,,invalid_date
+3,Pull,12.6,35.93,2023-10-30
+42,Montre,,,invalid_date
+95,Pantalon,,73.74,27/07/2024
+97,Chaussures,12.8,,invalid_date
+45,Lunettes de soleil,7.2,59.09,18/08/2023
+6,Pull,,74.14,2025-04-16
+37,Cravate,12.8,,invalid_date
+19,Cravate,4.2,,24/06/2024
+68,Pull,,,2025-02-23
+60,Pantalon,,33.71,15/08/2023
+75,Pantalon,10.1,,2024-04-23
+68,Montre,,,14/12/2024
+77,Chemise,,,invalid_date
+96,Pull,10.9,,2024-09-22
+77,Chaussures,1.8,63.95,invalid_date
+30,Pantalon,7.0,79.84,2024-12-30
+62,Pull,12.1,,06/11/2024
+27,Lunettes de soleil,,,2024-12-31
+56,Cravate,18.2,,26/03/2025
+27,Pull,,89.34,invalid_date
+92,Lunettes de soleil,3.0,,2023-12-08
+81,Pull,7.9,86.23,invalid_date
+89,Montre,,18.97,2024-02-16
+69,Cravate,,,invalid_date
+61,Cravate,,,05/05/2025
+37,Montre,,26.59,21/09/2023
+96,Chemise,,28.95,2024-08-30
+91,Robe,6.8,,invalid_date
+96,Robe,,,invalid_date
+20,Robe,1.2,,invalid_date
+10,Cravate,,,17/10/2023
+82,Chaussures,,17.11,2025-04-13
+77,Chemise,,81.56,20/09/2024
+80,Lunettes de soleil,,,13/12/2023
+74,Pull,8.1,29.64,invalid_date
+42,Montre,19.7,,invalid_date
+58,Cravate,,,invalid_date
+31,Robe,,60.58,invalid_date
+62,Pantalon,,51.56,2025-01-19
+61,Robe,18.0,,22/06/2023
+38,Cravate,1.8,,23/10/2024
+57,Pantalon,9.1,18.03,2025-02-04
+43,Chaussures,12.9,65.95,2023-10-26
+1,Pull,4.8,64.63,01/07/2024
+10,Pantalon,5.9,96.13,23/09/2024
+87,Montre,19.8,,21/09/2023
+18,Pull,,,2024-01-04
+97,Lunettes de soleil,,,invalid_date
+1,Pull,3.9,,2025-04-16
+93,Pull,15.8,89.5,2023-12-02
+63,Robe,20.0,62.63,invalid_date
+58,Lunettes de soleil,,73.01,invalid_date
+24,Robe,1.2,69.37,2024-05-27
+28,Montre,10.0,,2024-10-21
+68,Pull,4.5,,2025-04-18
+66,Lunettes de soleil,,32.8,21/01/2024
+3,Montre,,,28/06/2024
+27,Montre,,,26/06/2024
+57,Pull,5.2,73.56,16/01/2025
+43,Chaussures,15.9,,03/02/2024
+13,Montre,19.1,97.11,2023-09-05
+1,Chemise,,,invalid_date
+54,Pull,5.7,,17/02/2025
+37,Cravate,,91.65,25/08/2024
+27,Chemise,16.1,42.53,2025-02-07
+64,Pantalon,,37.11,22/02/2024
+13,Chemise,,75.27,2025-02-14
+62,Cravate,8.8,,2024-06-20
+12,Lunettes de soleil,17.7,,2023-08-21
+92,Robe,,,03/09/2024
+13,Pull,17.6,,invalid_date
+44,Cravate,11.8,88.63,2023-06-22
+45,Montre,11.1,89.01,10/01/2025
+72,Pull,,87.2,invalid_date
+95,Pull,16.4,,invalid_date
+78,Cravate,5.7,53.93,10/05/2024
