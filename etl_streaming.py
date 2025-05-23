@@ -101,7 +101,7 @@ output_path = "C:\Users\medaz\OneDrive\Desktop\TP-Conception-pip\donnees_streami
 
 query = df_clean.writeStream \
     .outputMode("append") \
-    .format("parquet") \
+    .format("csv") \
     .option("checkpointLocation", "chemin/vers/checkpoint") \
     .option("path", output_path) \
     .partitionBy("Annee_vente", "Mois_vente") \
